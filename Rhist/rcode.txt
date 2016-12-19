@@ -1,0 +1,6 @@
+
+barplot(as.matrix(a), col=c("cadetblue4","cadetblue3", "cadetblue2"), beside = TRUE)
+legend(6.0, 0.95, c("Tcoffee","Clustalw","Muscle"), cex=0.8,  bty="n", fill = c("cadetblue4","cadetblue3", "cadetblue2"), horiz = TRUE);
+**********************************************
+curve(dnorm(x, mean=mean(RV11$tcoffeeTC), sd=sd(RV11$tcoffeeTC)), add=TRUE, col="darkblue", lwd=2) 
+lines(density(RV11$clustalwSP), col="blue")

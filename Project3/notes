@@ -1,0 +1,26 @@
+steps to run project files
+===========================
+
+1- Download the "Project3.zip" to your PC.
+2- Extract the zip file to Desktop and see "Project3" folder.
+3- Open the Terminal and go to Project3 folder. (like "cd Desktop/Project3/")
+4- Run the "create_msf_file.sh" file. (sh create_msf_file.sh). This sh file creates msf files in clustalw, muscle and tcoffee folder.  
+5- Go to bali_score_src folder. (cd bali_score_src/) 
+6- Run the "testBali.sh" file. (sh testBali.sh). This sh file creates bali_score file in clustalw, muscle and tcoffee folder. This script run 
+"bali_score" file at the background.
+7- Get the results on Terminal   	
+
+sample terminal codes
+=====================
+
+t_coffee /home/aslihan/Documents/Project3/bb3_release/RV11/BB11005.tfa -output=clustalw,msf
+
+clustalw -infile=/home/aslihan/Documents/Project3/bb3_release/RV11/BB11005.tfa -output=gcg
+
+muscle -in /home/aslihan/Documents/Project3/bb3_release/RV11/BB11005.tfa -out /home/aslihan/Documents/Project3/muscle/RV11/BB11005.msf -msf
+
+
+./bali_score /home/aslihan/Desktop/Project3/bb3_release/RV11/BB11001.msf /home/aslihan/Desktop/Project3/tcoffee/RV11/BB11001.msf
+
+
+

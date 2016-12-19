@@ -1,0 +1,3474 @@
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BB11001.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11001.msf
+
+	SP score= 0.862
+
+	TC score= 0.770
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BB11001.msf 0.862 0.770
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BB11002.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11002.msf
+
+	SP score= 0.537
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BB11002.msf 0.537 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BB11003.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11003.msf
+
+	SP score= 0.612
+
+	TC score= 0.430
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BB11003.msf 0.612 0.430
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BB11004.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11004.msf
+
+	SP score= 0.625
+
+	TC score= 0.450
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BB11004.msf 0.625 0.450
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BB11005.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11005.msf
+
+	SP score= 0.491
+
+	TC score= 0.140
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BB11005.msf 0.491 0.140
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BB11006.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11006.msf
+
+	SP score= 0.409
+
+	TC score= 0.180
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BB11006.msf 0.409 0.180
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BB11007.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11007.msf
+
+	SP score= 0.677
+
+	TC score= 0.420
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BB11007.msf 0.677 0.420
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BB11008.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11008.msf
+
+	SP score= 0.541
+
+	TC score= 0.430
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BB11008.msf 0.541 0.430
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BB11009.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11009.msf
+
+	SP score= 0.265
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BB11009.msf 0.265 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BB11010.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11010.msf
+
+	SP score= 0.354
+
+	TC score= 0.170
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BB11010.msf 0.354 0.170
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BB11011.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11011.msf
+
+	SP score= 0.264
+
+	TC score= 0.160
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BB11011.msf 0.264 0.160
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BB11012.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11012.msf
+
+	SP score= 0.925
+
+	TC score= 0.880
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BB11012.msf 0.925 0.880
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BB11013.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11013.msf
+
+	SP score= 0.143
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BB11013.msf 0.143 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BB11014.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11014.msf
+
+	SP score= 0.798
+
+	TC score= 0.660
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BB11014.msf 0.798 0.660
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BB11015.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11015.msf
+
+	SP score= 0.677
+
+	TC score= 0.480
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BB11015.msf 0.677 0.480
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BB11016.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11016.msf
+
+	SP score= 0.496
+
+	TC score= 0.090
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BB11016.msf 0.496 0.090
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BB11017.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11017.msf
+
+	SP score= 0.790
+
+	TC score= 0.700
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BB11017.msf 0.790 0.700
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BB11018.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11018.msf
+
+	SP score= 0.674
+
+	TC score= 0.330
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BB11018.msf 0.674 0.330
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BB11019.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11019.msf
+
+	SP score= 0.687
+
+	TC score= 0.210
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BB11019.msf 0.687 0.210
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BB11020.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11020.msf
+
+	SP score= 0.693
+
+	TC score= 0.320
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BB11020.msf 0.693 0.320
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BB11021.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11021.msf
+
+	SP score= 0.694
+
+	TC score= 0.530
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BB11021.msf 0.694 0.530
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BB11022.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11022.msf
+
+	SP score= 0.082
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BB11022.msf 0.082 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BB11023.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11023.msf
+
+	SP score= 0.508
+
+	TC score= 0.250
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BB11023.msf 0.508 0.250
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BB11024.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11024.msf
+
+	SP score= 0.474
+
+	TC score= 0.220
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BB11024.msf 0.474 0.220
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BB11025.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11025.msf
+
+	SP score= 0.173
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BB11025.msf 0.173 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BB11026.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11026.msf
+
+	SP score= 0.225
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BB11026.msf 0.225 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BB11027.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11027.msf
+
+	SP score= 0.433
+
+	TC score= 0.150
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BB11027.msf 0.433 0.150
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BB11028.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11028.msf
+
+	SP score= 0.563
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BB11028.msf 0.563 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BB11029.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11029.msf
+
+	SP score= 0.505
+
+	TC score= 0.430
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BB11029.msf 0.505 0.430
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BB11030.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11030.msf
+
+	SP score= 0.629
+
+	TC score= 0.210
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BB11030.msf 0.629 0.210
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BB11031.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11031.msf
+
+	SP score= 0.582
+
+	TC score= 0.200
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BB11031.msf 0.582 0.200
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BB11032.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11032.msf
+
+	SP score= 0.728
+
+	TC score= 0.410
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BB11032.msf 0.728 0.410
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BB11033.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11033.msf
+
+	SP score= 0.467
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BB11033.msf 0.467 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BB11034.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11034.msf
+
+	SP score= 0.512
+
+	TC score= 0.110
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BB11034.msf 0.512 0.110
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BB11035.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11035.msf
+
+	SP score= 0.508
+
+	TC score= 0.340
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BB11035.msf 0.508 0.340
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BB11036.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11036.msf
+
+	SP score= 0.575
+
+	TC score= 0.240
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BB11036.msf 0.575 0.240
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BB11037.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11037.msf
+
+	SP score= 0.513
+
+	TC score= 0.300
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BB11037.msf 0.513 0.300
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BB11038.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11038.msf
+
+	SP score= 0.809
+
+	TC score= 0.610
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BB11038.msf 0.809 0.610
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11001.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11001.msf
+
+	SP score= 0.934
+
+	TC score= 0.890
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11001.msf 0.934 0.890
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11002.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11002.msf
+
+	SP score= 0.828
+
+	TC score= 0.480
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11002.msf 0.828 0.480
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11003.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11003.msf
+
+	SP score= 0.723
+
+	TC score= 0.540
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11003.msf 0.723 0.540
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11004.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11004.msf
+
+	SP score= 0.645
+
+	TC score= 0.480
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11004.msf 0.645 0.480
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11005.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11005.msf
+
+	SP score= 0.518
+
+	TC score= 0.170
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11005.msf 0.518 0.170
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11006.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11006.msf
+
+	SP score= 0.526
+
+	TC score= 0.220
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11006.msf 0.526 0.220
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11007.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11007.msf
+
+	SP score= 0.751
+
+	TC score= 0.530
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11007.msf 0.751 0.530
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11008.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11008.msf
+
+	SP score= 0.676
+
+	TC score= 0.550
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11008.msf 0.676 0.550
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11009.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11009.msf
+
+	SP score= 0.831
+
+	TC score= 0.740
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11009.msf 0.831 0.740
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11010.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11010.msf
+
+	SP score= 0.607
+
+	TC score= 0.450
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11010.msf 0.607 0.450
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11011.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11011.msf
+
+	SP score= 0.450
+
+	TC score= 0.310
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11011.msf 0.450 0.310
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11012.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11012.msf
+
+	SP score= 0.925
+
+	TC score= 0.880
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11012.msf 0.925 0.880
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11013.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11013.msf
+
+	SP score= 0.643
+
+	TC score= 0.570
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11013.msf 0.643 0.570
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11014.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11014.msf
+
+	SP score= 0.813
+
+	TC score= 0.680
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11014.msf 0.813 0.680
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11015.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11015.msf
+
+	SP score= 0.744
+
+	TC score= 0.600
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11015.msf 0.744 0.600
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11016.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11016.msf
+
+	SP score= 0.623
+
+	TC score= 0.360
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11016.msf 0.623 0.360
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11017.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11017.msf
+
+	SP score= 0.800
+
+	TC score= 0.720
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11017.msf 0.800 0.720
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11018.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11018.msf
+
+	SP score= 0.666
+
+	TC score= 0.360
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11018.msf 0.666 0.360
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11019.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11019.msf
+
+	SP score= 0.705
+
+	TC score= 0.230
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11019.msf 0.705 0.230
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11020.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11020.msf
+
+	SP score= 0.748
+
+	TC score= 0.380
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11020.msf 0.748 0.380
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11021.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11021.msf
+
+	SP score= 0.796
+
+	TC score= 0.630
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11021.msf 0.796 0.630
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11022.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11022.msf
+
+	SP score= 0.640
+
+	TC score= 0.420
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11022.msf 0.640 0.420
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11023.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11023.msf
+
+	SP score= 0.560
+
+	TC score= 0.320
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11023.msf 0.560 0.320
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11024.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11024.msf
+
+	SP score= 0.499
+
+	TC score= 0.240
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11024.msf 0.499 0.240
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11025.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11025.msf
+
+	SP score= 0.533
+
+	TC score= 0.370
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11025.msf 0.533 0.370
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11026.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11026.msf
+
+	SP score= 0.466
+
+	TC score= 0.130
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11026.msf 0.466 0.130
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11027.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11027.msf
+
+	SP score= 0.493
+
+	TC score= 0.200
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11027.msf 0.493 0.200
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11028.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11028.msf
+
+	SP score= 0.804
+
+	TC score= 0.660
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11028.msf 0.804 0.660
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11029.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11029.msf
+
+	SP score= 0.583
+
+	TC score= 0.510
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11029.msf 0.583 0.510
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11030.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11030.msf
+
+	SP score= 0.767
+
+	TC score= 0.390
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11030.msf 0.767 0.390
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11031.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11031.msf
+
+	SP score= 0.657
+
+	TC score= 0.300
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11031.msf 0.657 0.300
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11032.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11032.msf
+
+	SP score= 0.776
+
+	TC score= 0.460
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11032.msf 0.776 0.460
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11033.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11033.msf
+
+	SP score= 0.641
+
+	TC score= 0.100
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11033.msf 0.641 0.100
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11034.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11034.msf
+
+	SP score= 0.653
+
+	TC score= 0.270
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11034.msf 0.653 0.270
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11035.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11035.msf
+
+	SP score= 0.592
+
+	TC score= 0.450
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11035.msf 0.592 0.450
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11036.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11036.msf
+
+	SP score= 0.651
+
+	TC score= 0.290
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11036.msf 0.651 0.290
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11037.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11037.msf
+
+	SP score= 0.523
+
+	TC score= 0.270
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11037.msf 0.523 0.270
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11038.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11038.msf
+
+	SP score= 0.853
+
+	TC score= 0.650
+auto /home/ugur/Desktop/Project3/tcoffee/RV11/BBS11038.msf 0.853 0.650
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BB12001.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12001.msf
+
+	SP score= 0.857
+
+	TC score= 0.660
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BB12001.msf 0.857 0.660
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BB12002.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12002.msf
+
+	SP score= 0.879
+
+	TC score= 0.690
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BB12002.msf 0.879 0.690
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BB12003.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12003.msf
+
+	SP score= 0.966
+
+	TC score= 0.920
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BB12003.msf 0.966 0.920
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BB12004.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12004.msf
+
+	SP score= 0.946
+
+	TC score= 0.790
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BB12004.msf 0.946 0.790
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BB12005.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12005.msf
+
+	SP score= 0.892
+
+	TC score= 0.650
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BB12005.msf 0.892 0.650
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BB12006.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12006.msf
+
+	SP score= 0.927
+
+	TC score= 0.890
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BB12006.msf 0.927 0.890
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BB12007.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12007.msf
+
+	SP score= 0.872
+
+	TC score= 0.740
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BB12007.msf 0.872 0.740
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BB12008.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12008.msf
+
+	SP score= 0.929
+
+	TC score= 0.740
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BB12008.msf 0.929 0.740
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BB12009.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12009.msf
+
+	SP score= 0.835
+
+	TC score= 0.600
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BB12009.msf 0.835 0.600
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BB12010.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12010.msf
+
+	SP score= 0.907
+
+	TC score= 0.750
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BB12010.msf 0.907 0.750
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BB12011.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12011.msf
+
+	SP score= 0.781
+
+	TC score= 0.450
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BB12011.msf 0.781 0.450
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BB12012.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12012.msf
+
+	SP score= 0.584
+
+	TC score= 0.470
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BB12012.msf 0.584 0.470
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BB12013.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12013.msf
+
+	SP score= 0.944
+
+	TC score= 0.850
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BB12013.msf 0.944 0.850
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BB12014.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12014.msf
+
+	SP score= 1.000
+
+	TC score= 1.000
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BB12014.msf 1.000 1.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BB12015.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12015.msf
+
+	SP score= 0.928
+
+	TC score= 0.840
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BB12015.msf 0.928 0.840
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BB12016.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12016.msf
+
+	SP score= 0.854
+
+	TC score= 0.670
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BB12016.msf 0.854 0.670
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BB12017.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12017.msf
+
+	SP score= 0.925
+
+	TC score= 0.810
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BB12017.msf 0.925 0.810
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BB12018.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12018.msf
+
+	SP score= 0.925
+
+	TC score= 0.870
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BB12018.msf 0.925 0.870
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BB12019.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12019.msf
+
+	SP score= 0.874
+
+	TC score= 0.760
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BB12019.msf 0.874 0.760
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BB12020.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12020.msf
+
+	SP score= 0.839
+
+	TC score= 0.720
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BB12020.msf 0.839 0.720
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BB12021.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12021.msf
+
+	SP score= 0.876
+
+	TC score= 0.770
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BB12021.msf 0.876 0.770
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BB12022.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12022.msf
+
+	SP score= 0.935
+
+	TC score= 0.880
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BB12022.msf 0.935 0.880
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BB12023.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12023.msf
+
+	SP score= 0.898
+
+	TC score= 0.810
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BB12023.msf 0.898 0.810
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BB12024.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12024.msf
+
+	SP score= 0.937
+
+	TC score= 0.880
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BB12024.msf 0.937 0.880
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BB12025.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12025.msf
+
+	SP score= 0.795
+
+	TC score= 0.670
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BB12025.msf 0.795 0.670
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BB12026.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12026.msf
+
+	SP score= 0.893
+
+	TC score= 0.640
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BB12026.msf 0.893 0.640
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BB12027.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12027.msf
+
+	SP score= 0.925
+
+	TC score= 0.740
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BB12027.msf 0.925 0.740
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BB12028.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12028.msf
+
+	SP score= 0.860
+
+	TC score= 0.700
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BB12028.msf 0.860 0.700
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BB12029.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12029.msf
+
+	SP score= 0.865
+
+	TC score= 0.920
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BB12029.msf 0.865 0.920
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BB12030.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12030.msf
+
+	SP score= 0.915
+
+	TC score= 0.820
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BB12030.msf 0.915 0.820
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BB12031.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12031.msf
+
+	SP score= 0.822
+
+	TC score= 0.650
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BB12031.msf 0.822 0.650
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BB12032.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12032.msf
+
+	SP score= 0.912
+
+	TC score= 0.650
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BB12032.msf 0.912 0.650
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BB12033.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12033.msf
+
+	SP score= 0.813
+
+	TC score= 0.700
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BB12033.msf 0.813 0.700
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BB12034.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12034.msf
+
+	SP score= 0.885
+
+	TC score= 0.790
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BB12034.msf 0.885 0.790
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BB12035.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12035.msf
+
+	SP score= 0.931
+
+	TC score= 0.660
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BB12035.msf 0.931 0.660
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BB12036.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12036.msf
+
+	SP score= 0.973
+
+	TC score= 0.930
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BB12036.msf 0.973 0.930
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BB12037.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12037.msf
+
+	SP score= 0.836
+
+	TC score= 0.570
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BB12037.msf 0.836 0.570
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BB12038.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12038.msf
+
+	SP score= 0.867
+
+	TC score= 0.600
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BB12038.msf 0.867 0.600
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BB12039.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12039.msf
+
+	SP score= 0.885
+
+	TC score= 0.700
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BB12039.msf 0.885 0.700
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BB12040.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12040.msf
+
+	SP score= 0.961
+
+	TC score= 0.940
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BB12040.msf 0.961 0.940
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BB12041.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12041.msf
+
+	SP score= 0.724
+
+	TC score= 0.480
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BB12041.msf 0.724 0.480
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BB12042.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12042.msf
+
+	SP score= 0.726
+
+	TC score= 0.580
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BB12042.msf 0.726 0.580
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BB12043.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12043.msf
+
+	SP score= 0.944
+
+	TC score= 0.580
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BB12043.msf 0.944 0.580
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BB12044.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12044.msf
+
+	SP score= 0.875
+
+	TC score= 0.700
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BB12044.msf 0.875 0.700
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12001.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12001.msf
+
+	SP score= 0.866
+
+	TC score= 0.670
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12001.msf 0.866 0.670
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12002.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12002.msf
+
+	SP score= 0.897
+
+	TC score= 0.710
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12002.msf 0.897 0.710
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12003.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12003.msf
+
+	SP score= 0.958
+
+	TC score= 0.920
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12003.msf 0.958 0.920
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12004.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12004.msf
+
+	SP score= 0.945
+
+	TC score= 0.770
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12004.msf 0.945 0.770
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12005.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12005.msf
+
+	SP score= 0.908
+
+	TC score= 0.720
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12005.msf 0.908 0.720
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12006.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12006.msf
+
+	SP score= 0.932
+
+	TC score= 0.900
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12006.msf 0.932 0.900
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12007.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12007.msf
+
+	SP score= 0.872
+
+	TC score= 0.740
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12007.msf 0.872 0.740
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12008.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12008.msf
+
+	SP score= 0.945
+
+	TC score= 0.770
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12008.msf 0.945 0.770
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12009.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12009.msf
+
+	SP score= 0.850
+
+	TC score= 0.630
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12009.msf 0.850 0.630
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12010.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12010.msf
+
+	SP score= 0.912
+
+	TC score= 0.760
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12010.msf 0.912 0.760
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12011.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12011.msf
+
+	SP score= 0.780
+
+	TC score= 0.460
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12011.msf 0.780 0.460
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12012.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12012.msf
+
+	SP score= 0.630
+
+	TC score= 0.480
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12012.msf 0.630 0.480
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12013.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12013.msf
+
+	SP score= 0.944
+
+	TC score= 0.850
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12013.msf 0.944 0.850
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12014.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12014.msf
+
+	SP score= 1.000
+
+	TC score= 1.000
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12014.msf 1.000 1.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12015.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12015.msf
+
+	SP score= 0.953
+
+	TC score= 0.910
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12015.msf 0.953 0.910
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12016.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12016.msf
+
+	SP score= 0.911
+
+	TC score= 0.820
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12016.msf 0.911 0.820
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12017.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12017.msf
+
+	SP score= 0.926
+
+	TC score= 0.810
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12017.msf 0.926 0.810
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12018.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12018.msf
+
+	SP score= 0.930
+
+	TC score= 0.860
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12018.msf 0.930 0.860
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12019.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12019.msf
+
+	SP score= 0.882
+
+	TC score= 0.770
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12019.msf 0.882 0.770
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12020.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12020.msf
+
+	SP score= 0.845
+
+	TC score= 0.730
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12020.msf 0.845 0.730
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12021.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12021.msf
+
+	SP score= 0.937
+
+	TC score= 0.850
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12021.msf 0.937 0.850
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12022.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12022.msf
+
+	SP score= 0.940
+
+	TC score= 0.890
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12022.msf 0.940 0.890
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12023.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12023.msf
+
+	SP score= 0.898
+
+	TC score= 0.810
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12023.msf 0.898 0.810
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12024.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12024.msf
+
+	SP score= 0.934
+
+	TC score= 0.870
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12024.msf 0.934 0.870
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12025.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12025.msf
+
+	SP score= 0.788
+
+	TC score= 0.680
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12025.msf 0.788 0.680
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12026.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12026.msf
+
+	SP score= 0.902
+
+	TC score= 0.660
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12026.msf 0.902 0.660
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12027.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12027.msf
+
+	SP score= 0.947
+
+	TC score= 0.810
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12027.msf 0.947 0.810
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12028.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12028.msf
+
+	SP score= 0.859
+
+	TC score= 0.700
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12028.msf 0.859 0.700
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12029.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12029.msf
+
+	SP score= 0.969
+
+	TC score= 0.910
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12029.msf 0.969 0.910
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12030.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12030.msf
+
+	SP score= 0.933
+
+	TC score= 0.850
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12030.msf 0.933 0.850
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12031.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12031.msf
+
+	SP score= 0.823
+
+	TC score= 0.650
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12031.msf 0.823 0.650
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12032.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12032.msf
+
+	SP score= 0.938
+
+	TC score= 0.750
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12032.msf 0.938 0.750
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12033.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12033.msf
+
+	SP score= 0.837
+
+	TC score= 0.730
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12033.msf 0.837 0.730
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12034.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12034.msf
+
+	SP score= 0.892
+
+	TC score= 0.800
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12034.msf 0.892 0.800
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12035.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12035.msf
+
+	SP score= 0.939
+
+	TC score= 0.690
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12035.msf 0.939 0.690
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12036.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12036.msf
+
+	SP score= 0.980
+
+	TC score= 0.950
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12036.msf 0.980 0.950
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12037.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12037.msf
+
+	SP score= 0.878
+
+	TC score= 0.650
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12037.msf 0.878 0.650
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12038.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12038.msf
+
+	SP score= 0.888
+
+	TC score= 0.630
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12038.msf 0.888 0.630
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12039.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12039.msf
+
+	SP score= 0.936
+
+	TC score= 0.780
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12039.msf 0.936 0.780
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12040.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12040.msf
+
+	SP score= 0.961
+
+	TC score= 0.940
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12040.msf 0.961 0.940
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12041.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12041.msf
+
+	SP score= 0.805
+
+	TC score= 0.520
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12041.msf 0.805 0.520
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12042.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12042.msf
+
+	SP score= 0.733
+
+	TC score= 0.590
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12042.msf 0.733 0.590
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12043.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12043.msf
+
+	SP score= 0.948
+
+	TC score= 0.610
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12043.msf 0.948 0.610
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12044.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12044.msf
+
+	SP score= 0.888
+
+	TC score= 0.710
+auto /home/ugur/Desktop/Project3/tcoffee/RV12/BBS12044.msf 0.888 0.710
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BB20001.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20001.msf
+
+	SP score= 0.542
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BB20001.msf 0.542 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BB20002.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20002.msf
+
+	SP score= 0.550
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BB20002.msf 0.550 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BB20003.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20003.msf
+
+	SP score= 0.950
+
+	TC score= 0.310
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BB20003.msf 0.950 0.310
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BB20004.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20004.msf
+
+	SP score= 0.898
+
+	TC score= 0.600
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BB20004.msf 0.898 0.600
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BB20005.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20005.msf
+
+	SP score= 0.765
+
+	TC score= 0.060
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BB20005.msf 0.765 0.060
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BB20006.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20006.msf
+
+	SP score= 0.958
+
+	TC score= 0.560
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BB20006.msf 0.958 0.560
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BB20007.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20007.msf
+
+	SP score= 0.785
+
+	TC score= 0.340
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BB20007.msf 0.785 0.340
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BB20008.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20008.msf
+
+	SP score= 0.761
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BB20008.msf 0.761 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BB20009.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20009.msf
+
+	SP score= 0.930
+
+	TC score= 0.600
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BB20009.msf 0.930 0.600
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BB20010.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20010.msf
+
+	SP score= 0.835
+
+	TC score= 0.280
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BB20010.msf 0.835 0.280
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BB20011.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20011.msf
+
+	SP score= 0.884
+
+	TC score= 0.520
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BB20011.msf 0.884 0.520
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BB20012.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20012.msf
+
+	SP score= 0.699
+
+	TC score= 0.200
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BB20012.msf 0.699 0.200
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BB20013.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20013.msf
+
+	SP score= 0.656
+
+	TC score= 0.270
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BB20013.msf 0.656 0.270
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BB20014.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20014.msf
+
+	SP score= 0.850
+
+	TC score= 0.190
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BB20014.msf 0.850 0.190
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BB20015.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20015.msf
+
+	SP score= 0.644
+
+	TC score= 0.040
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BB20015.msf 0.644 0.040
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BB20016.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20016.msf
+
+	SP score= 0.754
+
+	TC score= 0.020
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BB20016.msf 0.754 0.020
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BB20017.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20017.msf
+
+	SP score= 0.947
+
+	TC score= 0.530
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BB20017.msf 0.947 0.530
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BB20018.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20018.msf
+
+	SP score= 0.964
+
+	TC score= 0.670
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BB20018.msf 0.964 0.670
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BB20019.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20019.msf
+
+	SP score= 0.835
+
+	TC score= 0.110
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BB20019.msf 0.835 0.110
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BB20020.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20020.msf
+
+	SP score= 0.896
+
+	TC score= 0.650
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BB20020.msf 0.896 0.650
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BB20021.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20021.msf
+
+	SP score= 0.909
+
+	TC score= 0.250
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BB20021.msf 0.909 0.250
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BB20022.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20022.msf
+
+	SP score= 0.892
+
+	TC score= 0.320
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BB20022.msf 0.892 0.320
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BB20023.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20023.msf
+
+	SP score= 0.861
+
+	TC score= 0.300
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BB20023.msf 0.861 0.300
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BB20024.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20024.msf
+
+	SP score= 0.548
+
+	TC score= 0.490
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BB20024.msf 0.548 0.490
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BB20025.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20025.msf
+
+	SP score= 0.938
+
+	TC score= 0.400
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BB20025.msf 0.938 0.400
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BB20026.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20026.msf
+
+	SP score= 0.826
+
+	TC score= 0.310
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BB20026.msf 0.826 0.310
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BB20027.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20027.msf
+
+	SP score= 0.835
+
+	TC score= 0.470
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BB20027.msf 0.835 0.470
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BB20028.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20028.msf
+
+	SP score= 0.980
+
+	TC score= 0.700
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BB20028.msf 0.980 0.700
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BB20029.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20029.msf
+
+	SP score= 0.835
+
+	TC score= 0.040
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BB20029.msf 0.835 0.040
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BB20030.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20030.msf
+
+	SP score= 0.900
+
+	TC score= 0.120
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BB20030.msf 0.900 0.120
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BB20031.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20031.msf
+
+	SP score= 0.894
+
+	TC score= 0.120
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BB20031.msf 0.894 0.120
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BB20032.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20032.msf
+
+	SP score= 0.921
+
+	TC score= 0.180
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BB20032.msf 0.921 0.180
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BB20033.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20033.msf
+
+	SP score= 0.933
+
+	TC score= 0.270
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BB20033.msf 0.933 0.270
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BB20034.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20034.msf
+
+	SP score= 0.886
+
+	TC score= 0.170
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BB20034.msf 0.886 0.170
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BB20035.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20035.msf
+
+	SP score= 0.851
+
+	TC score= 0.160
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BB20035.msf 0.851 0.160
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BB20036.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20036.msf
+
+	SP score= 0.854
+
+	TC score= 0.040
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BB20036.msf 0.854 0.040
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BB20037.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20037.msf
+
+	SP score= 0.856
+
+	TC score= 0.040
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BB20037.msf 0.856 0.040
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BB20038.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20038.msf
+
+	SP score= 0.926
+
+	TC score= 0.250
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BB20038.msf 0.926 0.250
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BB20039.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20039.msf
+
+	SP score= 0.923
+
+	TC score= 0.100
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BB20039.msf 0.923 0.100
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BB20040.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20040.msf
+
+	SP score= 0.917
+
+	TC score= 0.720
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BB20040.msf 0.917 0.720
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BB20041.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20041.msf
+
+	SP score= 0.728
+
+	TC score= 0.370
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BB20041.msf 0.728 0.370
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20001.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20001.msf
+
+	SP score= 0.982
+
+	TC score= 0.940
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20001.msf 0.982 0.940
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20002.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20002.msf
+
+	SP score= 0.888
+
+	TC score= 0.400
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20002.msf 0.888 0.400
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20003.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20003.msf
+
+	SP score= 0.955
+
+	TC score= 0.290
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20003.msf 0.955 0.290
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20004.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20004.msf
+
+	SP score= 0.963
+
+	TC score= 0.610
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20004.msf 0.963 0.610
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20005.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20005.msf
+
+	SP score= 0.783
+
+	TC score= 0.110
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20005.msf 0.783 0.110
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20006.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20006.msf
+
+	SP score= 0.959
+
+	TC score= 0.540
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20006.msf 0.959 0.540
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20007.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20007.msf
+
+	SP score= 0.809
+
+	TC score= 0.330
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20007.msf 0.809 0.330
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20008.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20008.msf
+
+	SP score= 0.872
+
+	TC score= 0.280
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20008.msf 0.872 0.280
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20009.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20009.msf
+
+	SP score= 0.965
+
+	TC score= 0.620
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20009.msf 0.965 0.620
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20010.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20010.msf
+
+	SP score= 0.869
+
+	TC score= 0.400
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20010.msf 0.869 0.400
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20011.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20011.msf
+
+	SP score= 0.919
+
+	TC score= 0.630
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20011.msf 0.919 0.630
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20012.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20012.msf
+
+	SP score= 0.792
+
+	TC score= 0.330
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20012.msf 0.792 0.330
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20013.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20013.msf
+
+	SP score= 0.926
+
+	TC score= 0.650
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20013.msf 0.926 0.650
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20014.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20014.msf
+
+	SP score= 0.919
+
+	TC score= 0.300
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20014.msf 0.919 0.300
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20015.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20015.msf
+
+	SP score= 0.880
+
+	TC score= 0.480
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20015.msf 0.880 0.480
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20016.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20016.msf
+
+	SP score= 0.927
+
+	TC score= 0.550
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20016.msf 0.927 0.550
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20017.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20017.msf
+
+	SP score= 0.962
+
+	TC score= 0.580
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20017.msf 0.962 0.580
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20018.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20018.msf
+
+	SP score= 0.968
+
+	TC score= 0.690
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20018.msf 0.968 0.690
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20019.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20019.msf
+
+	SP score= 0.865
+
+	TC score= 0.200
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20019.msf 0.865 0.200
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20020.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20020.msf
+
+	SP score= 0.910
+
+	TC score= 0.650
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20020.msf 0.910 0.650
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20021.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20021.msf
+
+	SP score= 0.924
+
+	TC score= 0.260
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20021.msf 0.924 0.260
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20022.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20022.msf
+
+	SP score= 0.892
+
+	TC score= 0.330
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20022.msf 0.892 0.330
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20023.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20023.msf
+
+	SP score= 0.872
+
+	TC score= 0.330
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20023.msf 0.872 0.330
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20024.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20024.msf
+
+	SP score= 0.876
+
+	TC score= 0.150
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20024.msf 0.876 0.150
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20025.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20025.msf
+
+	SP score= 0.967
+
+	TC score= 0.550
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20025.msf 0.967 0.550
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20026.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20026.msf
+
+	SP score= 0.852
+
+	TC score= 0.340
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20026.msf 0.852 0.340
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20027.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20027.msf
+
+	SP score= 0.893
+
+	TC score= 0.540
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20027.msf 0.893 0.540
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20028.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20028.msf
+
+	SP score= 0.983
+
+	TC score= 0.720
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20028.msf 0.983 0.720
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20029.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20029.msf
+
+	SP score= 0.876
+
+	TC score= 0.100
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20029.msf 0.876 0.100
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20030.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20030.msf
+
+	SP score= 0.923
+
+	TC score= 0.350
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20030.msf 0.923 0.350
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20031.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20031.msf
+
+	SP score= 0.899
+
+	TC score= 0.130
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20031.msf 0.899 0.130
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20032.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20032.msf
+
+	SP score= 0.932
+
+	TC score= 0.260
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20032.msf 0.932 0.260
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20033.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20033.msf
+
+	SP score= 0.944
+
+	TC score= 0.340
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20033.msf 0.944 0.340
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20034.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20034.msf
+
+	SP score= 0.896
+
+	TC score= 0.180
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20034.msf 0.896 0.180
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20035.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20035.msf
+
+	SP score= 0.924
+
+	TC score= 0.340
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20035.msf 0.924 0.340
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20036.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20036.msf
+
+	SP score= 0.968
+
+	TC score= 0.260
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20036.msf 0.968 0.260
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20037.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20037.msf
+
+	SP score= 0.877
+
+	TC score= 0.210
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20037.msf 0.877 0.210
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20038.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20038.msf
+
+	SP score= 0.936
+
+	TC score= 0.440
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20038.msf 0.936 0.440
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20039.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20039.msf
+
+	SP score= 0.927
+
+	TC score= 0.120
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20039.msf 0.927 0.120
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20040.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20040.msf
+
+	SP score= 0.962
+
+	TC score= 0.730
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20040.msf 0.962 0.730
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20041.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20041.msf
+
+	SP score= 0.951
+
+	TC score= 0.550
+auto /home/ugur/Desktop/Project3/tcoffee/RV20/BBS20041.msf 0.951 0.550
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV30/BB30001.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BB30001.msf
+
+	SP score= 0.864
+
+	TC score= 0.400
+auto /home/ugur/Desktop/Project3/tcoffee/RV30/BB30001.msf 0.864 0.400
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV30/BB30002.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BB30002.msf
+
+	SP score= 0.760
+
+	TC score= 0.270
+auto /home/ugur/Desktop/Project3/tcoffee/RV30/BB30002.msf 0.760 0.270
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV30/BB30003.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BB30003.msf
+
+	SP score= 0.589
+
+	TC score= 0.030
+auto /home/ugur/Desktop/Project3/tcoffee/RV30/BB30003.msf 0.589 0.030
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV30/BB30004.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BB30004.msf
+
+	SP score= 0.853
+
+	TC score= 0.570
+auto /home/ugur/Desktop/Project3/tcoffee/RV30/BB30004.msf 0.853 0.570
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV30/BB30005.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BB30005.msf
+
+	SP score= 0.817
+
+	TC score= 0.320
+auto /home/ugur/Desktop/Project3/tcoffee/RV30/BB30005.msf 0.817 0.320
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV30/BB30006.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BB30006.msf
+
+	SP score= 0.664
+
+	TC score= 0.330
+auto /home/ugur/Desktop/Project3/tcoffee/RV30/BB30006.msf 0.664 0.330
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV30/BB30007.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BB30007.msf
+
+	SP score= 0.777
+
+	TC score= 0.440
+auto /home/ugur/Desktop/Project3/tcoffee/RV30/BB30007.msf 0.777 0.440
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV30/BB30008.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BB30008.msf
+
+	SP score= 0.681
+
+	TC score= 0.230
+auto /home/ugur/Desktop/Project3/tcoffee/RV30/BB30008.msf 0.681 0.230
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV30/BB30009.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BB30009.msf
+
+	SP score= 0.484
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/tcoffee/RV30/BB30009.msf 0.484 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV30/BB30010.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BB30010.msf
+
+	SP score= 0.907
+
+	TC score= 0.440
+auto /home/ugur/Desktop/Project3/tcoffee/RV30/BB30010.msf 0.907 0.440
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV30/BB30011.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BB30011.msf
+
+	SP score= 0.941
+
+	TC score= 0.650
+auto /home/ugur/Desktop/Project3/tcoffee/RV30/BB30011.msf 0.941 0.650
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV30/BB30012.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BB30012.msf
+
+	SP score= 0.754
+
+	TC score= 0.410
+auto /home/ugur/Desktop/Project3/tcoffee/RV30/BB30012.msf 0.754 0.410
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV30/BB30013.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BB30013.msf
+
+	SP score= 0.676
+
+	TC score= 0.300
+auto /home/ugur/Desktop/Project3/tcoffee/RV30/BB30013.msf 0.676 0.300
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV30/BB30014.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BB30014.msf
+
+	SP score= 0.875
+
+	TC score= 0.430
+auto /home/ugur/Desktop/Project3/tcoffee/RV30/BB30014.msf 0.875 0.430
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV30/BB30015.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BB30015.msf
+
+	SP score= 0.673
+
+	TC score= 0.380
+auto /home/ugur/Desktop/Project3/tcoffee/RV30/BB30015.msf 0.673 0.380
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV30/BB30016.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BB30016.msf
+
+	SP score= 0.389
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/tcoffee/RV30/BB30016.msf 0.389 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV30/BB30017.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BB30017.msf
+
+	SP score= 0.710
+
+	TC score= 0.380
+auto /home/ugur/Desktop/Project3/tcoffee/RV30/BB30017.msf 0.710 0.380
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV30/BB30018.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BB30018.msf
+
+	SP score= 0.908
+
+	TC score= 0.300
+auto /home/ugur/Desktop/Project3/tcoffee/RV30/BB30018.msf 0.908 0.300
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV30/BB30019.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BB30019.msf
+
+	SP score= 0.701
+
+	TC score= 0.320
+auto /home/ugur/Desktop/Project3/tcoffee/RV30/BB30019.msf 0.701 0.320
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV30/BB30020.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BB30020.msf
+
+	SP score= 0.586
+
+	TC score= 0.230
+auto /home/ugur/Desktop/Project3/tcoffee/RV30/BB30020.msf 0.586 0.230
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV30/BB30021.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BB30021.msf
+
+	SP score= 0.634
+
+	TC score= 0.090
+auto /home/ugur/Desktop/Project3/tcoffee/RV30/BB30021.msf 0.634 0.090
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV30/BB30022.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BB30022.msf
+
+	SP score= 0.826
+
+	TC score= 0.340
+auto /home/ugur/Desktop/Project3/tcoffee/RV30/BB30022.msf 0.826 0.340
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV30/BB30023.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BB30023.msf
+
+	SP score= 0.785
+
+	TC score= 0.310
+auto /home/ugur/Desktop/Project3/tcoffee/RV30/BB30023.msf 0.785 0.310
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV30/BB30024.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BB30024.msf
+
+	SP score= 0.759
+
+	TC score= 0.270
+auto /home/ugur/Desktop/Project3/tcoffee/RV30/BB30024.msf 0.759 0.270
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV30/BB30025.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BB30025.msf
+
+	SP score= 0.687
+
+	TC score= 0.100
+auto /home/ugur/Desktop/Project3/tcoffee/RV30/BB30025.msf 0.687 0.100
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV30/BB30026.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BB30026.msf
+
+	SP score= 0.797
+
+	TC score= 0.390
+auto /home/ugur/Desktop/Project3/tcoffee/RV30/BB30026.msf 0.797 0.390
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV30/BB30027.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BB30027.msf
+
+	SP score= 0.642
+
+	TC score= 0.020
+auto /home/ugur/Desktop/Project3/tcoffee/RV30/BB30027.msf 0.642 0.020
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV30/BB30028.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BB30028.msf
+
+	SP score= 0.853
+
+	TC score= 0.110
+auto /home/ugur/Desktop/Project3/tcoffee/RV30/BB30028.msf 0.853 0.110
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV30/BB30029.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BB30029.msf
+
+	SP score= 0.840
+
+	TC score= 0.510
+auto /home/ugur/Desktop/Project3/tcoffee/RV30/BB30029.msf 0.840 0.510
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV30/BB30030.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BB30030.msf
+
+	SP score= 0.920
+
+	TC score= 0.670
+auto /home/ugur/Desktop/Project3/tcoffee/RV30/BB30030.msf 0.920 0.670
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV30/BBS30001.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BBS30001.msf
+
+	SP score= 0.866
+
+	TC score= 0.470
+auto /home/ugur/Desktop/Project3/tcoffee/RV30/BBS30001.msf 0.866 0.470
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV30/BBS30002.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BBS30002.msf
+
+	SP score= 0.796
+
+	TC score= 0.320
+auto /home/ugur/Desktop/Project3/tcoffee/RV30/BBS30002.msf 0.796 0.320
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV30/BBS30003.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BBS30003.msf
+
+	SP score= 0.647
+
+	TC score= 0.130
+auto /home/ugur/Desktop/Project3/tcoffee/RV30/BBS30003.msf 0.647 0.130
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV30/BBS30004.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BBS30004.msf
+
+	SP score= 0.905
+
+	TC score= 0.610
+auto /home/ugur/Desktop/Project3/tcoffee/RV30/BBS30004.msf 0.905 0.610
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV30/BBS30005.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BBS30005.msf
+
+	SP score= 0.931
+
+	TC score= 0.560
+auto /home/ugur/Desktop/Project3/tcoffee/RV30/BBS30005.msf 0.931 0.560
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV30/BBS30006.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BBS30006.msf
+
+	SP score= 0.757
+
+	TC score= 0.470
+auto /home/ugur/Desktop/Project3/tcoffee/RV30/BBS30006.msf 0.757 0.470
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV30/BBS30007.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BBS30007.msf
+
+	SP score= 0.869
+
+	TC score= 0.620
+auto /home/ugur/Desktop/Project3/tcoffee/RV30/BBS30007.msf 0.869 0.620
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV30/BBS30008.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BBS30008.msf
+
+	SP score= 0.730
+
+	TC score= 0.360
+auto /home/ugur/Desktop/Project3/tcoffee/RV30/BBS30008.msf 0.730 0.360
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV30/BBS30009.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BBS30009.msf
+
+	SP score= 0.697
+
+	TC score= 0.370
+auto /home/ugur/Desktop/Project3/tcoffee/RV30/BBS30009.msf 0.697 0.370
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV30/BBS30010.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BBS30010.msf
+
+	SP score= 0.920
+
+	TC score= 0.440
+auto /home/ugur/Desktop/Project3/tcoffee/RV30/BBS30010.msf 0.920 0.440
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV30/BBS30011.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BBS30011.msf
+
+	SP score= 0.949
+
+	TC score= 0.700
+auto /home/ugur/Desktop/Project3/tcoffee/RV30/BBS30011.msf 0.949 0.700
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV30/BBS30012.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BBS30012.msf
+
+	SP score= 0.760
+
+	TC score= 0.410
+auto /home/ugur/Desktop/Project3/tcoffee/RV30/BBS30012.msf 0.760 0.410
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV30/BBS30013.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BBS30013.msf
+
+	SP score= 0.757
+
+	TC score= 0.380
+auto /home/ugur/Desktop/Project3/tcoffee/RV30/BBS30013.msf 0.757 0.380
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV30/BBS30014.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BBS30014.msf
+
+	SP score= 0.891
+
+	TC score= 0.560
+auto /home/ugur/Desktop/Project3/tcoffee/RV30/BBS30014.msf 0.891 0.560
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV30/BBS30015.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BBS30015.msf
+
+	SP score= 0.867
+
+	TC score= 0.730
+auto /home/ugur/Desktop/Project3/tcoffee/RV30/BBS30015.msf 0.867 0.730
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV30/BBS30016.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BBS30016.msf
+
+	SP score= 0.718
+
+	TC score= 0.500
+auto /home/ugur/Desktop/Project3/tcoffee/RV30/BBS30016.msf 0.718 0.500
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV30/BBS30017.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BBS30017.msf
+
+	SP score= 0.751
+
+	TC score= 0.450
+auto /home/ugur/Desktop/Project3/tcoffee/RV30/BBS30017.msf 0.751 0.450
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV30/BBS30018.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BBS30018.msf
+
+	SP score= 0.929
+
+	TC score= 0.480
+auto /home/ugur/Desktop/Project3/tcoffee/RV30/BBS30018.msf 0.929 0.480
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV30/BBS30019.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BBS30019.msf
+
+	SP score= 0.816
+
+	TC score= 0.440
+auto /home/ugur/Desktop/Project3/tcoffee/RV30/BBS30019.msf 0.816 0.440
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV30/BBS30020.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BBS30020.msf
+
+	SP score= 0.726
+
+	TC score= 0.300
+auto /home/ugur/Desktop/Project3/tcoffee/RV30/BBS30020.msf 0.726 0.300
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV30/BBS30021.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BBS30021.msf
+
+	SP score= 0.668
+
+	TC score= 0.220
+auto /home/ugur/Desktop/Project3/tcoffee/RV30/BBS30021.msf 0.668 0.220
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV30/BBS30022.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BBS30022.msf
+
+	SP score= 0.836
+
+	TC score= 0.370
+auto /home/ugur/Desktop/Project3/tcoffee/RV30/BBS30022.msf 0.836 0.370
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV30/BBS30023.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BBS30023.msf
+
+	SP score= 0.810
+
+	TC score= 0.360
+auto /home/ugur/Desktop/Project3/tcoffee/RV30/BBS30023.msf 0.810 0.360
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV30/BBS30024.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BBS30024.msf
+
+	SP score= 0.836
+
+	TC score= 0.400
+auto /home/ugur/Desktop/Project3/tcoffee/RV30/BBS30024.msf 0.836 0.400
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV30/BBS30025.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BBS30025.msf
+
+	SP score= 0.797
+
+	TC score= 0.240
+auto /home/ugur/Desktop/Project3/tcoffee/RV30/BBS30025.msf 0.797 0.240
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV30/BBS30026.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BBS30026.msf
+
+	SP score= 0.786
+
+	TC score= 0.360
+auto /home/ugur/Desktop/Project3/tcoffee/RV30/BBS30026.msf 0.786 0.360
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV30/BBS30027.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BBS30027.msf
+
+	SP score= 0.699
+
+	TC score= 0.410
+auto /home/ugur/Desktop/Project3/tcoffee/RV30/BBS30027.msf 0.699 0.410
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV30/BBS30028.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BBS30028.msf
+
+	SP score= 0.865
+
+	TC score= 0.150
+auto /home/ugur/Desktop/Project3/tcoffee/RV30/BBS30028.msf 0.865 0.150
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV30/BBS30029.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BBS30029.msf
+
+	SP score= 0.851
+
+	TC score= 0.570
+auto /home/ugur/Desktop/Project3/tcoffee/RV30/BBS30029.msf 0.851 0.570
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV30/BBS30030.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BBS30030.msf
+
+	SP score= 0.929
+
+	TC score= 0.700
+auto /home/ugur/Desktop/Project3/tcoffee/RV30/BBS30030.msf 0.929 0.700
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV40/BB40001.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40001.msf
+
+	SP score= 0.944
+
+	TC score= 0.910
+auto /home/ugur/Desktop/Project3/tcoffee/RV40/BB40001.msf 0.944 0.910
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV40/BB40002.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40002.msf
+
+	SP score= 0.812
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/tcoffee/RV40/BB40002.msf 0.812 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV40/BB40003.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40003.msf
+
+	SP score= 0.920
+
+	TC score= 0.780
+auto /home/ugur/Desktop/Project3/tcoffee/RV40/BB40003.msf 0.920 0.780
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV40/BB40004.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40004.msf
+
+	SP score= 0.920
+
+	TC score= 0.520
+auto /home/ugur/Desktop/Project3/tcoffee/RV40/BB40004.msf 0.920 0.520
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV40/BB40005.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40005.msf
+
+	SP score= 0.889
+
+	TC score= 0.690
+auto /home/ugur/Desktop/Project3/tcoffee/RV40/BB40005.msf 0.889 0.690
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV40/BB40006.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40006.msf
+
+	SP score= 0.758
+
+	TC score= 0.350
+auto /home/ugur/Desktop/Project3/tcoffee/RV40/BB40006.msf 0.758 0.350
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV40/BB40007.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40007.msf
+
+	SP score= 0.739
+
+	TC score= 0.350
+auto /home/ugur/Desktop/Project3/tcoffee/RV40/BB40007.msf 0.739 0.350
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV40/BB40008.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40008.msf
+
+	SP score= 0.870
+
+	TC score= 0.640
+auto /home/ugur/Desktop/Project3/tcoffee/RV40/BB40008.msf 0.870 0.640
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV40/BB40009.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40009.msf
+
+	SP score= 0.734
+
+	TC score= 0.400
+auto /home/ugur/Desktop/Project3/tcoffee/RV40/BB40009.msf 0.734 0.400
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV40/BB40010.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40010.msf
+
+	SP score= 0.851
+
+	TC score= 0.540
+auto /home/ugur/Desktop/Project3/tcoffee/RV40/BB40010.msf 0.851 0.540
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV40/BB40011.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40011.msf
+
+	SP score= 0.741
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/tcoffee/RV40/BB40011.msf 0.741 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV40/BB40012.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40012.msf
+
+	SP score= 0.869
+
+	TC score= 0.590
+auto /home/ugur/Desktop/Project3/tcoffee/RV40/BB40012.msf 0.869 0.590
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV40/BB40013.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40013.msf
+
+	SP score= 0.502
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/tcoffee/RV40/BB40013.msf 0.502 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV40/BB40014.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40014.msf
+
+	SP score= 0.745
+
+	TC score= 0.440
+auto /home/ugur/Desktop/Project3/tcoffee/RV40/BB40014.msf 0.745 0.440
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV40/BB40015.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40015.msf
+
+	SP score= 0.932
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/tcoffee/RV40/BB40015.msf 0.932 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV40/BB40016.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40016.msf
+
+	SP score= 0.856
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/tcoffee/RV40/BB40016.msf 0.856 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV40/BB40017.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40017.msf
+
+	SP score= 0.856
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/tcoffee/RV40/BB40017.msf 0.856 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV40/BB40018.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40018.msf
+
+	SP score= 0.838
+
+	TC score= 0.650
+auto /home/ugur/Desktop/Project3/tcoffee/RV40/BB40018.msf 0.838 0.650
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV40/BB40019.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40019.msf
+
+	SP score= 0.864
+
+	TC score= 0.510
+auto /home/ugur/Desktop/Project3/tcoffee/RV40/BB40019.msf 0.864 0.510
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV40/BB40020.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40020.msf
+
+	SP score= 0.876
+
+	TC score= 0.690
+auto /home/ugur/Desktop/Project3/tcoffee/RV40/BB40020.msf 0.876 0.690
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV40/BB40021.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40021.msf
+
+	SP score= 0.921
+
+	TC score= 0.650
+auto /home/ugur/Desktop/Project3/tcoffee/RV40/BB40021.msf 0.921 0.650
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV40/BB40022.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40022.msf
+
+	SP score= 0.857
+
+	TC score= 0.560
+auto /home/ugur/Desktop/Project3/tcoffee/RV40/BB40022.msf 0.857 0.560
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV40/BB40023.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40023.msf
+
+	SP score= 0.765
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/tcoffee/RV40/BB40023.msf 0.765 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV40/BB40024.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40024.msf
+
+	SP score= 0.589
+
+	TC score= 0.060
+auto /home/ugur/Desktop/Project3/tcoffee/RV40/BB40024.msf 0.589 0.060
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV40/BB40025.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40025.msf
+
+	SP score= 0.893
+
+	TC score= 0.690
+auto /home/ugur/Desktop/Project3/tcoffee/RV40/BB40025.msf 0.893 0.690
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV40/BB40026.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40026.msf
+
+	SP score= 0.673
+
+	TC score= 0.260
+auto /home/ugur/Desktop/Project3/tcoffee/RV40/BB40026.msf 0.673 0.260
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV40/BB40027.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40027.msf
+
+	SP score= 0.592
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/tcoffee/RV40/BB40027.msf 0.592 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV40/BB40028.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40028.msf
+
+	SP score= 0.906
+
+	TC score= 0.640
+auto /home/ugur/Desktop/Project3/tcoffee/RV40/BB40028.msf 0.906 0.640
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV40/BB40029.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40029.msf
+
+	SP score= 0.841
+
+	TC score= 0.380
+auto /home/ugur/Desktop/Project3/tcoffee/RV40/BB40029.msf 0.841 0.380
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV40/BB40030.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40030.msf
+
+	SP score= 0.835
+
+	TC score= 0.620
+auto /home/ugur/Desktop/Project3/tcoffee/RV40/BB40030.msf 0.835 0.620
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV40/BB40031.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40031.msf
+
+	SP score= 0.647
+
+	TC score= 0.990
+auto /home/ugur/Desktop/Project3/tcoffee/RV40/BB40031.msf 0.647 0.990
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV40/BB40032.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40032.msf
+
+	SP score= 0.903
+
+	TC score= 0.830
+auto /home/ugur/Desktop/Project3/tcoffee/RV40/BB40032.msf 0.903 0.830
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV40/BB40033.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40033.msf
+
+	SP score= 0.842
+
+	TC score= 0.640
+auto /home/ugur/Desktop/Project3/tcoffee/RV40/BB40033.msf 0.842 0.640
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV40/BB40034.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40034.msf
+
+	SP score= 0.686
+
+	TC score= 0.300
+auto /home/ugur/Desktop/Project3/tcoffee/RV40/BB40034.msf 0.686 0.300
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV40/BB40035.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40035.msf
+
+	SP score= 0.746
+
+	TC score= 0.500
+auto /home/ugur/Desktop/Project3/tcoffee/RV40/BB40035.msf 0.746 0.500
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV40/BB40036.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40036.msf
+
+	SP score= 0.940
+
+	TC score= 0.650
+auto /home/ugur/Desktop/Project3/tcoffee/RV40/BB40036.msf 0.940 0.650
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV40/BB40037.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40037.msf
+
+	SP score= 0.440
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/tcoffee/RV40/BB40037.msf 0.440 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV40/BB40038.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40038.msf
+
+	SP score= 0.763
+
+	TC score= 0.410
+auto /home/ugur/Desktop/Project3/tcoffee/RV40/BB40038.msf 0.763 0.410
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV40/BB40039.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40039.msf
+
+	SP score= 0.883
+
+	TC score= 0.540
+auto /home/ugur/Desktop/Project3/tcoffee/RV40/BB40039.msf 0.883 0.540
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV40/BB40040.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40040.msf
+
+	SP score= 0.906
+
+	TC score= 0.400
+auto /home/ugur/Desktop/Project3/tcoffee/RV40/BB40040.msf 0.906 0.400
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV40/BB40041.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40041.msf
+
+	SP score= 0.767
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/tcoffee/RV40/BB40041.msf 0.767 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV40/BB40042.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40042.msf
+
+	SP score= 0.829
+
+	TC score= 0.380
+auto /home/ugur/Desktop/Project3/tcoffee/RV40/BB40042.msf 0.829 0.380
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV40/BB40043.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40043.msf
+
+	SP score= 0.701
+
+	TC score= 0.430
+auto /home/ugur/Desktop/Project3/tcoffee/RV40/BB40043.msf 0.701 0.430
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV40/BB40044.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40044.msf
+
+	SP score= 0.860
+
+	TC score= 0.260
+auto /home/ugur/Desktop/Project3/tcoffee/RV40/BB40044.msf 0.860 0.260
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV40/BB40045.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40045.msf
+
+	SP score= 0.683
+
+	TC score= 0.450
+auto /home/ugur/Desktop/Project3/tcoffee/RV40/BB40045.msf 0.683 0.450
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV40/BB40046.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40046.msf
+
+	SP score= 0.500
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/tcoffee/RV40/BB40046.msf 0.500 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV40/BB40047.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40047.msf
+
+	SP score= 0.922
+
+	TC score= 0.540
+auto /home/ugur/Desktop/Project3/tcoffee/RV40/BB40047.msf 0.922 0.540
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV40/BB40048.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40048.msf
+
+	SP score= 0.907
+
+	TC score= 0.700
+auto /home/ugur/Desktop/Project3/tcoffee/RV40/BB40048.msf 0.907 0.700
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV40/BB40049.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40049.msf
+
+	SP score= 0.868
+
+	TC score= 0.420
+auto /home/ugur/Desktop/Project3/tcoffee/RV40/BB40049.msf 0.868 0.420
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV50/BB50001.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV50/BB50001.msf
+
+	SP score= 0.779
+
+	TC score= 0.350
+auto /home/ugur/Desktop/Project3/tcoffee/RV50/BB50001.msf 0.779 0.350
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV50/BB50002.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV50/BB50002.msf
+
+	SP score= 0.398
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/tcoffee/RV50/BB50002.msf 0.398 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV50/BB50003.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV50/BB50003.msf
+
+	SP score= 0.641
+
+	TC score= 0.380
+auto /home/ugur/Desktop/Project3/tcoffee/RV50/BB50003.msf 0.641 0.380
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV50/BB50004.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV50/BB50004.msf
+
+	SP score= 0.962
+
+	TC score= 0.880
+auto /home/ugur/Desktop/Project3/tcoffee/RV50/BB50004.msf 0.962 0.880
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV50/BB50005.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV50/BB50005.msf
+
+	SP score= 0.953
+
+	TC score= 0.810
+auto /home/ugur/Desktop/Project3/tcoffee/RV50/BB50005.msf 0.953 0.810
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV50/BB50006.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV50/BB50006.msf
+
+	SP score= 0.694
+
+	TC score= 0.200
+auto /home/ugur/Desktop/Project3/tcoffee/RV50/BB50006.msf 0.694 0.200
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV50/BB50007.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV50/BB50007.msf
+
+	SP score= 0.652
+
+	TC score= 0.040
+auto /home/ugur/Desktop/Project3/tcoffee/RV50/BB50007.msf 0.652 0.040
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV50/BB50008.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV50/BB50008.msf
+
+	SP score= 0.883
+
+	TC score= 0.670
+auto /home/ugur/Desktop/Project3/tcoffee/RV50/BB50008.msf 0.883 0.670
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV50/BB50009.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV50/BB50009.msf
+
+	SP score= 0.767
+
+	TC score= 0.250
+auto /home/ugur/Desktop/Project3/tcoffee/RV50/BB50009.msf 0.767 0.250
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV50/BB50010.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV50/BB50010.msf
+
+	SP score= 0.776
+
+	TC score= 0.270
+auto /home/ugur/Desktop/Project3/tcoffee/RV50/BB50010.msf 0.776 0.270
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV50/BB50011.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV50/BB50011.msf
+
+	SP score= 0.683
+
+	TC score= 0.250
+auto /home/ugur/Desktop/Project3/tcoffee/RV50/BB50011.msf 0.683 0.250
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV50/BB50012.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV50/BB50012.msf
+
+	SP score= 0.757
+
+	TC score= 0.260
+auto /home/ugur/Desktop/Project3/tcoffee/RV50/BB50012.msf 0.757 0.260
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV50/BB50013.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV50/BB50013.msf
+
+	SP score= 0.910
+
+	TC score= 0.660
+auto /home/ugur/Desktop/Project3/tcoffee/RV50/BB50013.msf 0.910 0.660
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV50/BB50014.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV50/BB50014.msf
+
+	SP score= 0.878
+
+	TC score= 0.610
+auto /home/ugur/Desktop/Project3/tcoffee/RV50/BB50014.msf 0.878 0.610
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV50/BB50015.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV50/BB50015.msf
+
+	SP score= 0.676
+
+	TC score= 0.160
+auto /home/ugur/Desktop/Project3/tcoffee/RV50/BB50015.msf 0.676 0.160
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV50/BB50016.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV50/BB50016.msf
+
+	SP score= 0.837
+
+	TC score= 0.450
+auto /home/ugur/Desktop/Project3/tcoffee/RV50/BB50016.msf 0.837 0.450
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV50/BBS50001.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV50/BBS50001.msf
+
+	SP score= 0.775
+
+	TC score= 0.360
+auto /home/ugur/Desktop/Project3/tcoffee/RV50/BBS50001.msf 0.775 0.360
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV50/BBS50002.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV50/BBS50002.msf
+
+	SP score= 0.557
+
+	TC score= 0.230
+auto /home/ugur/Desktop/Project3/tcoffee/RV50/BBS50002.msf 0.557 0.230
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV50/BBS50003.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV50/BBS50003.msf
+
+	SP score= 0.950
+
+	TC score= 0.770
+auto /home/ugur/Desktop/Project3/tcoffee/RV50/BBS50003.msf 0.950 0.770
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV50/BBS50005.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV50/BBS50005.msf
+
+	SP score= 0.952
+
+	TC score= 0.810
+auto /home/ugur/Desktop/Project3/tcoffee/RV50/BBS50005.msf 0.952 0.810
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV50/BBS50006.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV50/BBS50006.msf
+
+	SP score= 0.752
+
+	TC score= 0.250
+auto /home/ugur/Desktop/Project3/tcoffee/RV50/BBS50006.msf 0.752 0.250
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV50/BBS50007.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV50/BBS50007.msf
+
+	SP score= 0.676
+
+	TC score= 0.080
+auto /home/ugur/Desktop/Project3/tcoffee/RV50/BBS50007.msf 0.676 0.080
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV50/BBS50008.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV50/BBS50008.msf
+
+	SP score= 0.857
+
+	TC score= 0.700
+auto /home/ugur/Desktop/Project3/tcoffee/RV50/BBS50008.msf 0.857 0.700
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV50/BBS50009.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV50/BBS50009.msf
+
+	SP score= 0.861
+
+	TC score= 0.290
+auto /home/ugur/Desktop/Project3/tcoffee/RV50/BBS50009.msf 0.861 0.290
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV50/BBS50010.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV50/BBS50010.msf
+
+	SP score= 0.828
+
+	TC score= 0.380
+auto /home/ugur/Desktop/Project3/tcoffee/RV50/BBS50010.msf 0.828 0.380
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV50/BBS50011.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV50/BBS50011.msf
+
+	SP score= 0.722
+
+	TC score= 0.300
+auto /home/ugur/Desktop/Project3/tcoffee/RV50/BBS50011.msf 0.722 0.300
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV50/BBS50012.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV50/BBS50012.msf
+
+	SP score= 0.809
+
+	TC score= 0.320
+auto /home/ugur/Desktop/Project3/tcoffee/RV50/BBS50012.msf 0.809 0.320
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV50/BBS50013.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV50/BBS50013.msf
+
+	SP score= 0.924
+
+	TC score= 0.710
+auto /home/ugur/Desktop/Project3/tcoffee/RV50/BBS50013.msf 0.924 0.710
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV50/BBS50014.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV50/BBS50014.msf
+
+	SP score= 0.891
+
+	TC score= 0.650
+auto /home/ugur/Desktop/Project3/tcoffee/RV50/BBS50014.msf 0.891 0.650
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV50/BBS50015.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV50/BBS50015.msf
+
+	SP score= 0.715
+
+	TC score= 0.180
+auto /home/ugur/Desktop/Project3/tcoffee/RV50/BBS50015.msf 0.715 0.180
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/tcoffee/RV50/BBS50016.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV50/BBS50016.msf
+
+	SP score= 0.857
+
+	TC score= 0.490
+auto /home/ugur/Desktop/Project3/tcoffee/RV50/BBS50016.msf 0.857 0.490

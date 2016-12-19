@@ -1,0 +1,38 @@
+PileUp
+
+
+
+   MSF:   83  Type: P    Check:  7013   .. 
+
+ Name: 1abo_A oo  Len:   83  Check:   905  Weight:  1.000
+ Name: 1ycs_B oo  Len:   83  Check:  2055  Weight:  1.000
+ Name: 1pht_ oo  Len:   83  Check:  9439  Weight:  1.000
+ Name: 1ihv_A oo  Len:   83  Check:  7372  Weight:  1.000
+ Name: 1bb9_ oo  Len:   83  Check:  8964  Weight:  1.000
+ Name: 1hjd_A oo  Len:   83  Check:  7108  Weight:  1.000
+ Name: 1ov3_A oo  Len:   83  Check:  8707  Weight:  1.000
+ Name: 1ue9_A oo  Len:   83  Check:  2463  Weight:  1.000
+
+//
+
+
+
+1abo_A      NLFVALYDFV ...ASGDNTL SITKGEKLRV LGYNH..... .........N 
+1ycs_B      GVIYALWDYE ...PQNDDEL PMKEGDCMTI IHRED..... ..E...D..E 
+1pht_       YQYRALYDYK ...KEREEDI DLHLGDILTV NKGSLVALGF SDGQEARPEE 
+1ihv_A      NFRVYYRDSR DPVWKG.PAK LLWKGEGAVV IQD....... .......... 
+1bb9_       FKVQAQHDYT ...ATDTDEL QLKAGDVVLV IPFQN..... ..P...EEQD 
+1hjd_A      SMAVALQDYM ...APDCRFL TIHRGQVVYV FSKLK..... ..G...R..G 
+1ov3_A      EPYVAIKAYT ...AVEGDEV SLLEGEAVEV IHKLL..... .......... 
+1ue9_A      EIAQVTSAYV ...ASGSEQL SLAPGQLILI LKKNT..... .......... 
+
+
+1abo_A      GEWCEA.... ......QTKN GQGWVPSNYI TPV
+1ycs_B      IEWWWA.... ......RLND KEGYVPRNLL GLY
+1pht_       IGWLNGY... .....NETTG ERGDFPGTYV EYI
+1ihv_A      .......... ........NS DIKVVPRRKA KII
+1bb9_       EGWLMGVKES DWNQHKELEK CRGVFPENFT ERV
+1hjd_A      RLFWGGSVQG DY..YGDLAA RLGYFPSSIV RED
+1ov3_A      DGWWV..... .....IRKDD VTGYFPSMYL QKS
+1ue9_A      SGWWQGELQ. ....ARGKKR QKGWFPASHV KLL
+

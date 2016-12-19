@@ -1,0 +1,108 @@
+PileUp
+
+
+
+   MSF:  170  Type: P    Check:  6840   .. 
+
+ Name: 2pna_ oo  Len:  170  Check:   770  Weight:  1.000
+ Name: 1a81_A oo  Len:  170  Check:  8337  Weight:  1.000
+ Name: 1ab2_ oo  Len:  170  Check:  2687  Weight:  1.000
+ Name: 1bm2_A oo  Len:  170  Check:    27  Weight:  1.000
+ Name: SEM5_CAEEL oo  Len:  170  Check:  3186  Weight:  1.000
+ Name: 1d4t_A oo  Len:  170  Check:  9029  Weight:  1.000
+ Name: 1i3z_A oo  Len:  170  Check:  7346  Weight:  1.000
+ Name: 1aya_A oo  Len:  170  Check:  5406  Weight:  1.000
+ Name: 2pld_A oo  Len:  170  Check:  8857  Weight:  1.000
+ Name: 1jwo_A oo  Len:  170  Check:  7183  Weight:  1.000
+ Name: 1ju5_A oo  Len:  170  Check:  5217  Weight:  1.000
+ Name: 1lui_A oo  Len:  170  Check:  1469  Weight:  1.000
+ Name: 1mil_ oo  Len:  170  Check:  4874  Weight:  1.000
+ Name: 1bf5_A oo  Len:  170  Check:  9387  Weight:  1.000
+ Name: STA4_HUMAN oo  Len:  170  Check:  3731  Weight:  1.000
+ Name: STA3_HUMAN oo  Len:  170  Check:  4336  Weight:  1.000
+ Name: STA2_HUMAN oo  Len:  170  Check:  8280  Weight:  1.000
+ Name: STA2_MOUSE oo  Len:  170  Check:  6718  Weight:  1.000
+
+//
+
+
+
+2pna_           EWYWGDISRE EVNEK..LR. DTADGTFLVR DASTKM.HGD YTLTLRKGG. 
+1a81_A          PWFHGKISRE ESEQIVLIG. SKTNGKFLIR ARDN...NGS YALCLLHEG. 
+1ab2_           SWYHGPVSRN AAEY..LLS. SGINGSFLVR ESES.S.PGQ RSISLRYEG. 
+1bm2_A          PWFFGKIPRA KAEEM.LSK. QRHDGAFLIR ESES.A.PGD FSLSVKFGN. 
+SEM5_CAEEL      NWYLGKITRN DAEVL.LKKP TVRDGHFLVR QCES.S.PGE FSISVRFQD. 
+1d4t_A          AVYHGKISRE TGEKL.LLA. TGLDGSYLLR DSES.V.PGV YCLCVLYHG. 
+1i3z_A          PYYHGCLTKR ECEAL.LLK. GGVDGNFLIR DSES.V.PGA LCLCVSFKK. 
+1aya_A          RWFHPNITGV EAENL.LLT. RGVDGSFLAR PSKS.N.PGD FTLSVRRNG. 
+2pld_A          EWYHASLTRA QAEHM.LMR. VPRDGAFLVR KRNE...PNS YAISFRAEG. 
+1jwo_A          PWFHGKISGQ EAVQQ..LQ. PPEDGLFLVR ESAR.H.PGD YVLCVSFGR. 
+1ju5_A          SWYWGRLSRQ EAVAL..LQ. GQRHGVFLVR DSST.S.PGD YVLSVSENS. 
+1lui_A          EWYNKSISRD KAEKL.LLD. TGKEGAFMVR DSRT...PGT YTVSVFTKAI 
+1mil_           PWFHGKLSRR EAEAL..LQ. ..LNGDFLVR ESTT.T.PGQ YVLTGLQSG. 
+1bf5_A          GCIMGFISKE RERAL..LK. DQQPGTFLLR FSES.SREGA ITFTWVERS. 
+STA4_HUMAN      GYVMGFVSKE KERLL..LK. DKMPGTFLLR FSES.H.LGG ITFTWVDHS. 
+STA3_HUMAN      GYIMGFISKE RERAI..LS. TKPPGTFLLR FSES.SKEGG VTFTWVEKD. 
+STA2_HUMAN      GRIMGFVSRS QERRL..LK. KTMSGTFLLR FSES.S.EGG ITCSWVEHQ. 
+STA2_MOUSE      GRIMGFVSRN QERRL..LK. KMLSGTFLLR FSET.S.EGG ITCSWVEHQ. 
+
+
+2pna_           .....NNK.L IKIFHR.D.. G......... .........K YGFS.....D 
+1a81_A          .....KVL.H YRIDKDKT.. G......... .........K LSIP.....E 
+1ab2_           .....RVY.H YRINTASD.. G......... .........K LYVS.....S 
+1bm2_A          .....DVQ.H FKVLRDGA.. G......... .........K YFLW...... 
+SEM5_CAEEL      .....SVQ.H FKVLRDQN.. G......... .........K YYLW...... 
+1d4t_A          .....YIY.T YRVSQTET.. G......... .........S WSAETAPGVH 
+1i3z_A          .....LVY.S YRIFREKH.. G......... .........Y YRIE.....T 
+1aya_A          .....AVT.H IKIQNTG... D......... .........Y YDLY.....G 
+2pld_A          .....KIK.H CRVQQEG... .......... .........Q TVML.....G 
+1jwo_A          .....DVI.H YRVLHR.D.. G......... .........H LTID.....E 
+1ju5_A          .....RVS.H YIINSS.G.. PRPPVPPSPA QPPPGVSPSR LRI......G 
+1lui_A          ISENPCIK.H YHIKETNDSP K......... .........R YYVA.....E 
+1mil_           .....QPK.H LLLVDP.E.. G......... .........V VRT......K 
+1bf5_A          .....QNGGE PDFHAV.E.. .......... .........P YTK......K 
+STA4_HUMAN      .....ESG.E VRFHSV.E.. .......... .........P YNK......G 
+STA3_HUMAN      .....ISG.K TQIQSV.E.. .......... .........P YTK......Q 
+STA2_HUMAN      .....DDD.K VLIYSV.Q.. .......... .........P YTK......E 
+STA2_MOUSE      .....DDH.K VEIYSV.Q.. .......... .........P YTK......E 
+
+
+2pna_           .....PLTFN SVVELINHYR NES....... .......... .......... 
+1a81_A          .....GKKFD TLWQLVEHYS YKA....... .......... .......... 
+1ab2_           .....ESRFN TLAELVHHHS TVA....... .......... .......... 
+1bm2_A          .....VVKFN SLNELVDYHR STS....... .......... .......... 
+SEM5_CAEEL      .....AVKFN SLNELVAYHR TAS....... .......... .......... 
+1d4t_A          .....KRYFR KIKNLISAFQ KPD....... .......... .......... 
+1i3z_A          DAHTPRTIFP NLQELVSKYG KPG....... .......... .......... 
+1aya_A          .....GEKFA TLAELVQYYM EHHGQ..... .......... .......... 
+2pld_A          .....NSEFD SLVDLISYYE KHP....... .......... .......... 
+1jwo_A          .....AVFFC NLMDMVEHYS KDK....... .......... .......... 
+1ju5_A          .....DQEFD SLPALLEFYK IHY....... .......... .......... 
+1lui_A          .....KYVFD SIPLLIQYHQ YNG....... .......... .......... 
+1mil_           .....DHRFE SVSHLISYHM DNHLP..... .......... .......... 
+1bf5_A          .....ELSAV TFPDIIRNYK VMAAENIPEN PLKYLYPNID KDHAFGKYYS 
+STA4_HUMAN      .....RLSAL PFADILRDYK VIMAENIPEN PLKYLYPDIP KDKAFGKHYS 
+STA3_HUMAN      .....QLNNM SFAEIIMGYK IMDATNILLS PLVYLYPDIP KEEAFGKYCR 
+STA2_HUMAN      .....VLQSL PLTEIIRHYQ LLTEENIPEN PLRFLYPRIP RDEAFGCYYQ 
+STA2_MOUSE      .....VLQSL PLTEIIRHYQ VLAEENIPEN PLRFLYPRIP RDEAFGCYYQ 
+
+
+2pna_           .......... ...LAQYNPK 
+1a81_A          .......... ...D.....G 
+1ab2_           .......... ...DG..... 
+1bm2_A          .......... ...V.....S 
+SEM5_CAEEL      .......... ...V.....S 
+1d4t_A          .......... ...QG..... 
+1i3z_A          .......... ...Q.....G 
+1aya_A          ........LK E.KN.....G 
+2pld_A          .......... ...LY..... 
+1jwo_A          .......... ...G.....A 
+1ju5_A          .......... ...L.....D 
+1lui_A          .......... ...GG..... 
+1mil_           .........I I.SA.....G 
+1bf5_A          R......... .....G.... 
+STA4_HUMAN      SQPCEVSRPT ERG.DK.... 
+STA3_HUMAN      PESQE.HPEA DPGSAA.... 
+STA2_HUMAN      EK.VNLQER. .....R.... 
+STA2_MOUSE      EK.VNLEEQ. .....E.... 
+

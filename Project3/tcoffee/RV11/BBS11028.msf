@@ -1,0 +1,56 @@
+PileUp
+
+
+
+   MSF:  120  Type: P    Check:  1011   .. 
+
+ Name: 1wit_ oo  Len:  120  Check:   548  Weight:  1.000
+ Name: 1tlk_ oo  Len:  120  Check:  1511  Weight:  1.000
+ Name: 1bqs_A oo  Len:  120  Check:  3997  Weight:  1.000
+ Name: 1nbq_A oo  Len:  120  Check:  1633  Weight:  1.000
+ Name: 2ncm_ oo  Len:  120  Check:  9753  Weight:  1.000
+ Name: 1cvs_C oo  Len:  120  Check:  9842  Weight:  1.000
+ Name: 1hnf_ oo  Len:  120  Check:   662  Weight:  1.000
+ Name: 1vca_A oo  Len:  120  Check:  4746  Weight:  1.000
+ Name: 1d9k_A oo  Len:  120  Check:  7858  Weight:  1.000
+ Name: 1rhf_A oo  Len:  120  Check:   461  Weight:  1.000
+
+//
+
+
+
+1wit_       R...KI...K IKAGFTHNLE VDFI.G.A.P DPTATWTVGD SGAAL..... 
+1tlk_       L...DM...D VVEGSAARFD CKVE.G.Y.P DPEVMWFKDD NPVKE..... 
+1bqs_A      P...VV...A VALGASRQLT CRLA.C.ADR GASVQWRGLD TS........ 
+1nbq_A      TVNIPS...S ATIGNRAVLT CSEQDG.S.P PSEYTWFKDG IVMPT..... 
+2ncm_       S...QG...E ISVGESKFFL CQVA.G.DAK DKDISWFSPN GEKLSPN... 
+1cvs_C      M...EKKLHA VPAAKTVKFK CPSS.G.T.P QPTLRWLKNG KEFKP..... 
+1hnf_       L...ET...W GALGQDINLD IPSFQMSD.D IDDIKWEKTS DKKKI..... 
+1vca_A      S...RY...L AQIGDSVSLT CSTT.G.C.E SPFFSWRTQI D.SPL..... 
+1d9k_A      Q...SL...T VWEGETTILN CSYE.D.S.T FDYFPWYRQF PGKSPALLIA 
+1rhf_A      GAPVKL...T VSQGQPVKLN CSVE.G.X.E EPDIQWVKDG AVVQN..... 
+
+
+1wit_       .........A ..PELLV... ....DAKSST TSIFFPSAKR ADSGNYKLKV 
+1tlk_       .........S ..RHFQI... ...DYDEEGN CSLTISEVCG DDDAKYTCKA 
+1bqs_A      .......... ....LGA... ..VQ.SDTGR SVLTVRNASL SAAGTRVCVG 
+1nbq_A      .........N ..PKSTRAFS NSSYVLNPTT GELVFDPLSA SDTGEYSCEA 
+2ncm_       .........Q ..QRISV... ..VW.NDDDS STLTIYNANI DDAGIYKCVV 
+1cvs_C      .........D ..HRIGG... ...YKVRYAT WSIIMDSVVP SDKGNYTCIV 
+1hnf_       .........A QFRKEKETFK EKDTYKLFKN GTLKIKHLKT DDQDIYKVSI 
+1vca_A      .........N ..GKV..... ....TNEGTT STLTMNPVSF GNEHSYLCTA 
+1d9k_A      ISLVSNKKED ..GRFTI... ..FFNKREKK LSLHITDSQP GDSATYFCAA 
+1rhf_A      .........L ..DQLYI... ..PVSEQHWI GFLSLKSVER SDAGRYWCQV 
+
+
+1wit_       KNELGEDE.. AIFEVIV..Q 
+1tlk_       VNSLGEAT.. CTAELLV..E 
+1bqs_A      SCGGRT.F.Q HTVQLLV..Y 
+1nbq_A      RNGYGTPM.. TSNAVRMEAV 
+2ncm_       TAEDGTQS.E ATVNVKI..F 
+1cvs_C      ENEYGSIN.. HTYQLDV..V 
+1hnf_       YDTKGKNVLE KIFDLKI..Q 
+1vca_A      TCESRKLE.. KGIQVEI..Y 
+1d9k_A      TGSFNKLTFG AGTRLAV..S 
+1rhf_A      EDGGETEI.S QPVWLT...V 
+

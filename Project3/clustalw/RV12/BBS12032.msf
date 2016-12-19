@@ -1,0 +1,41 @@
+PileUp
+
+
+
+   MSF:   71  Type: P    Check:  1580   .. 
+
+ Name: 1kba_A oo  Len:   71  Check:  1746  Weight:  11.3
+ Name: NXL3_OPHHA oo  Len:   71  Check:  3299  Weight:  11.3
+ Name: NXSH_BUNMU oo  Len:   71  Check:  1132  Weight:  12.3
+ Name: TXM2_NAJKA oo  Len:   71  Check:  5697  Weight:  10.0
+ Name: 1cb9_A oo  Len:   71  Check:  5899  Weight:  11.3
+ Name: CADO_BUNCA oo  Len:   71  Check:  7091  Weight:  10.0
+ Name: 1fas_ oo  Len:   71  Check:  1598  Weight:  12.6
+ Name: 1drs_ oo  Len:   71  Check:   334  Weight:  11.3
+ Name: 1cod_ oo  Len:   71  Check:  4784  Weight:  9.6
+
+//
+
+
+
+1kba_A          RTC.....LI SPSSTPQTCP NGQDICFLKA QCDKFCSIRG PVIEQGCVAT 
+NXL3_OPHHA      TKC.....YV TPDVKSETCP AGQDLCYTET WCVAWCTVRG KRVSLTCAAI 
+NXSH_BUNMU      IICRTRDTYQ IP.ITFTNCE EG.HVCYKYS TTETPNRILI H...RGCAAK 
+TXM2_NAJKA      LTC.VKEKSI FG.VTTEDCP DGQNLCFKRW HMIVPGRYKK T...RGCAAT 
+1cb9_A          LKC....KKL VP.LFSKTCP AGKNLCYKMF MVAAP.HVPV K...RGCIDV 
+CADO_BUNCA      MKCKICNFDT CRAGELKVCA SGEKYCFKES WREARGTRIE R....GCAAT 
+1fas_           TMCYS..HTT TSRAILTNC. .GENSCYRKS RRHPPKMVLG R....GCG.. 
+1drs_           RICYN..HLG TKPPTTETC. .QEDSCYKNI WTFDN..IIR R....GCG.. 
+1cod_           LECHN..QQS SQTPTTTGCS GGETNCYKKR WRDHRGYRTE R....GCG.. 
+
+
+1kba_A          CPQFRSNYRS LLCCTT.DNC N
+NXL3_OPHHA      CPIVPPKV.S IKCCST.DAC G
+NXSH_BUNMU      CP....KRLR VICCST.DKC N
+TXM2_NAJKA      CPIA.ENRDV IECCST.DKC N
+1cb9_A          CPKS.SLLVK YVCCNT.DKC N
+CADO_BUNCA      CPKGSVYGLY VLCCTT.DDC N
+1fas_           CP.PGDDYLE VKCCTSPDKC N
+1drs_           CFTPRGDMPG PYCCES.DKC N
+1cod_           CP.SVKNGIE INCCTT.DRC N
+

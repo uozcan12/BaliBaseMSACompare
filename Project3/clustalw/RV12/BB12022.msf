@@ -1,0 +1,85 @@
+PileUp
+
+
+
+   MSF:  483  Type: P    Check:   675   .. 
+
+ Name: KRM2_HUMAN oo  Len:  483  Check:  2859  Weight:  20.4
+ Name: KRM1_HUMAN oo  Len:  483  Check:   942  Weight:  20.4
+ Name: 1kdu_ oo  Len:  483  Check:  9497  Weight:  18.6
+ Name: 1a0h_A oo  Len:  483  Check:  6909  Weight:  21.6
+ Name: 1b2i_A oo  Len:  483  Check:   468  Weight:  18.6
+
+//
+
+
+
+KRM2_HUMAN      MGTQALQGFL FLLFLPLLQP RGASAGSLHS PGLSECFQVN GADYRGHQNR 
+KRM1_HUMAN      MAPPAARLAL LSAAALTLAA RPAPSPGLGP G..PECFTAN GADYRGTQNW 
+1kdu_           .......... .......... .......... .....CYEGN GHFYRGKAS. 
+1a0h_A          .......... .......... .........S PLLETCVPDR GREYRGRLAV 
+1b2i_A          .......... .......... .......... .....CMHGS GENYDGKISK 
+
+
+KRM2_HUMAN      TGPRGAGRPC LFWD..QTQQ HSYSSASDPH GRWGLGAHNF CRNPD.GDVQ 
+KRM1_HUMAN      TALQGG.KPC LFWN..ETFQ HPYNTLKYPN GEGGLGEHNY CRNPD.GDVS 
+1kdu_           TDTMGR..PC LPWNSATVLQ QTYHAHRSDA G...LGKN.Y CRNPD.NRRR 
+1a0h_A          TTHGSR...C LAWSSEQAKA LSKDQDFNPA V...PLAENF CRNPDGDEEG 
+1b2i_A          TMSGLE...C QAWDSQSPHA HGYIPSKFPN K...NLKKNY CRNPD.RELR 
+
+
+KRM2_HUMAN      PWCYVAETEE GIYWRYCDIP SCHMPGYLGC FVDSGAPPAL SGPSGTSTKL 
+KRM1_HUMAN      PWCYVAEHED GVYWKYCEIP ACQMPGNLGC YKDHGNPPPL TGTSKTSNKL 
+1kdu_           PWCYVQGLKP ..LVQECMVH DCAD...... .......... .......... 
+1a0h_A          AWCYVADQPG ..DFEYCDLN YCEEPVDG.. ..DLGDRLGE DPDAAIEGRT 
+1b2i_A          PWCFTTDPNK ..RWELCDIP RCT....... .......... .......... 
+
+
+KRM2_HUMAN      TVQVCLRFCR MKGYQLAGVE AGYACFCGSE SDLARGRLAP ATDCDQICFG 
+KRM1_HUMAN      TIQTCISFCR SQRFKFAGME SGYACFCGNN PDYWKYGEAA STECNSVCFG 
+1kdu_           .......... .......... .......... .......... .......... 
+1a0h_A          SEDHFQPFFN EKTFGAG... ...EADCGLR PLFEKKQVQD QTEKELFESY 
+1b2i_A          .......... .......... .......... .......... .......... 
+
+
+KRM2_HUMAN      HPGQLCGGDG RLGVYEVSVG SCQGNWTAPQ GVIYSPDFPD EYGPDRNCSW 
+KRM1_HUMAN      DHTQPCGGDG RIILFDTLVG ACGGNYSAMS SVVYSPDFPD TYATGRVCYW 
+1kdu_           .......... .......... .......... .......... .......... 
+1a0h_A          IEGR...... .......... .......... .......... .......... 
+1b2i_A          .......... .......... .......... .......... .......... 
+
+
+KRM2_HUMAN      ALGPPGA.AL ELTFRLFELA DPRDRLELRD AASGSLLRAF DGARPPPSGP 
+KRM1_HUMAN      TIRVPGASHI HFSFPLFDIR DSADMVELLD GYTHRVLARF HGRSRPPLS. 
+1kdu_           .......... .......... .......... .......... .......... 
+1a0h_A          .......... .......... .......... .......... .......... 
+1b2i_A          .......... .......... .......... .......... .......... 
+
+
+KRM2_HUMAN      LRLGTAALLL TFRSDARGHA QGFALTYRGL QDAAEDPEAP EGSAQTPAAP 
+KRM1_HUMAN      FNVSLDFVIL YFFSDRINQA QGFAVLYQAV KEELPQ.ERP AVNQTVAEVI 
+1kdu_           .......... .......... .......... .......... .......... 
+1a0h_A          .......... .......... .......... .......... .......... 
+1b2i_A          .......... .......... .......... .......... .......... 
+
+
+KRM2_HUMAN      LDGANVSCSP RPG....... ......APPA AIGARVFSTV TAVS...VLL 
+KRM1_HUMAN      TEQANLSVSA ARSSKVLYVI TTSPSHPPQT VPGSNSWAPP MGAGSHRVEG 
+1kdu_           .......... .......... .......... .......... .......... 
+1a0h_A          .......... .......... .......... .......... .......... 
+1b2i_A          .......... .......... .......... .......... .......... 
+
+
+KRM2_HUMAN      LLLLGLLRPL RR.RSCLLAP GKGPPALGAS RGPRRSWAVW YQQPRGVALP 
+KRM1_HUMAN      WTVYGLATLL ILTVTAIVAK ILLHVTFKSH RVPASGDLRD CHQPGTSGEI 
+1kdu_           .......... .......... .......... .......... .......... 
+1a0h_A          .......... .......... .......... .......... .......... 
+1b2i_A          .......... .......... .......... .......... .......... 
+
+
+KRM2_HUMAN      CSPGDPQAEG SAAGYRPLSA SSQSSLRSLI SAL
+KRM1_HUMAN      WSIFYKPSTS ISIFKKKLKG QSQQDDRNPL VSD
+1kdu_           .......... .......... .......... ...
+1a0h_A          .......... .......... .......... ...
+1b2i_A          .......... .......... .......... ...
+

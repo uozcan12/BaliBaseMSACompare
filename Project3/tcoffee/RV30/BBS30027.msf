@@ -1,0 +1,96 @@
+PileUp
+
+
+
+   MSF:  139  Type: P    Check:  1062   .. 
+
+ Name: 1dvh_ oo  Len:  139  Check:  2965  Weight:  1.000
+ Name: C553_DESVM oo  Len:  139  Check:  2934  Weight:  1.000
+ Name: C553_DESDN oo  Len:  139  Check:  1161  Weight:  1.000
+ Name: CYSD_CHLLT oo  Len:  139  Check:   281  Weight:  1.000
+ Name: 1b7v_A oo  Len:  139  Check:   941  Weight:  1.000
+ Name: 1cno_A oo  Len:  139  Check:  3934  Weight:  1.000
+ Name: 1h1o_A oo  Len:  139  Check:  5941  Weight:  1.000
+ Name: CYSD_CHLTE oo  Len:  139  Check:  2207  Weight:  1.000
+ Name: C554_PARSP oo  Len:  139  Check:  4242  Weight:  1.000
+ Name: 1fj0_A oo  Len:  139  Check:  6107  Weight:  1.000
+ Name: 155c_ oo  Len:  139  Check:  5429  Weight:  1.000
+ Name: C550_PARPN oo  Len:  139  Check:  7542  Weight:  1.000
+ Name: 1akk_ oo  Len:  139  Check:  8772  Weight:  1.000
+ Name: CYC_ASPNG oo  Len:  139  Check:   233  Weight:  1.000
+ Name: CYC_DEBHA oo  Len:  139  Check:  1562  Weight:  1.000
+ Name: CYC_SCHPO oo  Len:  139  Check:  9292  Weight:  1.000
+ Name: CY2_RHOGL oo  Len:  139  Check:  1114  Weight:  1.000
+ Name: CY2_RHOVA oo  Len:  139  Check:  9140  Weight:  1.000
+ Name: CY22_RHOFU oo  Len:  139  Check:  8211  Weight:  1.000
+ Name: CY21_RHOCE oo  Len:  139  Check:  9054  Weight:  1.000
+
+//
+
+
+
+1dvh_           ADGAALY.K. ........SC IGCHGADGSK ......AA.M GSAKPVKGQG 
+C553_DESVM      ADGAALY.K. ........SC VGCHGADGSK ......QA.M GVGHAVKGQK 
+C553_DESDN      DLGAERYAK. ........MC KSCHGADGSN ......AA.M S..RALKGLP 
+CYSD_CHLLT      PRGEILS.L. ........SC AGCHGTDGKS ......ES.I I..PTIYGRS 
+1b7v_A          VDAEAVVQQ. ........KC ISCHGGDLTG ......AS.. A..PAIDKAG 
+1cno_A          EAGKAKA.A. ........VC AACHGQNGIS ......QVPI Y..PNLAGQK 
+1h1o_A          KEGKAIF.NQ GVTNEQIPAC MECHGSDGQG ......AG.P F..PRLAGQR 
+CYSD_CHLTE      SRGEILS.L. ........SC AGCHGTDGNS ......SS.V I..PSIYGKS 
+C554_PARSP      AAGEDKI.G. ........TC VACHGTDGQG ......LAPI Y..PNLTGQS 
+1fj0_A          KAGEAVF.K. ........QC MTCHRADK.. .......NMV G..PALAGVV 
+155c_           AKGEKEF.N. ........KC KACHMIQAPD GTDI.KGGKT G..PNLYGVV 
+C550_PARPN      AKGEKEF.N. ........KC KACHMVQAPD GTDIVKGGKT G..PNLYGVV 
+1akk_           EKGKKIF.VQ ........KC AQCHTVEKGG ......KHKT G..PNLHGLF 
+CYC_ASPNG       AKGAKLF.QT ........RC AQCHTVEAGG ......PHKV G..PNLHGLF 
+CYC_DEBHA       KKGANLF.KT ........RC LQCHTVEEGG ......PHKV G..PNLHGVV 
+CYC_SCHPO       KKGASLF.KT ........RC AQCHTVEKGG ......ANKV G..PNLHGVF 
+CY2_RHOGL       VEGKHLF.HT ........IC ILCHTDIKG. ......RNKV G..PSLYGVV 
+CY2_RHOVA       VKGEQVF.K. ........QC KICHQVGPTA ......KNGV G..PEQNDVF 
+CY22_RHOFU      ADAPPAF.G. ........MC KACHSVEA.G ......KNGV G..PSLAGVY 
+CY21_RHOCE      VKGEAVF.K. ........KC MACHRIGPDA ......KNLV G..PVLTGVV 
+
+
+1dvh_           A......... .......... .........E ELYKKMKGYA DGSYGGER.. 
+C553_DESVM      A......... .......... .........D ELFKKLKGYA DGSYGGEK.. 
+C553_DESDN      A......... .......... .........E EVKAALIGYK EQTYGGKK.. 
+CYSD_CHLLT      A......... .......... .........E YIESALLDFK SGAR...P.. 
+1b7v_A          A......... .......... .........N YSEEEILDII LNGQGG.... 
+1cno_A          E......... .......... .........Q YLVAALKAYK AGQRQGGQ.. 
+1h1o_A          Y......... .......... .........G YIIQQLTYFH NGTR...V.. 
+CYSD_CHLTE      P......... .......... .........E YIETALIDFK NGSR...T.. 
+C554_PARSP      A......... .......... .........T YLESSIKAYR DGQRKGGN.. 
+1fj0_A          GRKAGTAAGF TYSPL..... NHNSGEAGLV WTADNIVPYL ADPNAFLKKF 
+155c_           GRKIASEEGF KYGEGILEVA EK...NPDLT WTEANLIEYV TDPKPLVKKM 
+C550_PARPN      GRKIASEEGF KYGDGILEVA EK...NPDLV WTEADLIEYV TDPKPWLVEK 
+1akk_           GRKTGQAPGF TYTDA..... NK...NKGIT WKEETLMEYL ENPKKYIP.. 
+CYC_ASPNG       GRKTGQSEGY AYTDA..... NK...QAGVT WDENTLFSYL ENPKKFIP.. 
+CYC_DEBHA       GRTSGQAQGF SYTDA..... NK...KKGVE WTEQDLSDYL ENPKKYIP.. 
+CYC_SCHPO       GRKTGQAEGF SYTEA..... NR...DKGIT WDEETLFAYL ENPKKYIP.. 
+CY2_RHOGL       GRHSGIEPGY NYSEA..... NI...KSGIV WTPDVLFKYI EHPQKIVP.. 
+CY2_RHOVA       GQKAGARPGF NYSDA..... MK...NSGLT WDEATLDKYL ENPKAVVP.. 
+CY22_RHOFU      GRKAGTLAGF KFSDP..... HA...KSGLT WDEPTLTKYL ADPKGVIP.. 
+CY21_RHOCE      GRQAGVAPGF SYSAL..... NHAAGEAGLH WTAENIMAYL PDPNAFLRKF 
+
+
+1dvh_           .......... ..KAMMTNAV K.KYSDEELK ALADYMSKL
+C553_DESVM      .......... ..KAVMTNLV K.RYSDEEMK AMADYMSKL
+C553_DESDN      .......... ..KGMMERVV K.SLTDEDIE VLATHIGTF
+CYSD_CHLLT      .......... ..STVMGRHA K.GYSDEEIH QIAEYFGSL
+1b7v_A          .......... ....MPGGI. ...AKGAEAE AVAAWLAEK
+1cno_A          .......... ..APVMQGQA T.ALSDADIA NLAAYYASN
+1h1o_A          .......... ..NTLMNQIA K.NITVAQMK DVAAYLSSL
+CYSD_CHLTE      .......... ..STVMGRHA K.GYTGEEIH LIAEYFGNL
+C554_PARSP      .......... ..AALMTPMA Q.GLSDEDIA DIAAYYSSQ
+1fj0_A          LTEKGKADQA VGVTKM..TF K.LANEQQRK DVVAYLATL
+155c_           TD......DK GAKTKM..TF K...MGKNQA DVVAFLAQD
+C550_PARPN      TG......DS AAKTKM..TF K...LGKNQA DVVAFLAQN
+1akk_           .......... ..GTKM..IF AGIKKKTERE DLIAYLKKA
+CYC_ASPNG       .......... ..GTKM..AF GGLKKGKERN DLITYLKES
+CYC_DEBHA       .......... ..GTKM..AF GGLKKAKDRN DLITYLVKA
+CYC_SCHPO       .......... ..GTKM..AF AGFKKPADRN NVITYLKKA
+CY2_RHOGL       .......... ..GTKM..GY PGQPDPQKRA DIIAYLETL
+CY2_RHOVA       .......... ..GTKM..VF VGLKNPQDRA DVIAYLKQL
+CY22_RHOFU      .......... ..GNKM..VF AGLKNPADVA AVIAYLKSL
+CY21_RHOCE      VTDAGNPEAA KGSTKM..VF K.LPNEQERK DVVAYLKTF
+

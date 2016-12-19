@@ -1,0 +1,358 @@
+PileUp
+
+
+
+   MSF:  624  Type: P    Check:  3332   .. 
+
+ Name: 1oxa_ oo  Len:  624  Check:  9510  Weight:  1.000
+ Name: 1cl6_A oo  Len:  624  Check:   786  Weight:  1.000
+ Name: 1cpt_ oo  Len:  624  Check:   522  Weight:  1.000
+ Name: 1phd_ oo  Len:  624  Check:  9763  Weight:  1.000
+ Name: 1lgf_A oo  Len:  624  Check:  4696  Weight:  1.000
+ Name: 1pkf_A oo  Len:  624  Check:  2000  Weight:  1.000
+ Name: CPXM_BACSU oo  Len:  624  Check:  9383  Weight:  1.000
+ Name: CPXK_SACER oo  Len:  624  Check:  2614  Weight:  1.000
+ Name: BIOI_BACSU oo  Len:  624  Check:  5062  Weight:  1.000
+ Name: C13B_XYLFA oo  Len:  624  Check:  9934  Weight:  1.000
+ Name: CPXG_STRSQ oo  Len:  624  Check:  7874  Weight:  1.000
+ Name: NOR2_CYLTO oo  Len:  624  Check:  8418  Weight:  1.000
+ Name: CPXF_STRGO oo  Len:  624  Check:  8608  Weight:  1.000
+ Name: CPS2_STRCC oo  Len:  624  Check:  3263  Weight:  1.000
+ Name: CPXE_STRGO oo  Len:  624  Check:  3490  Weight:  1.000
+ Name: CPXH_STRGR oo  Len:  624  Check:  4993  Weight:  1.000
+ Name: FAS1_RHOFA oo  Len:  624  Check:  1166  Weight:  1.000
+ Name: C5C4_AMYOR oo  Len:  624  Check:  9446  Weight:  1.000
+ Name: 2hpd_A oo  Len:  624  Check:  9535  Weight:  1.000
+ Name: 1e9x_A oo  Len:  624  Check:  5206  Weight:  1.000
+ Name: 1dt6_A oo  Len:  624  Check:  5115  Weight:  1.000
+ Name: 1izo_A oo  Len:  624  Check:  9757  Weight:  1.000
+ Name: 1n97_A oo  Len:  624  Check:  2191  Weight:  1.000
+
+//
+
+
+
+1oxa_           DLESD...SF HVDWYSTYA. ELRET.APVT PV.....R.F LGQDAWLVTG 
+1cl6_A          FPFSR...AS GPEPPAEFA. KLRAT.NPVS QV.....KLF DGSLAWLVTK 
+1cpt_           LPQGY...AD DEVIYPAFK. WLRDE.QPLA MA.....HIE GYDPMWIATK 
+1phd_           MYNPS...NL SAGVQEAWA. VLQESNVPDL VW.....TRC NGG.HWIATR 
+1lgf_A          DPRPLHIRRQ GLDPADE... .LLAA.GAL. .......TRV TAETHWMATA 
+1pkf_A          KPFAP...GY AEDPFPAIE. RLREA.TPIF Y........W DEGRSWVLTR 
+CPXM_BACSU      LHSE....KD RLFPFPIYD. KLRRE.SPVR YD.....P.. .LRDCWDVFK 
+CPXK_SACER      DA.......F AQDRHNRYA. RMRE..EPVQ RI.....RTV NGLDAWLITR 
+BIOI_BACSU      TASS....EF LKNPYSFYD. TLRAV.HPIY KG.....S.F LKYPGWYVTG 
+C13B_XYLFA      LSNP....AF LENPYPLYE. TLRAQ.APFV SI........ .GPNALMTGR 
+CPXG_STRSQ      STVR....EN YFGPPAEMQ. ALRHK.APVT RT.....AFA DGRPGWLVTG 
+NOR2_CYLTO      FQ..R...AS AFEPPAEFA. RLRAN.EPIS QV.....ELF DGSLAWLVVK 
+CPXF_STRGO      RAPG.....C PFDPAPDVT. EAART.EPVT RA.....TLW DGSSCWLVTR 
+CPS2_STRCC      ADRT.....C PYQLPTAYS. RLRDEPDALR PV.....TLY DGRRAWVVTK 
+CPXE_STRGO      SNRS.....C PYQLPDGYA. QLRDTPGPLH RV.....TLY DGRQAWVVTK 
+CPXH_STRGR      QDRG.....C PYHPPAGYA. PLREG.RPLS RV.....TLF DGRPVWAVTG 
+FAS1_RHOFA      LEMR....RN GLNPTEELA. QVRDR.DGVI PV.....GEL YGAPAFLVCR 
+C5C4_AMYOR      N......... .CDPHEDNF. GLRAH.GPLV RIVGESSTQL GRDFVWQAHG 
+2hpd_A          KNLPL...LN TDKPVQALM. KIADELGEIF KF.....E.A PG....RVTR 
+1e9x_A          HGHLE...EF RTDPIGLMQ. RVRDECGDVG TF.....Q.L AGKQVVLLSG 
+1dt6_A          GNILQ...ID AKDISKSLT. KFSECYGPVF T......VYL GMKPTVVLHG 
+1izo_A          DNSLT...LL KEGYLFIKNR TERY.NSDLF QA.....R.L LGKNFICMTG 
+1n97_A          WPYLK...DL QQDPLAVLL. AWGR.AHPRL FL.....P.L PRFPLALIFD 
+
+
+1oxa_           YDEAKA.AL. ...SDLR.LS S.....DPKK K......... .YPG.VEVEF 
+1cl6_A          HKDVCF.VA. ...TSEK.LS K.....VRTR QG........ .FPE.LSAS. 
+1cpt_           HADVMQ.IG. ...KQPG.LF S.....NAEG SEILYDQNNE AFMR.SISG. 
+1phd_           GQLIRE.AY. ...EDYR.HF S.....SE.. .......... .CPF.IPRE. 
+1lgf_A          HAVVRQ.VM. ...GDHQ.QF S.....TRRR W......... .DPRDEIGG. 
+1pkf_A          YHDVSA.VF. ...RDER.FA V.....SREE WE........ .SSAEYSSA. 
+CPXM_BACSU      YDDVQF.VL. ...KNPK.LF S.....SKRG .......... .......... 
+CPXK_SACER      YEDVKQ.AL. ...LDPR.IA K.....DFGR T......... .QQI.IEKRL 
+BIOI_BACSU      YEETAA.IL. ...KDAR.FK V......RTP .......... .LPE.SSTK. 
+C13B_XYLFA      YSLVDS.LL. ...HNRN.MG KKYMESMRVR .......... .YGD.SAAD. 
+CPXG_STRSQ      YSAARA.VL. ...SDSR.FT A.....RGER E......... .HPA...... 
+NOR2_CYLTO      HEDVCR.VA. ...TDER.LS K.....ERTR LG........ .FPE.LSAG. 
+CPXF_STRGO      HQDVRA.VL. ...GDPR.FS A.....DAHR TG........ .FPF.LTAG. 
+CPS2_STRCC      HEAARR.LL. ...ADPR.LS S.....DRLH AD........ .FPA.TSPR. 
+CPXE_STRGO      HEAARK.LL. ...GDPR.LS S.....NRTD DN........ .FPA.TSPR. 
+CPXH_STRGR      HALARR.LL. ...ADPR.LS T.....DRSH PD........ .FPV.PAER. 
+FAS1_RHOFA      YEDVRR.IF. ...ADSN.RF S.....NAHT P......... .MFAIPSGG. 
+C5C4_AMYOR      YEVVRR.IL. ...GDHE.HF T.....TRPQ .......... .FTQ.SKSG. 
+2hpd_A          YLSSQR.LIK EACDESR.FD K.....NLSQ A......... .LK....... 
+1e9x_A          SHANEF.FFR A..GDDD.LD Q.......AK A......... .YP....... 
+1dt6_A          YEAVKE.AL. ...VDLGEEF A.....GRGS .......... .VPI.LEKV. 
+1izo_A          AEAAKV.FY. ...DTDR.FQ R.......QN A......... .LPK.R.... 
+1n97_A          PEGVEGALL. ...AEGT.TK A.......TF Q......... .YR....... 
+
+
+1oxa_           PAYLGFP.E. .DVRNYF.AT NMGT..SDPP ...THTRLRK LVSQEFTVRR 
+1cl6_A          .....GK... .QAAK.A.KP TFVD..MDPP ...EHMHQRS MVEPTFTPEA 
+1cpt_           .......... .GCPH.V.ID SLTS..MDPP ...THTAYRG LTLNWFQPAS 
+1phd_           .....AG... ...EA.Y.DF IPTS..MDPP ...EQRQFRA LANQVVGMPV 
+1lgf_A          .....KGIF. .RPRE.L.VG NLMD..YDPP ...EHTRLRR KLTPGFTLRK 
+1pkf_A          .....IP... .ELSDMK.KY GLFG..LPPE ...DHARVRK LVNPSFTSRA 
+CPXM_BACSU      .......... .....IQ.TE SILT..MDPP ...KHTKLRA LVSRAFTPKA 
+CPXK_SACER      ADAERRP... .GFSPDL.GP HMLN..TDPP ...DHTRLRK LVVKAFTARR 
+BIOI_BACSU      .....YQ... .DLSHVQ.NQ MMLF..QNQP ...DHRRLRT LASGAFTPRT 
+C13B_XYLFA      .....MP... .LFQA.F.SR MFIT..INPP ...AHTHLRG LVMQAFTGRE 
+CPXG_STRSQ      .......... .......... .VPR..AATL ...EDERCRR LIAGQFTARR 
+NOR2_CYLTO      .....GK... .AAAK.N.KP TFVD..MDAP ...AHMNQRS MVEPFFTEDH 
+CPXF_STRGO      .....GR... .EIIG.T.NP TFLR..MDDP ...EHARLRR MLTADFIVKK 
+CPS2_STRCC      .....FK... .AFRQ.G.SP AFIG..MDPP ...EHGTRRR MTISEFTVKR 
+CPXE_STRGO      .....FE... .AVRE.S.PQ AFIG..LDPP ...EHGTRRR MTISEFTVKR 
+CPXH_STRGR      .....FA... .GAQR.R.RV ALLG..VDDP ...EHNTQRR MLIPTFSVKR 
+FAS1_RHOFA      .....DVIED ELAAM.R.AG NLIG..LDPP ...DHTRLRH ILAAEFSVHR 
+C5C4_AMYOR      .....AH... .VEAQ.F.VG QIST..YDPP ...EHTRLRK MLTPEFTVRR 
+2hpd_A          .......... .FVRDFAG.D GLFTSWTHEK ...NWKKAHN ILLPSFSQQA 
+1e9x_A          .......... .FMTPIFG.E GVVF..DASP ...E.RRKEM LHNAALRGEQ 
+1dt6_A          .....S.... ...KG.L.G. .IAF..SNAK TWKEMRRFSL MTLRNFGM.G 
+1izo_A          .......... .VQKSLFGVN AIQG..MDGS ...AHIHRKM LFLSLMTPPH 
+1n97_A          .......... .ALSRLTG.R GLLT..DWGE ...SWKEARK ALKDPFLPKN 
+
+
+1oxa_           VEAMRPRVEQ ITAELLDEVG DS....G... VVDIVDR..F AH.PLPIKVI 
+1cl6_A          VKNLQPYIQR TVDDLLEQMK QKGCANG... PVDLVKE..F AL.PVPSYII 
+1cpt_           IRKLEENIRR IAQASVQRLL DFD...G... ECDFMTD..C AL.YYPLHVV 
+1phd_           VDKLENRIQE LACSLIESLR PQ....G... QCNFTED..Y AE.PFPIRIF 
+1lgf_A          MQRMAPYIEQ IVNDRLDEME RAG...S... PADLIAF..V AD.KVPGAVL 
+1pkf_A          IDLLRAEIQR TVDQLLDARS GQ....E... EFDVVRD..Y AE.GIPMRAI 
+CPXM_BACSU      VKQLETRIKD VTAFLLQEAR QK....S... TIDIIED..F AG.PLPVIII 
+CPXK_SACER      VEGLRPRIEQ ITDDLLDRLA GR....S... EVDLIDE..F AF.PLPITVI 
+BIOI_BACSU      TESYQPYIIE TVHHLLDQVQ GK....K... KMEVISD..F AF.PLASFVI 
+C13B_XYLFA      SESMRPLAID TAHQLIDNFE QK....P... SVDLVAE..F AF.PFPMQII 
+CPXG_STRSQ      MRQLTGRTER IVREHLDAME HMG...S... PADLVEH..F AL.PVPSLVI 
+NOR2_CYLTO      VENLRPYIKE TVQGLLNDMV ANGC.EE... PVDLIEK..F AL.PVPSYII 
+CPXF_STRGO      VEAMRPEVQR LADDLVDRMT TGR...T... SADLVTE..F AL.PLPSLVI 
+CPS2_STRCC      IKGMRPDVER IVHGFIDDML AAG...P... TADLVSQ..F AL.PVPSMVI 
+CPXE_STRGO      IKGMRPEVEE VVHGFLDEML AAG...P... TADLVSQ..F AL.PVPSMVI 
+CPXH_STRGR      IGALRPRIQE TVDRLLDAME RQG...P... PAELVSA..F AL.PVPSMVI 
+FAS1_RHOFA      LSRLQPRIAE IVDSALDGLE QAG...Q... PADLMDR..Y AL.PVSLLVL 
+C5C4_AMYOR      IRRMEPAIQS LIDDRLDLLE AEG...P... SADLQGL..F AD.PVGAHAL 
+2hpd_A          MKGYHAMMVD IAVQLVQKWE RL....NADE HIEVPED..M TR.LT..LDT 
+1e9x_A          MKGHAATIED QVRRMIADWG EA....G... EIDLLDF..F AE.LTIYTSS 
+1dt6_A          KRSIEDRIQE EARCLVEELR KT....N... ASPCDPT..F ILGCAPCNVI 
+1izo_A          QKRLAELMTE EWKAAVTRWE K......... .ADEVVLFEE AK.EILCRVA 
+1n97_A          VRGYREAMEE EARAFFGEWR G.....E... ERDLDHE.ML AL.SL.RLLG 
+
+
+1oxa_           CELL...... .......... .......... GVDEAARGAF GRW....SSE 
+1cl6_A          YTLL...... .......... .......... GVPFNDLEYL TQQ....NAI 
+1cpt_           MTAL...... .......... .......... GVPEDDEPLM LKL....TQD 
+1phd_           MLLA...... .......... .......... GLPEEDIPHL KYL....TDQ 
+1lgf_A          CELV...... .......... .......... GVPRDDRDMF MKL....CHG 
+1pkf_A          SALL...... .......... .......... KVPAECDEKF RRF....GSA 
+CPXM_BACSU      AEML...... .......... .......... GAPIEDRHLI KTY....SDV 
+CPXK_SACER      SELM...... .......... .......... GVEDSRRDDF RSW....TNV 
+BIOI_BACSU      ANII...... .......... .......... GVPEEDREQL KEW....AAS 
+C13B_XYLFA      CKMM...... .......... .......... DVDIGDAVTL GIA....VSK 
+CPXG_STRSQ      AELL...... .......... .......... GVPPPDREHF QHD....TLR 
+NOR2_CYLTO      YTIL...... .......... .......... GVPFEDLEYL TEQ....NAI 
+CPXF_STRGO      CLLL...... .......... .......... GVPYEDHAFF QER....SRV 
+CPS2_STRCC      CHML...... .......... .......... GVPYADHEFF QDA....SKR 
+CPXE_STRGO      CRLL...... .......... .......... GVPYADHEFF QDA....SKR 
+CPXH_STRGR      CALL...... .......... .......... GVPYADHAFF EER....SQR 
+FAS1_RHOFA      CELL...... .......... .......... GVPYADRDEL RDR....TAR 
+C5C4_AMYOR      CELL...... .......... .......... GIPRDDQREF VRR....IRR 
+2hpd_A          IGLC...... .......... .......... GFNYRFNSFY RDQPHPFITS 
+1e9x_A          ACLI...... .......... .......... GKKFRDQL.. DG....RFAK 
+1dt6_A          CSVIFHNRFD YKDEEFLKLM ESLHENVELL GTPLDYFPGI .......HKT 
+1izo_A          CYWA...... .......... .......... GVPLKETE.V KE....RADD 
+1n97_A          RALF...... .......... .......... GKPLSPS..L AE....HALK 
+
+
+1oxa_           ILVMDPE... .......... .....R.... ...AEQR... ......GQAA 
+1cl6_A          R.TNGSS... .......... .....T.... ...AREA... ......SAAN 
+1cpt_           F.FG.VE... .......... .....A.... ...ARRF... ......HETI 
+1phd_           M.TRPD.... .......... .....G.... ...SMTF... ......AEAK 
+1lgf_A          H.LDASL... .......... .....S.... ...QKRR... ......AALG 
+1pkf_A          T.ARALGVG. .......... .....LVPRV DEETKTL... ......VASV 
+CPXM_BACSU      L.VAGAK... .......... .....D.... ...SSDKAVA DMVHNRRDGH 
+CPXK_SACER      L.VD.GS... .......... .....Q.... ...PEAQ... ......AQAS 
+BIOI_BACSU      L.IQTIDFT. .......... .R...S.... ...RKALTE. .....GNIMA 
+C13B_XYLFA      I.AKVFDPSP .......... .M...S.... ...ADELVH. .....ASTAY 
+CPXG_STRSQ      W.GGFGR... .......... .....S.... ...TEEV... ......TEAF 
+NOR2_CYLTO      R.SNGSG... .......... .....T.... ...AQEA... ......AAAN 
+CPXF_STRGO      L.LTLRS... .......... .....T.... ...PEEV... ......RAAQ 
+CPS2_STRCC      L.VQAV.... .......... .....D.... ...ADSA... ......VAAR 
+CPXE_STRGO      L.VQST.... .......... .....D.... ...AQSA... ......LTAR 
+CPXH_STRGR      L.LRGP.... .......... .....G.... ...ADDV... ......NRAR 
+FAS1_RHOFA      L.LDLSA... .......... .....S.... ...AEQR... ......AVAQ 
+C5C4_AMYOR      N.ADLSR... .......... .....G.... ...LKAR... ......AADS 
+2hpd_A          M.VRALDEAM NKLQRANPDD PAYDEN.... ...KRQF... ......QEDI 
+1e9x_A          L.YHELERGT DPLAYVDPYL P..IES.... ...FRRR... ......DEAR 
+1dt6_A          L.L....... .......... .......... .......... .......... 
+1izo_A          F.IDMVDAFG A.V......G P.RHW..... ...KGRR... ......AR.. 
+1n97_A          A.LD...... .......... .......... ....RIM... ......AQ.T 
+
+
+1oxa_           REVVNFILDL VERRR..... ....T..... ...EP.GDD. ..LLSALIS. 
+1cl6_A          QELLDYLAIL VEQRL..... ....V..... ...EP.KDD. ..IISKLCT. 
+1cpt_           ATFYDYFNGF TVDRR..... ....S..... ...CP.KDD. ..VMSLLAN. 
+1phd_           EALYDYLIPI IEQRR..... ....Q..... ...KP.GTD. ..AISIVAN. 
+1lgf_A          DKFSRYLLAM IARER..... ....K..... ...EP.GEG. ..MIGAVVA. 
+1pkf_A          TEGLALLHGV LDERR..... ....R..... ...NPLEND. ..VLTMLLQ. 
+CPXM_BACSU      AFLSDYFRDI LSKRR..... ....A..... ...EP.KED. ..LMTMLLQ. 
+CPXK_SACER      VAMVEYLTEL IAKKR..... ....T..... ...EP.GDD. ..LLTALLE. 
+BIOI_BACSU      VQAMAYFKEL IQKRK..... ....R..... ...HP.QQD. ..MISMLLK. 
+C13B_XYLFA      EELAQYFTKL IELRR..... ....T..... ...HP.GTD. ..LISMFLR. 
+CPXG_STRSQ      VSLGGQLQRL VRLKR..... ....T..... ...EP.GDD. ..LLSGLIA. 
+NOR2_CYLTO      QQLLKYLAKL VDQRL..... ....Q..... ...EP.KDD. ..LIGRLVD. 
+CPXF_STRGO      DELLEYLARL ARTKR..... ....E..... ...RP.DDA. ..IISRLVA. 
+CPS2_STRCC      DDFERYLDGL ITKLE..... ....S..... ...EP.GTG. ..LLGKLVT. 
+CPXE_STRGO      NDLAGYLDGL ITQFQ..... ....T..... ...EP.GAG. ..LVGALVA. 
+CPXH_STRGR      DELEEYLGAL IDRKR..... ....A..... ...EP.GDG. ..LLDELIH. 
+FAS1_RHOFA      REDRRYMATL VTRAQ..... ....E..... ...QP.GDD. ..LLGILAR. 
+C5C4_AMYOR      AAFNRYLDNL LARQR..... ....A..... ...DP.DDG. ..LLGMIVR. 
+2hpd_A          KVMNDLVDKI IADRK..... ....A...SG ...EQ.SDD. ..LLTHMLN. 
+1e9x_A          NGLVALVADI MNGRI..... ....A...NP PTDKS.DRD. ..MLDVLIA. 
+1dt6_A          .KNADYIKNF IMEKVKEHQK LLDVN..... ...NP.RDF. ..IDCFLIKM 
+1izo_A          PRAEEWIEVM IEDAR..... ....AGLLKT ...TS.GTA. ..LHEMAF.. 
+1n97_A          RSPLALLD.L AAEA...... ......RFRK ...DR.GALY REAEALIV.. 
+
+
+1oxa_           V..QDDDDGR LSADELTSIA LVLLLAGFEA SVSLIGIGTY LLLTHPDQLA 
+1cl6_A          E..QV.KPGN IDKSDAVQIA FLLLVAGNAT MVNMIALGVA TLAQHPDQLA 
+1cpt_           S..KL.DGNY IDDKYINAYY VAIATAGHDT TSSSSGGAII GLSRNPEQLA 
+1phd_           G..QV.NGRP ITSDEAKRMC GLLLVGGLDT VVNFLSFSME FLAKSPEHRQ 
+1lgf_A          E.....YGDD ATDEELRGFC VQVMLAGDDN ISGMIGLGVL AMLRHPEQID 
+1pkf_A          A..EA.DGSR LSTKELVALV GAIIAAGTDT TIYLIAFAVL NLLRSPEALE 
+CPXM_BACSU      A..EI.DGEY LTEEQLIGFC ILLLVAGNET TTNLIANAVR YLTEDSVVQQ 
+CPXK_SACER      A..VE.DGDR LSEGELIAMV FLLLVAGHET TVNLIGNCVL SLLGNPDQLA 
+BIOI_BACSU      G..RE.K.DK LTEEEAASTC ILLAIAGHET TVNLISNSVL CLLQHPEQLL 
+C13B_XYLFA      A..EE.DGEK LTHDEIVSNV IMLLIAGYET TSNMIGNALI ALHRHPEQLA 
+CPXG_STRSQ      A.....D.PA LTDEELASIA FLLLVAGHGT TAHQIALGAF LLLEHPDQLA 
+NOR2_CYLTO      Q..QL.VPGH IEKSDAVQIA FLLLVAGNAT MVNMIALGVV TLMQNPSQLE 
+CPXF_STRGO      R.......GE LDDTQIATMG RLLLVAGHET TANMTALSTL VLLRNPDQLA 
+CPS2_STRCC      H..QL.ADGE IDRAELISTA LLLLVAGHET TASMTSLSVI TLLEHPDQHA 
+CPXE_STRGO      D..QL.ANGE IDREELISTA MLLLIAGHET TASMTSLSVI TLLDHPEQYA 
+CPXH_STRGR      R..DH.PDGP VDREQLVAFA VILLIAGHET TANMISLGTF TLLSHPEQLA 
+FAS1_RHOFA      K.....IGDN LSTDELISII SLIMLGGHET TASMIGLSVL ALLHHPEQAA 
+C5C4_AMYOR      D.....HGDN VTDEELKGLC TALILGGVET VAGMIGFGVL ALLDNPGQIE 
+2hpd_A          GKDPE.TGEP LDDENIRYQI ITFLIAGHET TSGLLSFALY FLVKNPHVLQ 
+1e9x_A          VKAET.GTPR FSADEITGMF ISMMFAGHHT SSGTASWTLI ELMRHRDAYA 
+1dt6_A          E..QE.NNLE FTLESLVIAV SDLFGAGTET TSTTLRYSLL LLLKHPEVAA 
+1izo_A          .HTQE.DGSQ LD.SRMAAIE LINVLRPIVA ISYFLVFSAL ALHEHPKYKE 
+1n97_A          .H..P.PLSH LPRERALSEA VTLLVAGHET VASALTWSFL LLSHRPDWQK 
+
+
+1oxa_           LVRADP.... .......... ....SA.... .......... ....L.PNAV 
+1cl6_A          QLKANP.... .......... ....SL.... .......... ....A.PQFV 
+1cpt_           LAKSDP.... .......... ....AL.... .......... ....I.PRLV 
+1phd_           ELIERP.... .......... ....ER.... .......... ....I.PAAC 
+1lgf_A          AFRGDE.... .......... ....QS.... .......... ....A.QRAV 
+1pkf_A          LVKAEP.... .......... ....GL.... .......... ....M.RNAL 
+CPXM_BACSU      QVRQNT.... .......... ....DN.... .......... ....V.ANVI 
+CPXK_SACER      ALRNDP.... .......... ....SL.... .......... ....L.PGAI 
+BIOI_BACSU      KLRENP.... .......... ....DL.... .......... ....I.GTAV 
+C13B_XYLFA      LLKSDL.... .......... ....SL.... .......... ....M.PQAV 
+CPXG_STRSQ      ALRADP.... .......... ....AL.... .......... ....T.ESAV 
+NOR2_CYLTO      ELKADP.... .......... ....TL.... .......... ....V.PGFV 
+CPXF_STRGO      RLRAEP.... .......... ....AL.... .......... ....V.KGAV 
+CPS2_STRCC      ALRADP.... .......... ....SL.... .......... ....V.PGAV 
+CPXE_STRGO      ALRADR.... .......... ....SL.... .......... ....V.PGAV 
+CPXH_STRGR      ALRAGG.... .......... ....TS.... .......... ....T.AVVV 
+FAS1_RHOFA      MMIEDP.... .......... ....NC.... .......... ....V.NSGI 
+C5C4_AMYOR      LLFESP.... .......... ....EK.... .......... ....A.ERVV 
+2hpd_A          KAAEEAARVL VDPVPS.YKQ VKQLKY.... .......... ....V.GMVL 
+1e9x_A          AVIDELDELY GDGRSVSFHA LRQIPQ.... .......... ....L.ENVL 
+1dt6_A          RVQEEI.... .......... ....ERVIGR HRSPCMQDRS RMPYT.DAVI 
+1izo_A          WLRSGN.... .......... ....SR.... .......... ....EREMFV 
+1n97_A          RVAESE.... .......... ....EA.... .......... ....A.LAAF 
+
+
+1oxa_           EEILRYIAPP E.TTTRFAAE EVEIGGV.AI PQYSTVLVAN GAANR....D 
+1cl6_A          EELCRYHTAS ALAIKRTAKE DVMIGDK.LV RANEGIIASN QSANR....D 
+1cpt_           DEAVRWTAPV K.SFMRTALA DTEVRGQ.NI KRGDRIMLSY PSANR....D 
+1phd_           EELLRRFSLV A..DGRILTS DYEFHGV.QL KKGDQILLPQ MLSGL....D 
+1lgf_A          DELIRYLTVP YSPTPRIARE DLTLAGQ.EI KKGDSVICSL PAANR....D 
+1pkf_A          DEVLRFENIL RIGTVRFARQ DLEYCGA.SI KKGEMVFLLI PSALR....D 
+CPXM_BACSU      EETLRYYSPV Q.AIGRVATE DTELGGV.FI KKGSSVISWI ASANR....D 
+CPXK_SACER      EETLRYESPV ANGTFRHTAE AVRFGDV.VI PEGELVWVAL GAANR....D 
+BIOI_BACSU      EECLRYESPT Q.MTARVASE DIDICGV.TI RQGEQVYLLL GAANR....D 
+C13B_XYLFA      SECLRYDGSV Q.FTMRAAMD DIEVEGE.LV PRGTVVFLML GAANR....D 
+CPXG_STRSQ      EELLRHLSVV HHGPTRAALQ DADIEGT.PV KAGEVVVVSL GAANR....D 
+NOR2_CYLTO      EELCRYHTGS SMAMKRVAKE DMELGGK.LI RAGEGIIASN QSANR....D 
+CPXF_STRGO      EELLRYLTIV HNGVPRIATE DVLIGGR.TI AAGEGVLCMI SSANR....D 
+CPS2_STRCC      EELLRVLAIA DIAGGRIATA DIEIDGQ.LI RAGEGVIVTN SIANR....D 
+CPXE_STRGO      EELLRYLAIA DIAGGRVATA DIEVEGH.LI RAGEGVIVVN SIANR....D 
+CPXH_STRGR      EELLRFLSIA E.GLQRLATE DMEVDGA.TI RKGEGVVFST SLINR....D 
+FAS1_RHOFA      EELLRWLSVA HSQPPRMAVT EVQIAGV.TI PAGSFVIPSL LAANR....D 
+C5C4_AMYOR      NELVRYLSPV QAPNPRLAIK DVVIDGQ.LI KAGDYVLCSI LMANR....D 
+2hpd_A          NEALRLWPTA P.AFSLYAKE DTVLGGEYPL EKGDELMVLI PQLHR....D 
+1e9x_A          KETLRLHPPL I.ILMRVAKG EFEVQGH.RI HEGDLVAASP AISNR....I 
+1dt6_A          HEIQRFIDLL PTNLPHAVTR DVRFRNY.FI PKGTDIITSL TSVLH....D 
+1izo_A          QEVRRYYPFG P.FLGALVKK DFVWNNC.EF KKGTSVLLDL YGTNH....D 
+1n97_A          QEALRLYPPA W.ILTRRLER PLLLGED.RL PPGTTLVLSP YVTQRLHFPD 
+
+
+1oxa_           PSQFPD.PHR FDVTR..... ....D..... .....TRGH. .....LS... 
+1cl6_A          EEVFEN.PDE FNMNR..... ....KW.... ....PPQDP. .....LG... 
+1cpt_           EEVFSN.PDE FDITR..... ....F..... .....PNRH. .....LG... 
+1phd_           ERENAC.PMH VDFSR..... ....Q..... .....KVSH. .....TT... 
+1lgf_A          PALAPD.VDR LDVTR..... ....E..... .....PIPH. .....VA... 
+1pkf_A          GTVFSR.PDV FDVRR..... ....D..... .....TSAS. .....LA... 
+CPXM_BACSU      EDKFCK.PDC FKIDR..... ....P..... .....SYPH. .....LS... 
+CPXK_SACER      GERFED.PDR FDITR..... ....E..... .....TTGH. .....VA... 
+BIOI_BACSU      PSIFTN.PDV FDITR..... ....S..... .....PNPH. .....LS... 
+C13B_XYLFA      PAQFTH.PDQ LDITR..... ....K..... .....QGRL. .....QS... 
+CPXG_STRSQ      PARFER.PDA VDVTR..... ....E..... .....DTGH. .....LA... 
+NOR2_CYLTO      EDVFPN.PDV FDMHR..... ....DF.... ....DSRDG. .....LG... 
+CPXF_STRGO      AEVFPG.GDD LDVAR..... ....D..... .....ARRH. .....VA... 
+CPS2_STRCC      SSVFEN.PDR LDVHR..... ....S..... .....ARHH. .....LS... 
+CPXE_STRGO      GTVYED.PDA LDIHR..... ....S..... .....ARHH. .....LA... 
+CPXH_STRGR      ADVFPR.AET LDWDR..... ....P..... .....ARHH. .....LA... 
+FAS1_RHOFA      SNLTDR.PDD LDITR..... ....G..... .....VAGH. .....LA... 
+C5C4_AMYOR      EALTPD.PDV LDANR..... ....A..... .....AVSD. .....VG... 
+2hpd_A          KTIWGDDVEE FRPER..... ....FENPSA I...PQHAF. .....KP... 
+1e9x_A          PEDFPD.PHD FVPAR..... ....YEQPRQ EDLLNRWTW. .....IP... 
+1dt6_A          EKAFPN.PKV FDPGHFLDES GNFKK..... .....SDYF. .....MP... 
+1izo_A          PRLWDH.PDE FRPER..... ....F..... .....AEREE NLFDMIPQGG 
+1n97_A          GEAF.R.PER FLEER..... ....G..... T...PSGRY. .....FP... 
+
+
+1oxa_           .FGQGIHFCM GRPLAKLEGE VALRALFGRF ....PALSLG IDADDVV... 
+1cl6_A          .FGFGDHRCI AEHLAKAELT TVFSTLYQKF ....PDLKVA VPLGKIN... 
+1cpt_           .FGWGAHMCL GQHLAKLEMK IFFEELLPKL ....KSVELS GPPRLV.... 
+1phd_           .FGHGSHLCL GQHLARREII VTLKEWLTRI ....PDFSIA P.GAQIQ... 
+1lgf_A          .FGHGVHHCL GAALARLELR TVFTELWRRF ....PALRLA DPAQDTE... 
+1pkf_A          .YGRGPHVCP GVSLARLEAE IAVGTIFRRF ....PEMKLK ETP.VFG... 
+CPXM_BACSU      .FGFGIHFCL GAPLARLEAN IALSSLLSMS ....ACIEKA AHDEKLE... 
+CPXK_SACER      .FGHGIHFCV GAALARLEAQ IAVGRLLERF ....PDLRMA ASPDDLR... 
+BIOI_BACSU      .FGHGHHVCL GSSLARLEAQ IAINTLLQRM ....PSLNLA D..FEWR... 
+C13B_XYLFA      .FGAGIHHCL GYRLALIELE CALTTLFERL ....PHLRLA H.LDALN... 
+CPXG_STRSQ      .FGHGMHQCL GRQLARIELR VALTALLERF ....PHLRLA CPAAEIP... 
+NOR2_CYLTO      .FGFGPHRCI AELLAKAELE IVFETLFATL ....PDLRVS IPLDEIE... 
+CPXF_STRGO      .FGFGVHQCL GQPLARVELQ IAIETLLRRL ....PDLRLA VPHEEIP... 
+CPS2_STRCC      .FGYGVHQCL GQNLARLELE VILTVLFDRI ....PTLRLA VPVEQLT... 
+CPXE_STRGO      .FGFGVHQCL GQNLARLELE VILNALMDRV ....PTLRLA VPVEQLV... 
+CPXH_STRGR      .FGFGVHQCL GQNLARAELD IAMRTLFERL ....PGLRLA VPAHEIR... 
+FAS1_RHOFA      .FGHGVHFCL GHSLARMTLR TAVPAVLRRF ....PDLALS .PSHDVR... 
+C5C4_AMYOR      .FGHGIHYCV GAALARSMLR MAYQTLWRRF ....PGLRLA VPIEEVK... 
+2hpd_A          .FGNGQRACI GQQFALHEAT LVLGMMLKHF ....DFEDHT NYELDIKETL 
+1e9x_A          .FGAGRHRCV GAAFAIMQIK AIFSVLLREY ....EF.EMA QPPESYR... 
+1dt6_A          .FSAGKRMCV GEGLARMELF LFLTSILQNF ....KLQSLV E.PKDLD... 
+1izo_A          GHAEKGHRCP GEGITIEVMK ASLDFLVHQI EYDVPEQSLH YS...LA.RM 
+1n97_A          .FGLGQRLCL GRDFALLEGP IVLRAFFRRF ....RLDPLP FPRV.LA.QV 
+
+
+1oxa_           .WRRS.LLLR GIDHL.PVR. ...L
+1cl6_A          .YTPL.NRDV GIVDL.PVI. ...F
+1cpt_           ...AT.NFVG GPKNV.PIR. ...F
+1phd_           .HK.S.GIVS GVQAL.PLV. ...W
+1lgf_A          .FRLT.TPAY GLTEL.MVA. ...W
+1pkf_A          .YH...PAFR NIESL.NVIL ....
+CPXM_BACSU      .AIPS.PFVF GVKRL.PVR. ...I
+CPXK_SACER      .WRFS.VLMR GLEKL.PVR. ...P
+BIOI_BACSU      .YRPL.FGFR ALEEL.PVT. ...F
+C13B_XYLFA      .WNQR.SNLR GVNTL.IVD. ...L
+CPXG_STRSQ      .LRHD.MQVY GADRL.PVA. ...W
+NOR2_CYLTO      .CTPR.HKDV GIVRL.PVK. ...W
+CPXF_STRGO      .FRGD.MAIY GVHSL.PIA. ...W
+CPS2_STRCC      .LRPG.TTIQ GVNEL.PVT. ...W
+CPXE_STRGO      .LRPG.TTIQ GVNEL.PVT. ...W
+CPXH_STRGR      .HKPG.DTIQ GLLDL.PVA. ...W
+FAS1_RHOFA      .LRSA.SIVL GLEEL.QLT. ...W
+C5C4_AMYOR      .YRSA..FVD CPDQV.PVT. ...W
+2hpd_A          TLKPE.GFVV K........A ....
+1e9x_A          .NDHS.KMVV QLAQPACVRY ....
+1dt6_A          .I..T.AVVN GFVSV.PPSY QLCF
+1izo_A          PSLPESGFVM S........G ....
+1n97_A          TLRPEGGLPA R........P ....
+

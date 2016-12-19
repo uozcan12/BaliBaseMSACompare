@@ -1,0 +1,233 @@
+PileUp
+
+
+
+   MSF:  689  Type: P    Check:  7914   .. 
+
+ Name: 1buc_A oo  Len:  689  Check:  7678  Weight:  8.5
+ Name: P45954 oo  Len:  689  Check:  5924  Weight:  8.2
+ Name: 1rx0_A oo  Len:  689  Check:  6277  Weight:  8.5
+ Name: Q9vsa3 oo  Len:  689  Check:   859  Weight:  8.5
+ Name: P79274 oo  Len:  689  Check:  5390  Weight:  8.2
+ Name: 1ivh_A oo  Len:  689  Check:  5634  Weight:  8.7
+ Name: Q8jzn5 oo  Len:  689  Check:  4830  Weight:  9.1
+ Name: P76200 oo  Len:  689  Check:  9649  Weight:  7.1
+ Name: Q9kje8 oo  Len:  689  Check:  8694  Weight:  7.2
+ Name: Q92947 oo  Len:  689  Check:  1522  Weight:  8.0
+ Name: Q10535 oo  Len:  689  Check:  7305  Weight:  10.4
+ Name: P71539 oo  Len:  689  Check:  9965  Weight:  7.0
+ Name: 1r2j_A oo  Len:  689  Check:  4187  Weight:  8.3
+
+//
+
+
+
+1buc_A          .......... .......... .......... .......... .......... 
+P45954          ...MEGLAVR LLRGSRLLRR NFLTCLSSWK IPPHVSKSSQ SEALLNITNN 
+1rx0_A          .......... .......... .......... .......... ........TS 
+Q9vsa3          .......... .........M AFLNKLAAPA LRQLVSQSRA YAAVSHVSPN 
+P79274          .......MAT RLLRGSLRLW GGLCAPRLPT ASRCSHSGGE ERLESPSAKK 
+1ivh_A          .......... .......... .......... ........VD DAING..... 
+Q8jzn5          .......... .MSGCVLLSR GATAAAAAAR ASRVLREFTA RRRPLHTSLQ 
+P76200          .......... .......... .......... .......... .......... 
+Q9kje8          .......... .......... .......... .......... .......... 
+Q92947          MALRGVSVRL LSRGPGLHVL RTWVSSAAQT EKGGRTQSQL AKSSRPEFDW 
+Q10535          .......... ..MAQQTQVT EEQARALAEE SRESGWDKPS FAKELFLGRF 
+P71539          .......... .......... .......... .......... ........MT 
+1r2j_A          .......... .......... .......... .......... .......... 
+
+
+1buc_A          .MDFN....L TDIQQDFLKL AHDFGEKKLA PT........ ........VT 
+P45954          GIHFAPLQTF TDEEMMIKSS VKKFAQEQIA PL........ ........VS 
+1rx0_A          CIDPS..MGL NEEQKEFQKV AFDFAAREMA PN........ ........MA 
+Q9vsa3          GTSFA....L TEDQLQLQEL ARKFTREEII PV........ ........AA 
+P79274          LTDIGIRRIF SSEHDIFRES VRKFFQEEVI PH........ ........HA 
+1ivh_A          .........L SEEQRQLRQT MAKFLQEHLA PK........ ........AQ 
+Q8jzn5          SCSFAKELFL GNIKQKGVFP FPEVSQHELS EINQFVGPLE KFFTEEVDSR 
+P76200          .MDFS....L TEEQELLLAS IRELITTNFP EEY....... ........FR 
+Q9kje8          .MDFS....L SEEQTMLKEV ARRFTANELM PLEKVLLER. ....EMRMWT 
+Q92947          QDPLVLEEQL TTDEILIRDT FRTYCQERLM PR........ ........IL 
+Q10535          PLGLIHPFPK PSDAEEARTE AFLVKLREFL DTVDG..... .........S 
+P71539          DTSFIE.... SEERQALRKA VASWVANYGH EY........ .......... 
+1r2j_A          .......... .ERDALLTDL VGDR...... .......... ........AA 
+
+
+1buc_A          ERDHKGIYD. .KELIDELLS LGITGAYFEE KYGGSGDDGG DVLSYILAVE 
+P45954          TMDENSKME. .KSVIQGLFQ QGLMGIEVDP EYGGTG...A SFLSTVLVIE 
+1rx0_A          EWDQKELFP. .VDVMRKAAQ LGFGGVYIQT DVGGSG...L SRLDTSVIFE 
+Q9vsa3          QYDKSGEYP. .WPIIKKAWE LGLMNNHIPA DIGGLD...L DVFTTCLSAE 
+P79274          EWEKAGEVS. .RELWEKAGK QGLLGINIAE RHGGIG...G DLYSAAIVWE 
+1ivh_A          EIDRSNEFKN LREFWKQLGN LGVLGITAPV QYGGSG...L GYLEHVLVME 
+Q8jzn5          KIDQEGKIP. .VDTLEKLKS LGLFGIQVPE EYGGLG.... LSNTMYARLG 
+P76200          TCDQNGTYP. .REFMRALAD NGISMLGVPE EFGGIP.... ..ADYVTQML 
+Q9kje8          DGYTLLPEAD HARLMKITQE MGFWGIEVDE KLGGQG...L GMFAKTLVVE 
+Q92947          LANRNEVFH. .REIISEMGE LGVLGPTIKG .YGCAG...V SSVAYGLLAR 
+Q10535          VIERAAQIP. .DEYVKGLAE LGCFGLKIPS EYGGLN.MSQ VAYNRVLMMV 
+P71539          YLDKARKHEH TSELWAEAGK LGFLGVNLPE EYGGGG...A GMYELSLVME 
+1r2j_A          EWDTSGELP. .RDLLVRLGA DGLLCAEVAA EHGGLG...L GSRENGEFTA 
+
+
+1buc_A          ELAKYDAGVA IT..LSATVS LCANPIWQFG TEAQKEKFLV .PLVEGTKLG 
+P45954          ELAKVDASVA VF..CEIQNT LINTLIRKHG TEEQKATYLP .QLTT.EKVG 
+1rx0_A          ALATGCTSTT AY..ISIHN. MCAWMIDSFG NEEQRHKFCP .PLCTMEKFA 
+Q9vsa3          ELAYGCTGIM TA..LEASG. LGQTPVILSG NKEQKKKYLG .RLLEEPLVA 
+P79274          EQAYSN.CTG PG..FSLHSD IVMPYIANYG SEEQIKHFIP .QMTAGKCIG 
+1ivh_A          EISRASGAVG LS..YGAHSN LCINQLVRNG NEAQKEKYLP .KLISGEYIG 
+Q8jzn5          EIISLDASIT VT..LAAHQA IGLKGIILVG NDEQKAKYLP .KLSSGEHIA 
+P76200          ALMEVSKCGA PA..FLITNG QCIHSMRRFG SAEQLRKTAE STLETGDPAY 
+Q9kje8          EMSKSLIGFS HHGFTLPPDA PNLYYLEECG SPAQRDKYVR .RYCRGEIDS 
+Q92947          ELERVDSGYR SA..MSVQSS LVMHPIYAYG SEEQRQKYLP .QLAKGELLG 
+Q10535          TTVHSSLGAL LS...AHQSI GVPEPLKLAG TAEQKRRFLP ..RCAAGAIS 
+P71539          EMAAAGSALL LM...VVSPA INGTIIAKFG TDDQKKRWLP .GIADGSLTM 
+1r2j_A          HVGSLCSSLR SV...MTSQG MAAWTVQRLG DAGQRATFLK ...ELTSGLA 
+
+
+1buc_A          AFGLTEPNAG TDASGQQTIA TKNDDG.TYT LNGSKIFITN GGAADIYIVF 
+P45954          SFCLSEAGAG SDSFALKTRA DKEGD..YYV LNGSKMWISS AEHAGLFLVM 
+1rx0_A          SYCLTEPGSG SDAASLLTSA KKQGD..HYI LNGSKAFISG AGESDIYVVM 
+Q9vsa3          AYCVTEPGAG SDVSGIKTRA EKKGD..EWV INGQKMWITN GGVANWYFVL 
+P79274          AIAMTEPGAG SDLQGVRTNA KKDGS..DWI LNGSKVFITN GWLSDVVIVV 
+1ivh_A          ALAMSEPNAG SDVVSMKLKA EKKGN..HYI LNGNKFWITN GPDADVLIVY 
+Q8jzn5          AFCLTEPASG SDAASIQTRA TLSEDKKYFI LNGSKVWITN GGLANIFTVF 
+P76200          ALALTEPGAG SDNNSATTTY TRKNG..KVY INGQKTFITG AKEYPYMLVL 
+Q9kje8          AMMATEPGAG SDISGLTTTA VRENG..QWV INGSKIFISK CDKDELFFIC 
+Q92947          CFGLTEPNSG SDPSSMETRA HYNSSNKSYT LNGTKTWITN SPMADLFVVW 
+Q10535          AFLLTEPDVG SDPARMASTA TPIDDGQAYE LEGVKLWTTN GVVADLLVVM 
+P71539          AFAITEPDAG SNSHKITTTA RRDGS..DWI IKGQKVFISG IDQAQAVLVV 
+1r2j_A          AVGFSERQAG SDLSAMRTRV RLDGD..TAV VDGHKVWTTA AAYADHLVVF 
+
+
+1buc_A          AMTDKSK... .GNHGITAFI LEDGTPGFTY GKKEDKMGIH TSQTMELVFQ 
+P45954          ANVDPTI... .GYKGITSFL VDRDTPGLHI GKPENKLGLR ASSTCPLTFE 
+1rx0_A          CRTGGP.... .GPKGISCIV VEKGTPGLSF GKKEKKVGWN SQPTRAVIFE 
+Q9vsa3          ARTNPDPKCP .PSKAFTGFI VERDSPGLTP GRKELNMGQR ASDTRGITFE 
+P79274          AVTNREARS. .PAHGISLFL VENGMKGFVK GRKLHKIGLK AQDTAELFFE 
+1ivh_A          AKTDLAAVP. .ASRGITAFI VEKGMPGFST SKKLDKLGMR GSNTCELIFE 
+Q8jzn5          AKTEVVDSDG SKTDKMTAFI VERDFGGITN GKPEDKLGIR GSNTCEVHFE 
+P76200          ARDPQPKD.. .PKKAFTLWW VDSSKPGIKI N.PLHKIGWH MLSTCEVYLD 
+Q9kje8          IAVTDKEAP. .TKRRFTAFI LDKDTPGLRI GAEIPVIG.. AMPTWSVYLD 
+Q92947          ARCEDG.... ....CIRGFL LEKGMRGLSA PRIQGKFSLR ASATGMIIMD 
+Q10535          ARVPRSEG.. .HRGGISAFV VEADSPGITV ERRNKFMGLR GIENGVTRLH 
+P71539          GRSEEAKTG. ..KLRPALFV VPTDAPGFSY TPIEMELVS. PERQFQVFLD 
+1r2j_A          GLQEDGSG.. ......AVVV VPADTPGVRV ERVPKPSGCR AAGHADLHLD 
+
+
+1buc_A          DVKVPAENML GEEGKGFKIA MMT.LDGGRI GVAAQALGIA EAALADAVEY 
+P45954          NVKVPEANIL GQIGHGYKYA IGS.LNEGRI GIAAQMLGLA QGCFDYTIPY 
+1rx0_A          DCAVPVANRI GSEGQGFLIA VRG.LNGGRI NIASCSLGAA HASVILTRDH 
+Q9vsa3          DVRVPKENVL IGEGAGFKIA MGT.FDKTRP PVAAGAVGLA QRCLDEALKY 
+P79274          DVRLPASALL GEENKGFYYL MQE.LPQERL LIAELAVSAS EFMFEETRNY 
+1ivh_A          DCKIPAANIL GHENKGVYVL MSG.LDLERL VLAGGPLGLM QAVLDHTIPY 
+Q8jzn5          NTRVPVENVL GEVGGGFKVA MNI.LNSGRF SMGSAVAGML KKLIELTAEY 
+P76200          NVEVEESDMV GEEGMGFLNV MYN.FEMERL INAARSTGFA ECAFEDAARY 
+Q9kje8          NVRVGDEAVL GEVGDAFIPL QNR.FGVRRI ELAAHCTGMA ERLIQMMIDQ 
+Q92947          GVEVPEENVL PG.ASSLGGP FGC.LNNARY GIAWGVLGAS EFCLHTARQY 
+Q10535          RVRVPKDNLI GREGDGLKIA LTT.LNAGRL SLPAIATGVA KQALKIAREW 
+P71539          DVRLPADALV GAEDAAIAQL FAG.LNPERI MGAASAVGMG RFALGRAVDY 
+1r2j_A          QVRVPAGAVL AGSGASLPML VAASLAYGRK SVAWGCVGIL RACRTAAVAH 
+
+
+1buc_A          SKQRVQFGKP LCKFQSISFK LADMKMQIEA ARNLVYKAAC KK.QEGKPFT 
+P45954          IKERIQFGKR LFDFQGLQHQ VAHVATQLEA ARLLTYNAAR LL.EAGKPFI 
+1rx0_A          LNVRKQFGEP LASNQYLQFT LADMATRLVA ARLMVRNAAV ALQEERKDAV 
+Q9vsa3          ALERKTFGVP IAYHQAVQFM LADMAIGVET SRLAWRLSAW EI.DQGRRNS 
+P79274          VKQRKAFGKT VAHIQTVQHK LAELKTHICV TRAFVDSCLQ LH.ETKRLES 
+1ivh_A          LHVREAFGQK IGHFQLMQGK MADMYTRLMA CRQYVYNVAK AC.DEGHCTA 
+Q8jzn5          ACTRKQFNRN LSEFGLIQEK FALMAQKAYV MESMAYLTSG MLDQPGFPDC 
+P76200          ANQRIAFGKP IGHNQMIQEK LALMAIKIDN MRNMVLKVAW QADQHQSLRT 
+Q9kje8          ANLRKTFGVA LADRQTVQNW IADSTIELEQ VRLQLYFTAW KS.DQGHKDL 
+Q92947          ALDRMQFGVP LARNQLIQKK LADMLTEITL GLHACLQLGR LK..DQDKAA 
+Q10535          SVERVQWGKP VGQHEAVASK ISFIAATNYA LDAVVELSSQ MA.DEGRNDI 
+P71539          VKTRKVWSTP IGAHQGLAHP LAQCHIEVEL AKLMTQKAAT LYDHGDDFGA 
+1r2j_A          ARTREQFGRP LGDHQLVAGH IADLWTAEQI AARVCEYASD HM........ 
+
+
+1buc_A          .VDAAIAKRV ASDVAMRVTT EAVQIFGGYG YS........ ..EEYPVARH 
+P45954          .KEASMAKYY ASEIAGQTTS KCIEWMGGVG YT........ ..KDYPVEKY 
+1rx0_A          .ALCSMAKLF ATDECFAICN QALQMHGGYG YL........ ..KDYAVQQY 
+Q9vsa3          .YYASIAKCH AADMANKIAS DAVQIFGGNG FN........ ..SEYPVEKL 
+P79274          .AAASMAKYW ASELQNSVAY DCVQLHGGWG YM........ ..WEYPIARA 
+1ivh_A          .KDCAGVILY SAECATQVAL DGIQCFGGNG YI........ ..NDFPMGRF 
+Q8jzn5          SIEAAMVKVF SSEAAWQCVS EALQILGGSG YM........ ..KDYPYERM 
+P76200          ..SAALAKLY CARTAMEVID DAIQIMGGLG YT........ ..DEARVSRF 
+Q9kje8          RLEAASLKIA ATEMLTRVAD RAIQLHGGLG LS........ ..REMGIEYV 
+Q92947          PEMVSLLKRN NCGKALDIAR QARDMLGGNG IS........ ..DEYHVIRH 
+Q10535          RIEAALAKLW SSEMACLVGD ELLQIRGGRG YETAESLAAR GERAVPVEQM 
+P71539          AEAANMAKYA AAEASSRAVD QAVQSMGGNG LT........ ..KEYGVAAM 
+1r2j_A          VPATILAKHV AAERAAAGAA TAAQVLASAG AG........ ....HVVERA 
+
+
+1buc_A          MRDAKITQIY EGTNEVQLMV TGGALLR... .......... .......... 
+P45954          FRDAKIGTIY EGASNIQLNT IAKHIDAEY. .......... .......... 
+1rx0_A          VRDSRVHQIL EGSNEVMRIL ISRSLLQE.. .......... .......... 
+Q9vsa3          MRDAKIYQIY EGTSQIQRLI ISRNMYEAAK GQA....... .......... 
+P79274          YVDARVQPIY GGTNEIMKEL IAREIVHDK. .......... .......... 
+1ivh_A          LRDAKLYEIG AGTSEVRRLV IGRAFNAD.. .......... .......... 
+Q8jzn5          LRDARILLIF EGTNEILRLF IALTGLQHAG RILTSRIKEL KSGNVTTVME 
+P76200          WRDVRCERIG GGTDEIMIYV AGRQILKDYQ NK........ .......... 
+Q9kje8          ARMVRIWRVV EGASEIHRMS IAKKLLTDGR TYSPFVAA.. .......... 
+Q92947          AMNLEAVNTY EGTHDIHALI LGRAITGIQA FTASK..... .......... 
+Q10535          VRDLRINRIF EGSSEIMRLL IAREAVDAHL TAAGDLANPK ADLRQKAAAA 
+P71539          MTSARLARIA PISREMVLNF VAQTSLGLPR SY........ .......... 
+1r2j_A          YRDAKLMEII EGSSEMCRVM LAQHALALP. .......... .......... 
+
+
+1buc_A          .......... .......... .......... .......... .......... 
+P45954          .......... .......... .......... .......... .......... 
+1rx0_A          .......... .......... .......... .......... .......... 
+Q9vsa3          .......... .......... .......... .......... .......... 
+P79274          .......... .......... .......... .......... .......... 
+1ivh_A          .......... .......... .......... .......... .......... 
+Q8jzn5          TIGRKLRDSL GRTVDLGLTG DLGVVHPS.. LGDSANKLEE NVHYFGRTVE 
+P76200          .......... .......... .......... .......... .......... 
+Q9kje8          .......... .......... .......... .......... .......... 
+Q92947          .......... .......... .......... .......... .......... 
+Q10535          AGASGFYAKW LPKLVFGEGQ LPTTYREFGA LATHLRFVER SSRKLARNTF 
+P71539          .......... .......... .......... .......... .......... 
+1r2j_A          .......... .......... .......... .......... .......... 
+
+
+1buc_A          .......... .......... .......... .......... .......... 
+P45954          .......... .......... .......... .......... .......... 
+1rx0_A          .......... .......... .......... .......... .......... 
+Q9vsa3          .......... .......... .......... .......... .......... 
+P79274          .......... .......... .......... .......... .......... 
+1ivh_A          .......... .......... .......... .......... .......... 
+Q8jzn5          TLLLRFGKNI VEEQLVLKRV ANILINLYGM TAVLSRASRS IRIGLRNHDH 
+P76200          .......... .......... .......... .......... .......... 
+Q9kje8          .......... .......... .......... .......... .......... 
+Q92947          .......... .......... .......... .......... .......... 
+Q10535          YGMARWQASL EKKQGFLGRI VDIGAELFAI SAACVRAEAQ RTADPVEGEQ 
+P71539          .......... .......... .......... .......... .......... 
+1r2j_A          .......... .......... .......... .......... .......... 
+
+
+1buc_A          .......... .......... .......... .......... .......... 
+P45954          .......... .......... .......... .......... .......... 
+1rx0_A          .......... .......... .......... .......... .......... 
+Q9vsa3          .......... .......... .......... .......... .......... 
+P79274          .......... .......... .......... .......... .......... 
+1ivh_A          .......... .......... .......... .......... .......... 
+Q8jzn5          EVLLANMFCV EAYFQNLFSL SQLDKNAPEN LDEQIKKVSR QILEKRAYIC 
+P76200          .......... .......... .......... .......... .......... 
+Q9kje8          .......... .......... .......... .......... .......... 
+Q92947          .......... .......... .......... .......... .......... 
+Q10535          AYELAEAFCQ QATLRVEALF DALWSNTDSI DVRLANDVLE GRYTWLEQGI 
+P71539          .......... .......... .......... .......... .......... 
+1r2j_A          .......... .......... .......... .......... .......... 
+
+
+1buc_A          .......... .......... .......... .........
+P45954          .......... .......... .......... .........
+1rx0_A          .......... .......... .......... .........
+Q9vsa3          .......... .......... .......... .........
+P79274          .......... .......... .......... .........
+1ivh_A          .......... .......... .......... .........
+Q8jzn5          AHPLDRAS.. .......... .......... .........
+P76200          .......... .......... .......... .........
+Q9kje8          .......... .......... .......... .........
+Q92947          .......... .......... .......... .........
+Q10535          LDQSEGTGPW IASWEPGPST EANLARRFLT VSPSSEAKL
+P71539          .......... .......... .......... .........
+1r2j_A          .......... .......... .......... .........
+

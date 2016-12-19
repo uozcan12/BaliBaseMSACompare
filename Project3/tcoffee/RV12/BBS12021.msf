@@ -1,0 +1,32 @@
+PileUp
+
+
+
+   MSF:   87  Type: P    Check:   406   .. 
+
+ Name: 1hpi_ oo  Len:   87  Check:  7363  Weight:  1.000
+ Name: 1hip_ oo  Len:   87  Check:  1250  Weight:  1.000
+ Name: 2hip_A oo  Len:   87  Check:  4964  Weight:  1.000
+ Name: 1hlq_A oo  Len:   87  Check:  9799  Weight:  1.000
+ Name: HPIS_THIPF oo  Len:   87  Check:  2720  Weight:  1.000
+ Name: HPIS_PARSP oo  Len:   87  Check:  4310  Weight:  1.000
+
+//
+
+
+
+1hpi_           MERLS.EDDP AAQALEYRHD ASSV.....Q HPA.....YE EGQTCLNCLL 
+1hip_           ANAVA.ADNA TAIALKYNQD ATKSERVAAA RPG....LPP EEQHCADCQF 
+2hip_A          EPRA.....E DGHAHDYVNE AADAS....G HPR.....YQ EGQLCENCAF 
+1hlq_A          APLVA.ETDA NAKSLGYVAD TTKADKT..K YPK.....HT KDQSCSTCAL 
+HPIS_THIPF      LPHVDAATNP IAQSLHYIED ANASER.... NPVTKTELPG SEQFCHNCSF 
+HPIS_PARSP      LPPLD.PSAE QAQALNYVKD TAEAA....D HPA.....HQ EGEQCDNCMF 
+
+
+1hpi_           YTDAS...AQ DWGPCS..VF PGKLVSANGW CTAWVAR
+1hip_           MQADAAGATD EWKGCQ..LF PGKLINVNGW CASWTLK
+2hip_A          WGEAV...QD GWGRCTHPDF DEVLVKAEGW CSVYAPA
+1hlq_A          YQGKT....A PQGACP..LF AGKEVVAKGW CSAWAKK
+HPIS_THIPF      IQADS....G AWRPCT..LY PGYTVSEDGW CLSWAHK
+HPIS_PARSP      FQADS..... ..QGCQ..LF PQNSVEPAGW CQSWTAQ
+

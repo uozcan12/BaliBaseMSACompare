@@ -1,0 +1,350 @@
+PileUp
+
+
+
+   MSF:  830  Type: P    Check:  9290   .. 
+
+ Name: SYS_AQUAE oo  Len:  830  Check:  4842  Weight:  5.4
+ Name: 1ser_A oo  Len:  830  Check:  8127  Weight:  6.3
+ Name: SYSM_BOVIN oo  Len:  830  Check:  1097  Weight:  5.4
+ Name: SYP_BORBU oo  Len:  830  Check:  5851  Weight:  5.8
+ Name: SYP_CLOST oo  Len:  830  Check:  1905  Weight:  6.0
+ Name: 1h4q_A oo  Len:  830  Check:  5358  Weight:  5.4
+ Name: SYP_MYCLE oo  Len:  830  Check:  1868  Weight:  3.8
+ Name: YHI0_YEAST oo  Len:  830  Check:  9281  Weight:  4.1
+ Name: 1nj8_A oo  Len:  830  Check:  7377  Weight:  3.3
+ Name: SYP_METTH oo  Len:  830  Check:  2132  Weight:  4.3
+ Name: SYP_ARCFU oo  Len:  830  Check:  2565  Weight:  3.4
+ Name: SYP_MYCPN oo  Len:  830  Check:  4029  Weight:  3.8
+ Name: SYP_MYCGE oo  Len:  830  Check:  3002  Weight:  3.4
+ Name: SYT_THETN oo  Len:  830  Check:  2228  Weight:  8.8
+ Name: SYTM_YEAST oo  Len:  830  Check:  1792  Weight:  7.5
+ Name: 1qe0_A oo  Len:  830  Check:  5921  Weight:  22.5
+ Name: SYH_CLOAB oo  Len:  830  Check:  1915  Weight:  7.7
+
+//
+
+
+
+SYS_AQUAE       .......... .......... .......... .......... .......... 
+1ser_A          .......... .......... .......... .......... .......... 
+SYSM_BOVIN      .......... .......... .......... .......... .......... 
+SYP_BORBU       .......... .......... .......... .......... .......... 
+SYP_CLOST       .......... .......... .......... .......... .......... 
+1h4q_A          .......... .......... .......... .......... .......... 
+SYP_MYCLE       .......... .......... .......... .......... .......... 
+YHI0_YEAST      .......... .......... .......... .......... .......... 
+1nj8_A          .......... .......... .......... .......... .......... 
+SYP_METTH       .......... .......... .......... .......... .......... 
+SYP_ARCFU       .......... .......... .......... .......... .......... 
+SYP_MYCPN       .......... .......... .......... .......... .......... 
+SYP_MYCGE       .......... .......... .......... .......... .......... 
+SYT_THETN       MYSLGNQVKA MVITLRDGTK REFEKGITVY EIAKSISDKL AREAVGGKFN 
+SYTM_YEAST      .......... .......... .......... .......... .......... 
+1qe0_A          .......... .......... .......... .......... .......... 
+SYH_CLOAB       .......... .......... .......... .......... .......... 
+
+
+SYS_AQUAE       .......... .......... .......... .......... .......... 
+1ser_A          .......... .......... .......... .......... .......... 
+SYSM_BOVIN      .......... .......... .......... .......... .......... 
+SYP_BORBU       .......... .......... .......... .......... .......... 
+SYP_CLOST       .......... .......... .......... .......... .......... 
+1h4q_A          .......... .......... .......... .......... .......... 
+SYP_MYCLE       .......... .......... .......... .......... .......... 
+YHI0_YEAST      .......... .......... .......... .......... ....MPVSEA 
+1nj8_A          .......... .......... .......... .......... .......... 
+SYP_METTH       .......... .......... .......... .......... .......... 
+SYP_ARCFU       .......... .......... .......... .......... .......... 
+SYP_MYCPN       .......... .......... .......... .......... .......... 
+SYP_MYCGE       .......... .......... .......... .......... .......... 
+SYT_THETN       GKIVELNTKI EEDGELEILT FEDEEGKKIY WHTSSHILAQ AVKRLFKDVK 
+SYTM_YEAST      .......... .......... .......... .......... .......... 
+1qe0_A          .......... .......... .......... .......... .......... 
+SYH_CLOAB       .......... .......... .......... .......... .......... 
+
+
+SYS_AQUAE       .......... .......... .......... .......... .......... 
+1ser_A          .......... .......... .......... .......... .......... 
+SYSM_BOVIN      .......... .......... .......... .......... .......... 
+SYP_BORBU       .......... .......... .......... .......... .......... 
+SYP_CLOST       .......... .......... .......... .......... .......... 
+1h4q_A          .......... .......... .......... .......... .......... 
+SYP_MYCLE       .......... .......... .......... .......... .......... 
+YHI0_YEAST      FAKLCVNEKP PAESAVAVKS LVFKPKTPKS ATPVPIVVVA LQSTTTPSAL 
+1nj8_A          .......... .......... .......... .......... .......... 
+SYP_METTH       .......... .......... .......... .......... .......... 
+SYP_ARCFU       .......... .......... .......... ......MLIN ILNAFYAEKR 
+SYP_MYCPN       .......... .......... .......... .......... .......... 
+SYP_MYCGE       .......... .......... .......... .......... .......... 
+SYT_THETN       LAIGPAIDNG FYYDFDTERP FTTEDFEAIE EEMNKIIKED YKLERFVLSK 
+SYTM_YEAST      .......... .......... .......... .......... .......... 
+1qe0_A          .......... .......... .......... .......... .......... 
+SYH_CLOAB       .......... .......... .......... .......... .......... 
+
+
+SYS_AQUAE       .......... .......... .......... .......... .......... 
+1ser_A          .......... .......... .......... .......... .......... 
+SYSM_BOVIN      .......... ......MAAS IVRRLGPLVA GRGLRLRGGC VCNQSFKRSF 
+SYP_BORBU       .......... .......... .......... .......... .......... 
+SYP_CLOST       .......... .......... .......... .......... .......... 
+1h4q_A          .......... .......... .......... .......... .......... 
+SYP_MYCLE       .......... .......... .......... .......... .......... 
+YHI0_YEAST      IANATSSKDP RLARDDLVKQ AFQSESARAF ILGDLANATS NFHLLIDHEL 
+1nj8_A          .......... .......... .......... .......... .......... 
+SYP_METTH       .......... .......... .......... .......... .......... 
+SYP_ARCFU       ALIGIKLKIR ISKIYQTLDN DFSFKRTVFR FSKTKVAFKD IFHSFGHHRI 
+SYP_MYCPN       .......... .......... .......... .......... .......... 
+SYP_MYCGE       .......... .......... .......... .......... .......... 
+SYT_THETN       EEAIKFMKEK DEPYKVELIE EIPEGEEISF YKQGEFVDLC AGPHLPSTGM 
+SYTM_YEAST      .......... .......... .......... .......... .......... 
+1qe0_A          .......... .......... .......... .......... .......... 
+SYH_CLOAB       .......... .......... .......... .......... .......... 
+
+
+SYS_AQUAE       .......... .......... ..MIDINLIR EK........ .......... 
+1ser_A          .......... .......... ..MVDLKRLR QE........ .......... 
+SYSM_BOVIN      ATERQDRNLL YEHAREGYSA LPLLDMESLC AY........ .......... 
+SYP_BORBU       .......... .......... .MSDFIASKE D......... .......... 
+SYP_CLOST       .......... ....MAKKDQ EFVKDITNMD E......... .......... 
+1h4q_A          .......... .......... ...KGLTPQS Q......... .......... 
+SYP_MYCLE       .......... ........MG CNKRGVTRQE D......... .......... 
+YHI0_YEAST      GTVDGDTILQ LNDSTYMKKS DMMKFLNNFE DSQKVVDFSQ EVSKETATEG 
+1nj8_A          .......... .......... .......... .......... .......... 
+SYP_METTH       .......... .......... .MQKPIKKDP NR........ .......... 
+SYP_ARCFU       RLLALALCIL GSLANFWHSS KNNSSSNSKT NK........ .......... 
+SYP_MYCPN       .......... .......... .....MANKD Q......... .......... 
+SYP_MYCGE       .......... .......... .....MTKKT Q......... .......... 
+SYT_THETN       VKAIKLLSVA GAYWKGDEKN KMLQRIYGIS FP........ .......... 
+SYTM_YEAST      ......MKIQ LVRWHCSRNA LWNRAFYSTR KA........ .......... 
+1qe0_A          .......... .......... .......... .......... .......... 
+SYH_CLOAB       .......... .......... .......... .......... .......... 
+
+
+SYS_AQUAE       .......... .......... .......... ......PDYV KERLATRDK. 
+1ser_A          .......... .......... .......... ......PEVF HR..AIREK. 
+SYSM_BOVIN      .......... .......... .......... ......PEDA ARALDLRKGE 
+SYP_BORBU       .......... .......... .......... .......DYS KWYLDIVQKA 
+SYP_CLOST       .......... .......... .......... .......DFP QWYTDVITKT 
+1h4q_A          .......... .......... .......... .......DFS EWYLEVIQKA 
+SYP_MYCLE       .......... .......... .......... .......DFS AWYNEVVAKA 
+YHI0_YEAST      KKQQKKQQPS KAGTAAAAAA AALEDAKLIG ITVDKALDFP GWYQQILTKG 
+1nj8_A          .......... .......... .......... .....MLEFS EWYSDILEKA 
+SYP_METTH       .......... .......... ..YHG..... ...EKMTEFS EWFHNILEEA 
+SYP_ARCFU       .......... .......... ..YCSPLPIL MTLPSKENFS EWYHEVIQTA 
+SYP_MYCPN       .......... .......... .......... .......NLT LWYDQLLSKA 
+SYP_MYCGE       .......... .......... .......... .......DLT SWYDQLLVKA 
+SYT_THETN       .......... .......... .......... .....KKSML DEYLHMMEEA 
+SYTM_YEAST      .......... .......... .......... .....TKNAS SATPATMTSM 
+1qe0_A          .......... .......... .......... .......... .......... 
+SYH_CLOAB       .......... .......... .......... .......... .......... 
+
+
+SYS_AQUAE       .......... ..ELVSLVDK VLELDKRRRE IIKRLEALRS ERNKLSKEIG 
+1ser_A          .......... ..GVALDLEA LLALDR.... .......... .......... 
+SYSM_BOVIN      LRSKDLP... ..GIISTWQE LRQLREQIRS LEEEKEAVTE AVRALVVNQD 
+SYP_BORBU       .......... ..KLADY.SP VKGCMVIMPY GYSIWSKIQS ILDKKFKET. 
+SYP_CLOST       .......... ..DLVDY.SP VKGFMVIKPY GYAIWENIQA FLDRRFKET. 
+1h4q_A          .......... ..ELADY.GP VRGTIVVRPY GYAIWENIQQ VLDRMFKET. 
+SYP_MYCLE       .......... ..GLIDR.GP AKGTMVIRPY GYRIWELLQD ELDSKIKEL. 
+YHI0_YEAST      .......... ..EMLDY.YD VSGCYILRPP SYAIWENIQK WFDDKIKAI. 
+1nj8_A          .......... ..EIYDVRYP IKGCGVYLPY GFKIRRYTFE IIRNLLDES. 
+SYP_METTH       .......... ..EIIDQRYP VKGMHVWMPH GFMIRKNTLK ILRRILDR.. 
+SYP_ARCFU       .......... ..EIMDVRYP VKGLYVWFPF GFKIRQLVYS KLREIMDR.. 
+SYP_MYCPN       .......... ..QLVSY.GD VKGTNCFLPN SWNLWLQIQR LYNNATALIK 
+SYP_MYCGE       .......... ..KLICH.GE VKGTVCFLNN SWGLWMEIQQ LYNDAIANKN 
+SYT_THETN       KKRDHRKLGK ELDLFSIHPE GPGFPFFHPK GMIIRNILED FWR.KEHIK. 
+SYTM_YEAST      VSQRQ..... ..DLFMTDPL SPGSMFFLPN GAKIFNKLIE FMKLQQKFK. 
+1qe0_A          .......... ......MIKI PRGTQDILPE DSKKWRYIEN QLDELMTFYN 
+SYH_CLOAB       .......... .MNNKIKPSI LPGFMELLPK EQLVFNDIVS KITGVYEQN. 
+
+
+SYS_AQUAE       K......... ........LK REGKDTTEIQ NRVKELKEEI DRLEEELRKV 
+1ser_A          .......... .......... .......EVQ .......... .......REK 
+SYSM_BOVIN      NS........ ........QV QQDPQYQSLR ARGREIRKQL TLLYPKEAQL 
+SYP_BORBU       .......... ........GH ENAYFPMLIP YSFLEREKDH IDGFSPEFAI 
+SYP_CLOST       .......... ........GH QNCYFPLLIP ESLLNKEKEH VEGFAPEVAW 
+1h4q_A          .......... ........GH QNAYFPLFIP MSFLR..... ...FSPELAV 
+SYP_MYCLE       .......... ........GH ENAYFPMLIP ENYFNREAEH VEGFHPELAV 
+YHI0_YEAST      .......... ........GV QNAYFPMFVS SRVLEKEKDH VEGFAPEVAW 
+1nj8_A          .......... ........GH DEALFPMLIP EDLLAKEAEH IKGFEDEVYW 
+SYP_METTH       .......... ........DH EEVLFPLLVP EDELAKEAIH VKGFEDEVYW 
+SYP_ARCFU       .......... ........EH DEVYFPALIP ETELGKEGEH IKGFEDEVYW 
+SYP_MYCPN       LKDKVILKQF IPIEPLPYTV EQVQLPTLSF YSEYQKEKRH VEGFNPELFL 
+SYP_MYCGE       QLSAIALTKF QPTTSFCYQV FQVQLPTLSF YSEYQKEKTH IKGFNPELFL 
+SYT_THETN       .......... .......RGY QEIRTPIILN EELWKRSG.H WDHYKENMYF 
+SYTM_YEAST      .......... .......FGF NEVVTPLIYK KTLWEKSG.H WENYADDMFK 
+1qe0_A          .......... .........Y KEIRTPIFES TDLFAR.... ......EMYT 
+SYH_CLOAB       .......... ........GF LPMDTPIIEK EEVLLAKS.. AGETEKQVYR 
+
+
+SYS_AQUAE       EEELKNTLLW IPNLPHP.SV PVGEDEKDNV EVRRWGEPRK FDFEPKPHWE 
+1ser_A          EARLEALLLQ VPLPPWP.GA PVGGEE.ANR EIKRVGGPPE FSFPPLDHVA 
+SYSM_BOVIN      EEQFYLRALR LPNQTHP.DV PVGDES.QAR VLHVVGDKPA FSFQPRGHLE 
+SYP_BORBU       IKDAGGESLA EPLVLRP.TS ETIIWNMYSK WIKSYRDLPL KINQWANVVR 
+SYP_CLOST       VTHGGSEKLA ERLCVRP.TS ETIICSMYSK WLTSYRELPY LYNQWCSVVR 
+1h4q_A          VTHAGGEELE EPLAVRP.TS ETVIGYMWSK WIRSWRDLPQ LLNQWGNVVR 
+SYP_MYCLE       VTHAGGKELS EPLVIRP.TS ETVIGDMMAK WITSHRDLPL RLNQWSNVVR 
+YHI0_YEAST      VTRAGSSELE EPIAIRP.TS ETVMYPYYAK WVQSYRDLPL KLNQWNSVVR 
+1nj8_A          VTHGGKTQLD VKLALRP.TS ETPIYYMMKL WVKVHTDLPI KIYQIVNTFR 
+SYP_METTH       VTHGGLSKLQ RKLALRP.TS ETVMYPMFAL WVRSHTDLPM RFYQVVNTFR 
+SYP_ARCFU       ITHGGLTPLD VKLALRP.TS ETAMYPMFRL WVRNHADLPL KVYQIVNTFR 
+SYP_MYCPN       IEQIGTKKLH DPLVLRP.TS EIAFCNLWKK QSFSYQNLPV IYNQWTCVFR 
+SYP_MYCGE       INQVGQKQLN DPLVLRP.TS EIAFCNLWKK QELSYHDLPL IYNQWTQVFR 
+SYT_THETN       TEIDG..... QTYAIKP.MN CPGAMLVYKS TLRSYRDLPL RLCELGLVHR 
+SYTM_YEAST      VETTDEE..K EEYGLKP.MN CPGHCLIFGK KDRSYNELPL RFSDFSPLHR 
+1qe0_A          FKDKG....D RSITLRPEGT AAVVRSYIEH KMQGNPNQPI KLYYNGPMFR 
+SYH_CLOAB       IDNEDRKQVL RFDLTVPFSR FAAQYMSDLT FPFKRYQLGK VYRGERNQKG 
+
+
+SYS_AQUAE       IGERLGILDF KRGAKLS... .GSRFTVIAG WGARLERALI NFMLDLHTKK 
+1ser_A          LMEKNGWWEP .RISQVS... .GSRSYALKG DLALYELALL RFAMDFMARR 
+SYSM_BOVIN      IAEKLDIIRQ KRLSHVS... .GHRSYYLRG AGALLQHGLV NFTLNKLIHR 
+SYP_BORBU       WEKR..TRPF LRTTEFL.WQ EGHTAHATEE EALEETLLIL DVYKRFIEDY 
+SYP_CLOST       WEKS..TRPF LRTSEFL.WQ EGHTLHETAE EAQAETLQML AIYKEMAEDL 
+1h4q_A          WEMR..TRPF LRTSEFL.WQ EGHTAHATRE EAEEEVRRML SIYARLAREY 
+SYP_MYCLE       WELR..PRML LRTIEFL.WQ EGHSAHIEKS DALRETLFAL DIYTTLARDM 
+YHI0_YEAST      WEFKH.PQPF LRTREFL.WQ EGHTAHLTAK DAEEEVLQIL DFYAGVYEEL 
+1nj8_A          YETKH.TRPL IRLREIMTFK EAHTAHSTKE EAENQVKEAI SIYKKFFD.T 
+SYP_METTH       YETKH.TRPL IRVREITTFK EAHTIHATAS EAEEQVERAV EIYKEFFN.S 
+SYP_ARCFU       YETKH.TRPL IRLREITSFK EAHTVHKDFE EAAEHVKKAI GFYKEFYD.F 
+SYP_MYCPN       AEKN..TRPF LRNSEFY.WQ ETHGLFSDGV NSESAAIAFW KLYQDIIVNQ 
+SYP_MYCGE       AEKN..TRPF LRNSEFY.WQ ETHGLFVDQS QSEQAAISFW NLYQDLIINK 
+SYT_THETN       HELSGVLHGL MRVRSFT..Q DDAHLFMTPE QVEDEILGVI NLVDYFYK.. 
+SYTM_YEAST      NEASGALSGL TRLRKFH..Q DDGHIFCTPS QVKSEIFNSL KLIDIVYN.. 
+1qe0_A          YYRQFNQFGV EAIGAEN... ........PS VDAEVLAMVM HIYQSFGLKH 
+SYH_CLOAB       RYREFYQCDV DVVGNGNLSI KNDAFIINMA SKALRKIGLD SYKFQISNRK 
+
+
+SYS_AQUAE       GYKEICPPHL VKPEILIG.T GQLP.KFEED LYKCER...D NLYLIPTAEV 
+1ser_A          GFLPMTLPSY AREKAFLG.T GHFP.AYRDQ VWAIAE...T DLYLTGTAEV 
+SYSM_BOVIN      GFTPMTVPDL LRGVVFEG.C GMTPNAKPSQ IYNIDPSRFE DLNLAGTAEV 
+SYP_BORBU       LAIPVFCGKK SEKEKFAGAV STYSIEALMQ D.KKALQAAT SHYLGLNFAK 
+SYP_CLOST       LAIPVVDGRK SDRERFAGAA ATYTIEALMH D.GKALQSGT SHNLAQHFTK 
+1h4q_A          AAIPVIEGLK TEKEKFAGAV YTTTIEALMK D.GKALQAGT SHYLGENFAR 
+SYP_MYCLE       AAIPIVSGEK TAGERFAGAL NTYTIEAMMR D.GKALQSAT THYLGDNFAR 
+YHI0_YEAST      LAVPVVKGRK TEKEKFAGGD FTTTCEGYIP QTGRGIQGAT SHHLGQNFSK 
+1nj8_A          LGIPYLISKR PEWDKFPGAE YTMAFDTIFP D.GRTMQIAT VHNLGQNFSK 
+SYP_METTH       LGIPYLITRR PPWDKFPGSE YTVAFDTLMP D.GKTLQIGT VHNLGQTFAR 
+SYP_ARCFU       LAIPYMVIRR PEWDKFPGAA YTIAFDTIMP D.GRTLQIGT VHHLADNFAR 
+SYP_MYCPN       LCIPAFVGLK SPNERFAGAQ NTWTVESIMP D.GQALQCAT SHDLGQTFTK 
+SYP_MYCGE       LCIPAFVGLK SESEKFAGAK NTWTIEAIMP D.GQSLQCAT SHDLGDTFTK 
+SYT_THETN       IFG....... ...FEYHVEL STRPENSMGT DEEWELATNA LISALKRANL 
+SYTM_YEAST      KIFPFVKGGS GAESNYFINF STRPDHFIGD LKVWNHAEQV LKEILEESGK 
+1qe0_A          LKLVINSVGD MASRKEYNEA LVKHFEPVIH EFCSDCQSRL HTDPMRILTA 
+SYH_CLOAB       ILTGVLEGLN ITNMQEVMIL IDKYDKITEE QFLSELNKLI GEEKAKVISK 
+
+
+SYS_AQUAE       PLTNLYRE.. .EILKEENLP IYLTAYTPCY RREAGAYGKD IRGIIRQHQF 
+1ser_A          VLNALHSG.. .EILPYEALP LRYAGYAPAF RSEAGSFGKD VRGLMRVHQF 
+SYSM_BOVIN      GLAGYFMD.. .HSVAFRDLP IRMVCSSTCY RAET.DTGKE PWGLYRVHHF 
+SYP_BORBU       AFDVKFQ... DKDGKMRHVF ASSWGVSTRL IGALIMVHSD EKGLVLPPRI 
+SYP_CLOST       AFDITFQ... GRTGELEYPH HTSWGASTRL IGGIIMVHGD NRGLVLPPRV 
+1h4q_A          AFDIKFQ... DRDLQVKYVH TTSWGLSWRF IGAIIMTHGD DRGLVLPPRL 
+SYP_MYCLE       AFNIRYT... TAEEQQAFVH TTSFGLSTRM IGAIVMVHGD DKGLVLPPQV 
+YHI0_YEAST      MFNLSVENPL GSDHPKIFAY QNSWGLSTRV IGVMVMIHSD NKGLVIPPRV 
+1nj8_A          TFEIIFET.. .PTGDKDYAY QTCYGISDRV IASIIAIHGD EKGLILPPIV 
+SYP_METTH       TFEIKFET.. .PEGDHEYVH QTCYGLSDRV IASVIAIHGD ESGLCLPPDV 
+SYP_ARCFU       TFDIKYEA.. .PNGEHYYAH QTCYGISERC IAALISVHGD DLGLVLPFEV 
+SYP_MYCPN       PFGLTFQN.. .QANQQAIPY SFSCGISTRI LGALLLTHSD DFGLVLPWKV 
+SYP_MYCGE       SFTISYQS.. .KTNQKMTPS SFSCGMSTRI LGAIFLTHSD DYGLVLPWYL 
+SYT_THETN       PYKVNEGE.. .......... GAFYGPKIDF HLKDSIGRTW QCGTIQLDFQ 
+SYTM_YEAST      PWKLNPGD.. .......... GAFYGPKLDI MVTDHLRKTH QVATIQLDFQ 
+1qe0_A          PRITDFLN.. .......EES KAYYEQVKAY LDDLGIPYTE DPNLVRGLDY 
+SYH_CLOAB       VIKISGSS.. ....DEVVEN LKKVEIKNEM LEKGIEEVEE VIKYLKLFGV 
+
+
+SYS_AQUAE       DKVELVKIVH P..DTSYD.. ..ELEKLVKD AEEVLQLLGL PYRVVELCTG 
+1ser_A          HKVEQYVLTE ASLEASDR.. ..AFQELLEN AEEILRLLEL PYRLVEVATG 
+SYSM_BOVIN      TKVEMFGVTG PGLEQSSE.. ..LLEEFLSL QMEILTELGL HFRVLDMPTQ 
+SYP_BORBU       APIEIIVIPI FKKEDEIN.. .KKILDYSDC VVDALKKAEF RVEIDKDVRS 
+SYP_CLOST       APTQVVIIPI AQNKE..... ..GVLDKAYE IKKELEAKGI RVTLDDDTNY 
+1h4q_A          APIQVVIVPI YKDESR.... .ERVLEAAQG LRQALLAQGL RVHLDDRDQH 
+SYP_MYCLE       APYQVVIVPI TTGNKA.... .SEVGHAAAD LARRLQAAGV RTHVDARPQL 
+YHI0_YEAST      SQFQSVVIPV GITKKTSEEQ RKHIHETARS VESRLKKVGI RAFGDYNDNY 
+1nj8_A          APIQVVIVPL IFKGKE.... .DIVMEKAKE IYEKLKGK.F RVHIDDRD.I 
+SYP_METTH       AAHQVVIVPI IFKKAA.... .EEVMEACRE LRSRLEAAGF RVHLDDRD.I 
+SYP_ARCFU       APVQIVIIPI LYKGKE.... .EAVMEACRK LAEKLKAF.. RVVLDEGE.D 
+SYP_MYCPN       APIQVKLYLF DKKGDT.... ..KTVELAQK VQTLLEQLAI RFQFIKVE.N 
+SYP_MYCGE       ASKQVKLYLF DKNNNP.... ..KTRALAFL VKDFLEKLKI RFSFIEIN.N 
+SYT_THETN       MPERFELEYI GPDGEK.... .....HRPIM LHRVIYGSIE RFIGILTEHF 
+SYTM_YEAST      LPERFDLKFK DQDNSY.... .....KRPIM IHRATFGSIE RFMALLIDSN 
+1qe0_A          YTHTAFELMM DNPNYDG... .........A ITTLCGGGRY NGLLELLD.. 
+SYH_CLOAB       EDSEYAINLK IIRGLD.... ...YYTGTVF ETLLTGNESY GSICSGGRYD 
+
+
+SYS_AQUAE       DLG..FSAAK TYDIEVWFPS QNKYREISSC SNCEDF.QAR RMNTRFKDSK 
+1ser_A          DMG..PGKWR QVDIEVYLPS EGRYRETHSC SALLDW.QAR RANLRYRDP. 
+SYSM_BOVIN      ELG..LPAYR KFDIEAWMPG RGRFGEVTSA SNCTDF.QSR RLHIMFQTE. 
+SYP_BORBU       SPGFRFSSAE FKGIPIRLEV GINDVLLNSV TISRRD.KDR KFKYQISLDS 
+SYP_CLOST       SPGWKFNQYE MKGVPLRLEI GPRDIENNVA MIARRD.TLS KDSY..SLDN 
+1h4q_A          TPGYKFHEWE LKGVPFRVEL GPKDLEGGQA VLASR..LGG ..KETLPLAA 
+SYP_MYCLE       TPGWKYNEWE LRGVPIRLEL GPRDLEAGTT VMVRR..IGE KAKQPIAIAA 
+YHI0_YEAST      TPGWKFSQYE LKGIPIRIEL GPKDIEKNQV VVVRR...ND SKKYVVSFDE 
+1nj8_A          RPGRKFNDWE IKGVPLRIEV GPKDIENKKI TLFRR...DT MEKFQVDETQ 
+SYP_METTH       RAGRKYYEWE MRGVPLRVEI GPRDLEKGAA VISRR...DT GEKVTADLQG 
+SYP_ARCFU       RPGAKYYKWE LKGVPIRFEI GPRDAEKGVA VVSFR...DE KRKFEVPLDE 
+SYP_MYCPN       QLGKQLGQGE VNGIPFQLIV D....NPQTV NIFNR...LT RVKTAYSFEQ 
+SYP_MYCGE       QLGKQLLKGE IEGIPLQMIV D....NEKTI NIFNR...LT RLKTSLTFAN 
+SYT_THETN       AGAFPTWLAP VQVRVLPISE K.......HH EYARKV.YER LQEHDIR... 
+SYTM_YEAST      EGRWPFWLNP YQAVIIPVNT KNVQQLDMCT ALQKKL.RNE LEADDMEPVP 
+1qe0_A          .......GPS ETGIGFALSI ERLLLALEEE GIELDI.EEN LDLFIVTMGD 
+SYH_CLOAB       NLAQNYTENV LPGVGMSIGI TRLFFVLREI GFIENYNSSL NEKYLIVPIG 
+
+
+SYS_AQUAE       TGKNRFVHTL NGSGLAVGRT LAAILENYQQ .......... .........E 
+1ser_A          EGRVRYAYTL NNTALATPRI LAMLLENHQL .......... .........Q 
+SYSM_BOVIN      AGELQFAHTV NATGCAVPRL LIALLESYQQ .......... .........K 
+SYP_BORBU       LISK.VKVEL DLMQKDLFQR ALNFRILNTK EIFRSSKDSY ETFKAYVNDY 
+SYP_CLOST       IGDT.VKNLL DTVHTDMLER ARAHRDSKT. ....FTFKDY EEFKRKMIET 
+1h4q_A          LPEA.LPGKL DAFHEELYRR ALAFREDHT. ....RKVDTY EAFKEAVQE. 
+SYP_MYCLE       APTE.LPGIL EEFQRTLLER ATQFRDDHT. ....TLVDNW DAFATTVAT. 
+YHI0_YEAST      LEAR.IPEIL EEMQGDLFKK AKELFDTHR. ....VIVNEW SGFVPALNK. 
+1nj8_A          LMEV.VEKTL NNIMENIKNR AWEKFENFIT ...ILEDINP DEIKNILSEK 
+SYP_METTH       IEET.LRELM KDILENLRTR AWERMESEIR ...EAETL.. EEASRIVDEK 
+SYP_ARCFU       VDEGKVLEWA RELKQRLRNA AAERMAEKVK ...FVENT.. ....GEIEEW 
+SYP_MYCPN       LASR.FVELV QQYHQAMYDK AKAVVQQKVV .....QATTL KQIEQAFND. 
+SYP_MYCGE       LQTE.FVNLV NNYHTEMYRK ANDLVEQKLA .....RVQTL KEIEQAFKN. 
+SYT_THETN       .......VEL DDRNEKIGYK IREAQLQKIP .......... ..YMLIVGDR 
+SYTM_YEAST      LNDWHFNVDL DIRNEPVGYR IKSAILKNYS .......... ..YLIIVGDE 
+1qe0_A          QADRYAVKLL NHLRHNGIKA DKDYLQRKIK G......... ...QMKQADR 
+SYH_CLOAB       DTFEYCTKIL NKLLVNGKSA EIYFEEGKLK .......... ..KKLTYANK 
+
+
+SYS_AQUAE       DGSVVVPEVL RDYVGTDVIR PE........ .......... .......... 
+1ser_A          DGRVRVPQAL IPYMGKEVLE PCG....... .......... .......... 
+SYSM_BOVIN      DGSVLVPPAL QPYLGTDRIT TPTHVP.... .......... .......... 
+SYP_BORBU       SGFVLSCWCG SLNCENIIKN ETK....... .......... .ATIRCIPDD 
+SYP_CLOST       PGFAKGMWCG EEECEAKIKE DTG....... .......... .VTIRCIP.. 
+1h4q_A          .GFALAFHCG DKACERLIQE ETT....... .......... .ATTRCVP.. 
+SYP_MYCLE       .GWALAIHCG NPECEEDIKA ETA....... .......... .ATPRCVP.. 
+YHI0_YEAST      KNVILAPWCG VMECEEDIKE SSAKKDDGEE FEEDDKAPSM GAKSLCIP.F 
+1nj8_A          RGVILVPFK. EEIYNEELEE KVEAT..... .......... .ILGETEYK. 
+SYP_METTH       RGIISFMWCG EEECGMDVEE KVRVD..... .......... .ILGIQEEG. 
+SYP_ARCFU       GGVVAVYLCS DEDCGHSVEE HGKS...... .......... .LLGWFEEVP 
+SYP_MYCPN       KKAVLCAVRL TDTLEQQLKE RYQ....... .......... .VTVRCCLE. 
+SYP_MYCGE       KKAVLCTVKL TGELEQHLKT KYQ....... .......... .VSVRCVFK. 
+SYT_THETN       EVEEGNVSLR SRKDG.DLGP ISLD...... .......... .......... 
+SYTM_YEAST      EVQLQKYNIR ERDNRKSFEK LTMS...... .......... .......... 
+1qe0_A          LGAKFTIVIG DQELENNKID VKN....... .......... .......... 
+SYH_CLOAB       LDIKYVILIG EDEVTNKELV IKD....... .......... .......... 
+
+
+SYS_AQUAE       .......... .......... .......... 
+1ser_A          .......... .......... .......... 
+SYSM_BOVIN      ........LQ YIGPNQPQKP RLPGQPASS. 
+SYP_BORBU       FKARDLTGMT CIYCSSKAKY ..FVLFAKSY 
+SYP_CLOST       FVQENLG.ET CQFCGKPAKH ..MVYLAKAY 
+1h4q_A          .FEAEPEEGF CVRCGRPSAY GKRVVFAKAY 
+SYP_MYCLE       .RQGAPATGR CIRCDAPSAY DKRVIFARAY 
+YHI0_YEAST      DQPVLNEGQK CIKCERIAVN ..YCMFGRSY 
+1nj8_A          .......GNK YIAIAKTY.. .......... 
+SYP_METTH       .......SGT CINCGREAPT GLTLPEHIS. 
+SYP_ARCFU       DWLDLEPEGK CVVCGREGRL AALAKTY... 
+SYP_MYCPN       ...QLQKPQI CPFSGESAQD YVLIARAY.. 
+SYP_MYCGE       ...KSDVTQN CPFTNQPCFD SVLIARAY.. 
+SYT_THETN       .....NFIEK ILKEIATKAL .......... 
+SYTM_YEAST      .....QIWEK FIELEKNYK. .......... 
+1qe0_A          .........M TTGESETIEL DALVEYFKK. 
+SYH_CLOAB       .........M ITGEQKKLNI EEI....... 
+

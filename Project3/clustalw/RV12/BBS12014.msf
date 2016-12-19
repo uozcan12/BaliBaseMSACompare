@@ -1,0 +1,41 @@
+PileUp
+
+
+
+   MSF:   52  Type: P    Check:   128   .. 
+
+ Name: HM05_CAEEL oo  Len:   52  Check:  5937  Weight:  11.1
+ Name: BRX2_HUMAN oo  Len:   52  Check:  7405  Weight:  11.1
+ Name: 1ftz_ oo  Len:   52  Check:  4901  Weight:  10.5
+ Name: HM17_APIME oo  Len:   52  Check:  3881  Weight:  11.1
+ Name: 1ftt_ oo  Len:   52  Check:  5525  Weight:  12.3
+ Name: 1fjl_A oo  Len:   52  Check:  5138  Weight:  13.4
+ Name: 1akh_A oo  Len:   52  Check:  5156  Weight:  12.4
+ Name: 1bw5_ oo  Len:   52  Check:  4647  Weight:  17.8
+ Name: 1mnm_C oo  Len:   52  Check:  7538  Weight:  13.0
+
+//
+
+
+
+HM05_CAEEL      FTDEQLEKLE ESFNT...SG YLSGSTRAKL AESLGLSDNQ VKVWFQNRRT 
+BRX2_HUMAN      FTELQLMGLE KKFQK...QK YLSTPDRLDL AQSLGLTQLQ VKTWYQNRRM 
+1ftz_           YTRYQTLELE KEFHF...NR YITRRRRIDI ANALSLSERQ IKIWFQNRRM 
+HM17_APIME      FTTQQLLSLE KKFRE...KQ YLTIAERAEF SSSLHLTETQ VKIWFQNRRA 
+1ftt_           FSQAQVYELE RRFKQ...QK YLSAPEREHL ASMIHLTPTQ VKIWFQNHRY 
+1fjl_A          FSASQLDELE RAFER...TQ YPDIYTREEL AQRTNLTEAR IQVWFQNRRA 
+1akh_A          ISPQARAFLE EVFRR...KQ SLNSKEKEEV AKKCGITPLQ VRVWFINKRM 
+1bw5_           LNEKQLHTLR TCYAA...NP RPDALMKEQL VEMTGLSPRV IRVWFQNKRC 
+1mnm_C          FTKENVRILE SWFAKNIENP YLDTKGLENL MKNTSLSRIQ IKNWVSNRRR 
+
+
+HM05_CAEEL      KQ
+BRX2_HUMAN      KW
+1ftz_           KS
+HM17_APIME      KA
+1ftt_           KM
+1fjl_A          RL
+1akh_A          RS
+1bw5_           KD
+1mnm_C          KE
+

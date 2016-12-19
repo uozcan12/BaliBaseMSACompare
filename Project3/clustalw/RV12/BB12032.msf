@@ -1,0 +1,52 @@
+PileUp
+
+
+
+   MSF:  101  Type: P    Check:  2969   .. 
+
+ Name: 1kba_A oo  Len:  101  Check:  7730  Weight:  11.2
+ Name: NXL3_OPHHA oo  Len:  101  Check:   317  Weight:  11.6
+ Name: NXSH_BUNMU oo  Len:  101  Check:  7509  Weight:  12.6
+ Name: TXM2_NAJKA oo  Len:  101  Check:  8881  Weight:  9.9
+ Name: 1cb9_A oo  Len:  101  Check:  4352  Weight:  10.9
+ Name: CADO_BUNCA oo  Len:  101  Check:  7376  Weight:  9.9
+ Name: 1fas_ oo  Len:  101  Check:   180  Weight:  12.6
+ Name: 1drs_ oo  Len:  101  Check:  5796  Weight:  11.2
+ Name: 1cod_ oo  Len:  101  Check:   828  Weight:  9.6
+
+//
+
+
+
+1kba_A          .......... .......... .RTC.....L ISPSSTPQTC PNGQDICFLK 
+NXL3_OPHHA      .......... .......... .TKC.....Y VTPDVKSETC PAGQDLCYTE 
+NXSH_BUNMU      MKTLLLTLVV VTIVCLDLGY TIICRTRDTY QIP.ITFTNC EEG.HVCYKY 
+TXM2_NAJKA      .......... .......... .LTC.VKEKS IFG.VTTEDC PDGQNLCFKR 
+1cb9_A          .......... .......... .LKC....KK LVP.LFSKTC PAGKNLCYKM 
+CADO_BUNCA      .......... .......... .MKCKICNFD TCRAGELKVC ASGEKYCFKE 
+1fas_           .......... .......... .TMCYS..HT TTSRAILTNC ..GENSCYRK 
+1drs_           .......... .......... .RICYN..HL GTKPPTTETC ..QEDSCYKN 
+1cod_           .......... .......... .LECHN..QQ SSQTPTTTGC SGGETNCYKK 
+
+
+1kba_A          AQCDKFCSIR GPVIEQGCVA TCPQFRSNYR SLLCCTT.DN CNH....... 
+NXL3_OPHHA      TWCVAWCTVR GKRVSLTCAA ICPIVPPKVS .IKCCST.DA CGPFPTWPNV 
+NXSH_BUNMU      STTETPNRIL IHR...GCAA KCP....KRL RVICCST.DK CNK....... 
+TXM2_NAJKA      WHMIVPGRYK KTR...GCAA TCPIA.ENRD VIECCST.DK CNL....... 
+1cb9_A          FMVAAP.HVP VKR...GCID VCPKS.SLLV KYVCCNT.DK CN........ 
+CADO_BUNCA      SWREAR.GTR IER...GCAA TCPKGSVYGL YVLCCTT.DD CN........ 
+1fas_           SRRHPPKMVL GRG......C GCP.PGDDYL EVKCCTSPDK CNY....... 
+1drs_           IWTFDN..II RRG......C GCFTPRGDMP GPYCCES.DK CNL....... 
+1cod_           RWRDHRGYRT ERG......C GCP.SVKNGI EINCCTT.DR CNN....... 
+
+
+1kba_A          .
+NXL3_OPHHA      R
+NXSH_BUNMU      .
+TXM2_NAJKA      .
+1cb9_A          .
+CADO_BUNCA      .
+1fas_           .
+1drs_           .
+1cod_           .
+

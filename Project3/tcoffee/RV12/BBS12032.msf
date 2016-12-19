@@ -1,0 +1,41 @@
+PileUp
+
+
+
+   MSF:   77  Type: P    Check:  5411   .. 
+
+ Name: 1cb9_A oo  Len:   77  Check:  7845  Weight:  1.000
+ Name: 1kba_A oo  Len:   77  Check:  1146  Weight:  1.000
+ Name: 1fas_ oo  Len:   77  Check:  5532  Weight:  1.000
+ Name: 1drs_ oo  Len:   77  Check:  4343  Weight:  1.000
+ Name: 1cod_ oo  Len:   77  Check:  6651  Weight:  1.000
+ Name: NXL3_OPHHA oo  Len:   77  Check:  2994  Weight:  1.000
+ Name: CADO_BUNCA oo  Len:   77  Check:  7484  Weight:  1.000
+ Name: NXSH_BUNMU oo  Len:   77  Check:  9322  Weight:  1.000
+ Name: TXM2_NAJKA oo  Len:   77  Check:    94  Weight:  1.000
+
+//
+
+
+
+1cb9_A          LKCKKL..VP ....LFSKTC PAGKNLCYKM FMV....A.. ..AP.HVPVK 
+1kba_A          RTCLIS..PS S....TPQTC PNGQDICFLK AQCDKFCS.. ..IR.GPVIE 
+1fas_           TMCYSH..TT TSR.AILTNC ..GENSCYRK SRR....H.. ..PP.KMVLG 
+1drs_           RICYNH..LG TKP.PTTETC Q..EDSCYKN IWT....F.. .....DNIIR 
+1cod_           LECHNQ..QS SQT.PTTTGC SGGETNCYKK RWR....D.. ..HR.GYRTE 
+NXL3_OPHHA      TKCYVT..PD V....KSETC PAGQDLCYTE TWC....VAW CTVR.GKRVS 
+CADO_BUNCA      MKCKICNFDT CRA.GELKVC ASGEKYCFKE SWR....E.. ..AR.GTRIE 
+NXSH_BUNMU      IICRTR..DT YQIPITFTNC EEG.HVCYKY STT....E.. ..TPNRILIH 
+TXM2_NAJKA      LTCVKE..KS IFG.VTTEDC PDGQNLCFKR WHM....I.. ..VPGRYKKT 
+
+
+1cb9_A          RGCIDVCPKS SL.LVKYVCC NT.DKCN
+1kba_A          QGCVATCPQF RSNYRSLLCC TT.DNCN
+1fas_           RGCG..CPPG DD.YLEVKCC TSPDKCN
+1drs_           RGCGCFTPRG DM..PGPYCC ES.DKCN
+1cod_           RGCG..CPSV KN.GIEINCC TT.DRCN
+NXL3_OPHHA      LTCAAICPIV PP.KVSIKCC ST.DACG
+CADO_BUNCA      RGCAATCPKG SVYGLYVLCC TT.DDCN
+NXSH_BUNMU      RGCAAKCPK. ...RLRVICC ST.DKCN
+TXM2_NAJKA      RGCAATCPIA EN.RDVIECC ST.DKCN
+

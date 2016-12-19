@@ -1,0 +1,74 @@
+PileUp
+
+
+
+   MSF:   60  Type: P    Check:  1992   .. 
+
+ Name: 1awj_ oo  Len:   60  Check:  2649  Weight:  1.000
+ Name: STK_HYDAT oo  Len:   60  Check:  1633  Weight:  1.000
+ Name: SRC1_XENLA oo  Len:   60  Check:  2508  Weight:  1.000
+ Name: FGR_HUMAN oo  Len:   60  Check:   602  Weight:  1.000
+ Name: SR42_DROME oo  Len:   60  Check:  1024  Weight:  1.000
+ Name: BTK_HUMAN oo  Len:   60  Check:  1689  Weight:  1.000
+ Name: STAC_HUMAN oo  Len:   60  Check:  9039  Weight:  1.000
+ Name: ABL_DROME oo  Len:   60  Check:  2402  Weight:  1.000
+ Name: ABL1_CAEEL oo  Len:   60  Check:  2577  Weight:  1.000
+ Name: PEXD_YEAST oo  Len:   60  Check:  9674  Weight:  1.000
+ Name: PIG1_BOVIN oo  Len:   60  Check:  1743  Weight:  1.000
+ Name: NPH1_CANFA oo  Len:   60  Check:  9874  Weight:  1.000
+ Name: CC15_SCHPO oo  Len:   60  Check:  1161  Weight:  1.000
+ Name: SS81_YEAST oo  Len:   60  Check:  1605  Weight:  1.000
+ Name: ARH6_HUMAN oo  Len:   60  Check:   289  Weight:  1.000
+ Name: OPHL_HUMAN oo  Len:   60  Check:  1237  Weight:  1.000
+ Name: SNX9_MOUSE oo  Len:   60  Check:  3524  Weight:  1.000
+ Name: 1ycs_B oo  Len:   60  Check:  1810  Weight:  1.000
+ Name: 1hjd_A oo  Len:   60  Check:  7632  Weight:  1.000
+ Name: 1ihv_A oo  Len:   60  Check:  9320  Weight:  1.000
+
+//
+
+
+
+1awj_           EETLVIALYD YQT...ND.P .Q..ELALRC DEEYYLLDSS ...E.....I 
+STK_HYDAT       GVTIFVALYD YEA...RI.S .E..DLSFKK GERLQIINTA ...D.....G 
+SRC1_XENLA      GVTTFVALYD YES...RT.E .T..DLSFKK GERLQIVNNT ...E.....G 
+FGR_HUMAN       GVTLFIALYD YEA...RT.E .D..DLTFTK GEKFHILNNT ...E.....G 
+SR42_DROME      NAKIFVALYD YDA...RT.D .E..DLSFRK GEHLEILNDT ...Q.....G 
+BTK_HUMAN       ELKKVVALYD YMP...MN.A .N..DLQLRK GDEYFILEES ...N.....L 
+STAC_HUMAN      QMNTYVALYK FVP...QE.N .E..DLEMRP GDIITLLEDS ...N.....E 
+ABL_DROME       DPQLFVALYD FQA...GG.E .N..QLSLKK GEQVRILSYN ...KS....G 
+ABL1_CAEEL      SAPLFVALYD FHG...VG.E .E..QLSLRK GDQVRILGYN ...KN....N 
+PEXD_YEAST      KLEFARALYD FVP...EN.P EM..EVALKK GDLMAILSKK ...DPLGRDS 
+PIG1_BOVIN      FKCAVKALFD YKA...QR.E .D..ELTFTK SAIIQNVEKQ ...E.....G 
+NPH1_CANFA      TSKEYIAVGD FTA...QQ.A .G..DLTFKK REILLIIEKK ...P.....D 
+CC15_SCHPO      ILGYVIALYD YQA...QI.P .E..EISFQK GDTLMVLRTQ ...E.....D 
+SS81_YEAST      FIYKAKALYP YDA...DD.D .DAYEISFEQ NEILQV.SDI ...E.....G 
+ARH6_HUMAN      HQLIVKARFN FKQ...TN.E .D..ELSVCK GDIIYVTRVE ...E.....G 
+OPHL_HUMAN      PFRKAKALYA CKA...EH.D .S..ELSFTA GTVFDNVHPS ...Q.....E 
+SNX9_MOUSE      MATKARVMYD FAA...EPGN .N..ELTVTE GEIITVTNPN ...VG....G 
+1ycs_B          NKGVIYALWD YEP...QN.D .D..ELPMKE GDCMTIIHRE DEDE.....I 
+1hjd_A          PISMAVALQD YMA...PD.C .R..FLTIHR GQVVYVFSKL ...KG..RGR 
+1ihv_A          IQNFRVYYRD SRDPVWKG.P .A..KL.LWK GEGAVVIQDN S......... 
+
+
+1awj_           HWWRVQD..K 
+STK_HYDAT       DWWYARS..L 
+SRC1_XENLA      DWWLARS..L 
+FGR_HUMAN       DWWEARS..L 
+SR42_DROME      DWWLARS..K 
+BTK_HUMAN       PWWRARD..K 
+STAC_HUMAN      DWWKGK...I 
+ABL_DROME       EWCEAHS..D 
+ABL1_CAEEL      EWCEARLYST 
+PEXD_YEAST      DWWKVRT..K 
+PIG1_BOVIN      GWWRGDY..G 
+NPH1_CANFA      GWWIAKN..A 
+CC15_SCHPO      GWWDGEIINV 
+SS81_YEAST      RWWKARR..A 
+ARH6_HUMAN      GWWEGT...L 
+OPHL_HUMAN      PGWLEGT..L 
+SNX9_MOUSE      GWLEGKN..N 
+1ycs_B          EWWWAR...L 
+1hjd_A          LFWGGSVQGD 
+1ihv_A          .......... 
+

@@ -1,0 +1,308 @@
+PileUp
+
+
+
+   MSF:  407  Type: P    Check:  2979   .. 
+
+ Name: 1b70_A oo  Len:  407  Check:  2187  Weight:  2.0
+ Name: 1pys_A oo  Len:  407  Check:  2187  Weight:  2.0
+ Name: SYFA_DEIRA oo  Len:  407  Check:    29  Weight:  3.4
+ Name: SYFA_SYNY3 oo  Len:  407  Check:  5673  Weight:  3.3
+ Name: SYFA_SYNEL oo  Len:  407  Check:  6246  Weight:  3.3
+ Name: SYFA_MYCBO oo  Len:  407  Check:  3838  Weight:  3.1
+ Name: SYFA_COREF oo  Len:  407  Check:  5671  Weight:  3.2
+ Name: SYFA_BIFLO oo  Len:  407  Check:   487  Weight:  3.2
+ Name: SYFA_THETN oo  Len:  407  Check:  9977  Weight:  4.4
+ Name: SYFA_THEVO oo  Len:  407  Check:  8779  Weight:  3.0
+ Name: SYFA_THEAC oo  Len:  407  Check:  9450  Weight:  2.9
+ Name: SYFA_ARATH oo  Len:  407  Check:  1599  Weight:  5.0
+ Name: SYFA_HALN1 oo  Len:  407  Check:  8277  Weight:  3.5
+ Name: SYFA_TREPA oo  Len:  407  Check:  5990  Weight:  3.2
+ Name: SYFA_BORBU oo  Len:  407  Check:  7987  Weight:  3.0
+ Name: SYFA_PYRAB oo  Len:  407  Check:  7615  Weight:  4.2
+ Name: SYFA_SULTO oo  Len:  407  Check:  5446  Weight:  3.0
+ Name: SYFA_SULSO oo  Len:  407  Check:  6182  Weight:  2.8
+ Name: SYFA_AERPE oo  Len:  407  Check:  1619  Weight:  3.7
+ Name: SYFA_PYRAE oo  Len:  407  Check:  7496  Weight:  4.2
+ Name: SYFA_METAC oo  Len:  407  Check:  3884  Weight:  3.9
+ Name: SYFA_ARCFU oo  Len:  407  Check:  8314  Weight:  3.8
+ Name: SYFA_METKA oo  Len:  407  Check:  2430  Weight:  4.4
+ Name: SYFA_METTH oo  Len:  407  Check:  9517  Weight:  4.4
+ Name: SYFA_METJA oo  Len:  407  Check:  8619  Weight:  4.9
+ Name: 1lyl_A oo  Len:  407  Check:  5646  Weight:  6.1
+ Name: 1asz_B oo  Len:  407  Check:    79  Weight:  4.6
+ Name: 1adj_A oo  Len:  407  Check:  7755  Weight:  6.9
+
+//
+
+
+
+1b70_A          .......... .......... .........Q AVEG.PEVES EFFNFDALNI 
+1pys_A          .......... .......... .........Q AVEG.PEVES EFFNFDALNI 
+SYFA_DEIRA      .......... .......... .........A VIEG.PEVEE EHYNFEALNV 
+SYFA_SYNY3      .......... .......... .........T VATG.PQVET DYYNFEALNI 
+SYFA_SYNEL      .......... .......... .........T VANG.PEMET EYYNFEALNT 
+SYFA_MYCBO      .......... .......... .........E LAEG.PEVET EQFNFDALNF 
+SYFA_COREF      .......... .......... .........E VAEG.PEVEA EYFNFDALNF 
+SYFA_BIFLO      .......... .......... .........Q ISSG.PEIEA EWYNFDSLNF 
+SYFA_THETN      .......... .......... .........S IAEG.PEVEL AYYNFEALNT 
+SYFA_THEVO      .......... .......... .........T EMSG.HYIES ALWDMDALFI 
+SYFA_THEAC      .......... .......... .........T EMGG.HYIES TLWDMDSLFI 
+SYFA_ARATH      .......... .......... .........E EMPTNNYVES SFWNFDALFQ 
+SYFA_HALN1      .......... .......... .........Q EMAG.PHVDA DFYINDCLFM 
+SYFA_TREPA      .......... .......... .........Q EFDG.PLVET DFWNADALFM 
+SYFA_BORBU      .......... .......... .........Q EFDG.PLVET EFFNNDALFM 
+SYFA_PYRAB      .......... .......... ........IE MTVD.SLIET QFWNFDALFQ 
+SYFA_SULTO      .......... .......... .........K EVYS.DYVEI EFYNFDLLFQ 
+SYFA_SULSO      .......... .......... .........K EINT.GYIEM EFYNFDLLFQ 
+SYFA_AERPE      .......... .......... .........R EVRG.PLVEL ELFNFDVLFQ 
+SYFA_PYRAE      .......... .......... .........E EVRG.PVLEV EFWNFDALFQ 
+SYFA_METAC      .......... .......... .........T EIKG.GIIQS SFWNFDALFQ 
+SYFA_ARCFU      .......... .......... .........T EIKG.HYVQP AFWNFDALFQ 
+SYFA_METKA      .......... .......... .........V EVSG.PLVES SFWNFDALFQ 
+SYFA_METTH      .......... .......... .........T ESRG.PIVES AFWNFDCLFQ 
+SYFA_METJA      .......... .......... .........K EVKS.PIVET EFWNFDMLFE 
+1lyl_A          QRYLDLIAND KSRQTFVVRS KILAAIRQFM VARGFMEVET PMMQVIPGGA 
+1asz_B          .......... ..LDYRVIDL RTVTNQAIFR IQAGVCELFR EYLATKKFTE 
+1adj_A          .......... .......... ......MTAR AVRGTKDLFG KELRMHQRIV 
+
+
+1b70_A          PE.....HHP ARDMWDTFWL TGEG.....F RLEG...... .......... 
+1pys_A          PE.....HHP ARDMWDTFWL TGEG.....F RLEG...... .......... 
+SYFA_DEIRA      PW.....YHP ARDLQDTFWL E......... .......... .......... 
+SYFA_SYNY3      PA.....DHP ARDMQDTFFL K......... .......... .......... 
+SYFA_SYNEL      PA.....DHP ARDMQDTFYL P......... .......... .......... 
+SYFA_MYCBO      PA.....DHP ARGEQDTFYI APE....... .......... .......... 
+SYFA_COREF      LP.....DHP ARTLQDTFHI GPE....... .......... .......... 
+SYFA_BIFLO      GP.....DHP ARQMQDTFYV KGNQ.....A KDAA...... .......... 
+SYFA_THETN      PE.....DHP ARDLQDTFYI TSD....... .......... .......... 
+SYFA_THEVO      PQ.....DHP ARDMQDTFYV KD........ ....SNFTIE HP.EIEKRIK 
+SYFA_THEAC      PQ.....DHP ARDMQDTFYV EA........ ....DSFDID HP.EISKKIR 
+SYFA_ARATH      PQ.....QHP ARDSHDTFFL KV........ ....PSTTRT LPEDYVERVK 
+SYFA_HALN1      PQ.....DHP ARNHWDRFAL SN........ ....PARIDE LPDALVERVE 
+SYFA_TREPA      PQ.....FHP ARDIHDVYYL KHP....... ...THAPTI. .PEPFLSRVA 
+SYFA_BORBU      PQ.....FHP SRDIKDVYYI SDP....... ...SMQESL. .PEPYFSNVK 
+SYFA_PYRAB      PQ.....NHP AREWTDTYQL KYP....... ...EKGYLP. .DESLVSRVK 
+SYFA_SULTO      AQ.....DHP AREIHDSFAI SG........ ....KGKLT. .DEKLIQRVK 
+SYFA_SULSO      PQ.....DHP AREIHDSFSV EG........ ....SGKIE. .DKDLLNNVK 
+SYFA_AERPE      AQ.....DHP AREIHDSLWI KSP....... ...RRGDLSG .YSDLVERVA 
+SYFA_PYRAE      AQ.....DHP AREVHDTFYV QW........ ....SGPLET PPEHLMESVG 
+SYFA_METAC      PQ.....DHP ARDMQDTFHL GS........ ....ICQLP. .A.EYSDKVA 
+SYFA_ARCFU      PQ.....DHP ARDMQDTFYL DR........ ....YIDLE. .G.EIVERVK 
+SYFA_METKA      PQ.....DHA AREMQDTFYL KEP....... ...AEAELP. .DEEVVEKVR 
+SYFA_METTH      PQ.....DHA AREMQDTFYV KNP....... ...AVTDLP. .CEDLVRAVQ 
+SYFA_METJA      PQ.....DHP AREMQDTFFL KYP....... ...NEGDIP. .E.DLLSKVK 
+1lyl_A          SARPFITHHN ALDLDMYLRI APEL.....Y LKRLVVGGFE RVFEINRNFR 
+1asz_B          VHTPKLLGAP SEGGSSVFEV TYFKGKAYLA QSPQFNKQQL IVADFERVYE 
+1adj_A          AT.....ARK VLEAAGALEL VTP....... .......... ..IFEETQVF 
+
+
+1b70_A          .......... ......PLGE EVEGRLLLRT HTSPMQVRYM VAH.....TP 
+1pys_A          .......... ......PLGE EVEGRLLLRT HTSPMQVRYM VAH.....TP 
+SYFA_DEIRA      .......... .......... ..DGR.LLRT HTSPMQIRYM VDH.....EP 
+SYFA_SYNY3      .......... .......... ..DGR.LLRT HTSPVQIRYM EKH.....DP 
+SYFA_SYNEL      .......... .......... ..DGN.LLRT HTSSVQIRYM ELY.....EP 
+SYFA_MYCBO      .......... .......... ..DSRQLLRT HTSPVQIRTL LAR.....EL 
+SYFA_COREF      .......... .......... ..GSRQVLRT HTSPVQIRSM LDR.....EV 
+SYFA_BIFLO      .......... ......GF.. .VGSNMVVRT QTSSDQVRAL LTR.....GV 
+SYFA_THETN      .......... .......... .....ILLRT QTSPVQVRTM EKT.....KP 
+SYFA_THEVO      RIH.ERGFDG YSGWGYRWSS DDGKKLILRT HTTVTTARYL Y....EHNTY 
+SYFA_THEAC      KIH.EKGFDG YSGWGYRWSD AEARKLVLRT HTTVSTARYL Y....ENNEP 
+SYFA_ARATH      RVH.ESGGYG SRGYNYDWKR EEANKNLLRT HTTAVSSRML YALAQKP.FV 
+SYFA_HALN1      RAHREGAGDD GDGYHSPWDE DFARALALRG HTTSLTARHL AGLADADVEA 
+SYFA_TREPA      ATHERGADSG SLGWRYSFDR DFTRRLLLRS QGTALSARHL PT.....AHI 
+SYFA_BORBU      LAHETGYATG SRGWRYSFSE DLSKRLVLRT HGTVLSAKQL IN.....AKN 
+SYFA_PYRAB      EAHERGLA.G SRGWGYVWSP ERAMLLMPRA HATALSARQL AKG....IEI 
+SYFA_SULTO      QIHER..... ..GWKYNWDV NISMRLMLRS QTTATTARVL ASR....PKP 
+SYFA_SULSO      EIHEK..... ..FWKYEWKQ DITLRLMLRS QTTATTARVL ASR....PKA 
+SYFA_AERPE      SVHER..... ..GWKYRWSP EVASRYILRS QTTAVSARIL ATR....PNP 
+SYFA_PYRAE      RVHEE..... ..KWRYKWDR KKALNPVLRT QTTATTIRAL AER....GDG 
+SYFA_METAC      AMHESGGDID SCGWGGIWDR ELARRNVLRT HTTSVTIKYL A....DNPEP 
+SYFA_ARCFU      ATHENGWITG STGWGGEWSL EKARQLVLRT HTTAITIHYL A....ENPEP 
+SYFA_METKA      AVHEDGGDTG SRGWGYEWDE GVARKTVLRT HTTAVSVRKL Y....EVEGP 
+SYFA_METTH      DAHETGGSTG SEGWQYEWDR DVARQSVLRT HTTCVSARFL S....ENE.P 
+SYFA_METJA      EVHER..... ..CWKYKFDE NVSRRLILRT HTTASSIRYL ASLSDEEKNK 
+1lyl_A          NEGISVRHNP EFTMMELYMA YADYHDLIEL TESLFRTLAQ EVLGTTKVTY 
+1asz_B          IGPVFRAENS NTHRHMTEFT GLDMEMAFEE HYHEVLDTLS ELFVFIFSEL 
+1adj_A          EKGVGAATDI VRKEMFTFQD RGGRSLTLRP EGTAAMVRAY LEHGMKVWPQ 
+
+
+1b70_A          PFRIVVPGRV FR........ ...FEQTDAT HEAVFHQLEG LVVGEGIAMA 
+1pys_A          PFRIVVPGRV FR........ ...FEQTDAT HEAVFHQLEG LVVGEGIAMA 
+SYFA_DEIRA      PFKIVVRGKV YR........ ...YEATDAT HEAMFHQLEG LVVGDGISMS 
+SYFA_SYNY3      PIRIVAPGRV YR........ ...RDTVDAT HSAVFHQVEL LAIDKGLAFT 
+SYFA_SYNEL      PIRIVAPGRC YR........ ...RDTEDAT HAAVFHQIEI LAVDEGLTFT 
+SYFA_MYCBO      PVYIISIGRT FR........ ...TDELDAT HTPIFHQVEG LAVDRGLSMA 
+SYFA_COREF      PIYIACPGRV FR........ ...TDELDAT HTPVFHQIEG LAVDKGLTMA 
+SYFA_BIFLO      PLYIASPGRV FR........ ...TDELDAT HTPVFHQCEA LAVDKHLTMA 
+SYFA_THETN      PIRVISPGRV YR........ ...SDDIDAT HSPVFHQMEG LVVDEGITMG 
+SYFA_THEVO      PQAIFSVEKV FR........ ...HESVDWK HLAEFYQIEG AVYDKNVSVA 
+SYFA_THEAC      PQAIFSVEKV FR........ ...HESVDWK HLAEFYQIEG AVYSKDVSVS 
+SYFA_ARATH      PKKYFSIDRV FR........ ...NEAVDRT HLAEFHQIEG LICDRGLTLG 
+SYFA_HALN1      PARYFSVEKA YR........ ...NDTLDAT HLLEFFQIEG WVLADDLSVR 
+SYFA_TREPA      PGKYFGIARC FR........ ...HDQVDAT HLADFYQTEG IVLGTDVNVC 
+SYFA_BORBU      PSRYFGVIRC FR........ ...YDQVDAT HGVDFYQTEG IVIEDGVSIK 
+SYFA_PYRAB      PGKYFTIQRV FR........ ...PDVLDRT HLIEFNQIDG FVAGEDLTFR 
+SYFA_SULTO      PIRVFTIGKV FR........ ...PDSIDAT HLIEFHQLDG LVIEDNFTFR 
+SYFA_SULSO      PQKVFTLGKV FR........ ...PDAIDAT HLIEFHQLDG VIIDNNFTFK 
+SYFA_AERPE      PARFFTVGKV FR........ ...SDAVGPT RLPEFHQLDG IEGDEGYTFR 
+SYFA_PYRAE      EYKVFTIGRV FR........ ...PEKLDPK HSMEFHQLDG IVVGPGLTFK 
+SYFA_METAC      PVKAFCIDRA YR........ ...RETIDPT HTPEFEQLEG VVMDKDMSFA 
+SYFA_ARCFU      PQKAFCIDRV YR........ ...RETIDAT HLPEFDQLEG VVLDRDVGFK 
+SYFA_METKA      PLKAFSIGRV YR........ ...RETVDYK HLPEFHQCEG IVLAKDVSFR 
+SYFA_METTH      PLKMFSVGRV FR........ ...RETITYK HLPEFHQVEG IVAGDEVNFR 
+SYFA_METJA      PHKVFCIDRV FR........ ...NEAIDYK HLPEFYQCEG IIMDDNVNFN 
+1lyl_A          GEHVFDFGKP FEKLTMREAI KKYRPETDMA DLDNFDAAKA LAESIGITVE 
+1asz_B          PKRFAHEIEL VR........ ..KQYPVEEF KLPKDGKMVR LTYKEGIEML 
+1adj_A          PVRLWMAGPM FR........ ...AERPQKG RYRQFHQVNY EALGSENPIL 
+
+
+1b70_A          HLKG...... ........AI YELAQALFGP DSKVRFQPVY FPFVEPGAQF 
+1pys_A          HLKG...... ........AI YELAQALFGP DSKVRFQPVY FPFVEPGAQF 
+SYFA_DEIRA      DLKG...... ........TI AEMARGLYGA SAKARFQPSY YPFVEPGADF 
+SYFA_SYNY3      HLKG...... ........TI QAFIKQMFGE ALPIRFRASY FPFTEPSAEV 
+SYFA_SYNEL      DLKG...... ........TV TTFLAELFGD .VPIRFRASY FPFTEPSAEV 
+SYFA_MYCBO      HLRG...... ........TL DAFARAEFGP SARTRIRPHF FPFTEPSAEV 
+SYFA_COREF      HLRG...... ........TL DHLARELFGP ETKTRMRSNY FPFTEPSAEV 
+SYFA_BIFLO      DLKG...... ........VL DKLAVAMFGP EAKTRLRPSY FPFTEPSAEL 
+SYFA_THETN      DLKG...... ........VL NVFAKKFFGE QTKTKFRPHF FPFTEPSAEM 
+SYFA_THEVO      TLKW...... ........IL RTFYGKL.GF E.KIRLVPSY YPYTEPSLDV 
+SYFA_THEAC      TLKW...... ........IL RDFYAKL.GF N.DIKLIPSY YPYTEPSLDV 
+SYFA_ARATH      DLIG...... ........VL EDFFSRL.GM S.KLRFKPAY NPYTEPSMEI 
+SYFA_HALN1      DLMG...... ........TF REFYSQF.GI H.DLQFKPTY NPYTEPSFEL 
+SYFA_TREPA      TLLG...... ........ML KILATEIAGA Q.EVRYVGGY FPFTEPSIEL 
+SYFA_BORBU      TLLG...... ........LL EIFAKELAGA T.EIKYVPAY FPFTEPSIEI 
+SYFA_PYRAB      HLLG...... ........IL KRFAIEIAGA K.KVKFFPDY YPFTEPSVQL 
+SYFA_SULTO      DLLG...... ........TL KEIFNGI.GI K.EIRFKPAY FPFTEPSVEV 
+SYFA_SULSO      ELLG...... ........VL KEIFYRL.GI K.EVKFKPAY FPFTEPSVEA 
+SYFA_AERPE      DLLG...... ........RL DEIASML.GL K..LKFKPAY FPFTEPSVEG 
+SYFA_PYRAE      HLLG...... ........QL EEIAKAL.GM T.KVKFRPAY FPFTSPSVEV 
+SYFA_METAC      DLLG...... ........LL AEFYHRM.GF E.EVRFRPGY FPYTEPSVEP 
+SYFA_ARCFU      HLLG...... ........LL KEFFTKM.GF E.DVRFRPGY FPYTEPSVEP 
+SYFA_METKA      DLLG...... ........IL EEFYRRM.GF E.EVRFRPAY FPYTVLSVEP 
+SYFA_METTH      NLLG...... ........IL REFYRKL.GF ..EVRFRPAY FPYTYLSTEC 
+SYFA_METJA      NLIG...... ........VL KEFLNRL.GF E.KVRFRPAY FPFTEPSLEA 
+1lyl_A          KSWG...... ........LG RIVTEIFDEV AEAHLIQPTF ITEYPAEVSP 
+1asz_B          RAAGKEIG.. .....DFEDL STENEKFLGK LVRDKYDTDF YILDKFPLEI 
+1adj_A          DAEAVVLLYE CLKELGLRRL KVKLSSVGDP EDRARYNAYL REVLSPHREA 
+
+
+1b70_A          AVWW..P... .......... .......... .......... ....EG.... 
+1pys_A          AVWW..P... .......... .......... .......... ....EG.... 
+SYFA_DEIRA      AVYWENP... .......... .......... .......... ....RGE... 
+SYFA_SYNY3      DVQW...... .......... .......... .......... ....QG.... 
+SYFA_SYNEL      DVQW...... .......... .......... .......... ....QG.... 
+SYFA_MYCBO      DV.WFANK.. .......... .......... .......... ...IGGA... 
+SYFA_COREF      DV.WFPNK.. .......... .......... .......... ...KGGA... 
+SYFA_BIFLO      DL.WFPDK.. .......... .......... .......... ...KGGP... 
+SYFA_THETN      DVSCFACG.. .......... .......... .......... ...GKGCRVC 
+SYFA_THEVO      VVEVD..... .......... .......... .......... .....GK... 
+SYFA_THEAC      VVRVN..... .......... .......... .......... .....GK... 
+SYFA_ARATH      FSYHEGL... .......... .......... .......... .....GK... 
+SYFA_HALN1      FGRHPET... .......... .......... .......... .....GE... 
+SYFA_TREPA      HALHPAL... .......... .......... .......... .....G.... 
+SYFA_BORBU      HVKHPVL... .......... .......... .......... .....G.... 
+SYFA_PYRAB      SAYHPEL... .......... .......... .......... .....G.... 
+SYFA_SULTO      YGKIEGL... .......... .......... .......... .....G.... 
+SYFA_SULSO      YGYLEKL... .......... .......... .......... .....G.... 
+SYFA_AERPE      YVKLPNG... .......... .......... .......... .....R.... 
+SYFA_PYRAE      YAQHPKL... .......... .......... .......... .....G.... 
+SYFA_METAC      EVYVDGL... .......... .......... .......... .....G.... 
+SYFA_ARCFU      EVYVEGL... .......... .......... .......... .....G.... 
+SYFA_METKA      EVYFEEK... .......... .......... .......... .....GD... 
+SYFA_METTH      EIYLPEK... .......... .......... .......... .....KS... 
+SYFA_METJA      EVYLEGK... .......... .......... .......... .....G.... 
+1lyl_A          LARRNDVNPE IT........ .......... .......DRF EFFIGGREIG 
+1asz_B          RPFYTMPDPA N......... .......... .......... .PKYSNSYDF 
+1adj_A          LSEDSKERLE ENPMRILDSK SERDQALLKE LGVRPMLDFL GEEARAHLKE 
+
+
+1b70_A          ..GKWLELGG AGMVHPKVFQ AVDAYRERLG LPPAYRGVTG FAFGLG..VE 
+1pys_A          ..GKWLELGG AGMVHPKVFQ AVDAYRERLG LPPAYRGVTG FAFGLG..VE 
+SYFA_DEIRA      ..SKWLELGG CGMVHPNVFK AVDDLREAAG KDRVYEGKTG FAFGLG..LE 
+SYFA_SYNY3      ...KWLEVMG CGMVDPNVME AVGYDPEVY. ........TG FAAGFG..VE 
+SYFA_SYNEL      ...RWLEVMG CGMVDPAVLK NVGYDPEVY. ........TG FAAGFG..VE 
+SYFA_MYCBO      ...DWVEWGG CGMVHPNVLR ATGIDPDLY. ........SG FAFGMG..LE 
+SYFA_COREF      ...GWIEWGG CGMVNPNVLR AVGIDPEEY. ........SG FAFGMG..IE 
+SYFA_BIFLO      ...GWLEWGG CGMVNPNVLK SAGIDPDVY. ........TG FAFGVG..ME 
+SYFA_THETN      GYTGWIEILG AGMVHPNVLR MSGIDPEKY. ........TG FAFGLG..ID 
+SYFA_THEVO      ....EMELGG SGIFRPEVGK ILGLKAPV.. M......... .AWGMG..LE 
+SYFA_THEAC      ....EVELGG SGLFRPEVLK ILGLKAPV.. M......... .AWGMG..LE 
+SYFA_ARATH      ....WVEIGN SGMFRPEMLL PMGLPEDVRV I......... .AWGLS..LE 
+SYFA_HALN1      ....LIEIGN SGIFRPEMLD PLDVDGDV.. M......... .AWGLA..LE 
+SYFA_TREPA      ....WFELGG AGLLRPEVTD PLGVHVP.VM .......... .AWGLG..VD 
+SYFA_BORBU      ....WFELGG SGIFRPEVTK PLGIDLP.VI .......... .AWGIG..ID 
+SYFA_PYRAB      ....WVEFGG AGVFREEMTE ALGIKVP.VI .......... .AWGIG..ID 
+SYFA_SULTO      ....WVEMAG AGLLRPEILE AVEISSS.AG .......... .AWGLG..ID 
+SYFA_SULSO      ....WVEMCG AGLLRPEILS SVGIDST.AG .......... .AWGIG..IE 
+SYFA_AERPE      ....WLELFG AGMFRPEVLE AVGVDYP.VG .......... .AWGFG..IE 
+SYFA_PYRAE      ....WVEFGG AGIFRPEVTE PLGVKKSRVL .......... .AWGWG..LD 
+SYFA_METAC      ....WVELGG AGVFRKEVTE PFGIKEPVL. .......... .AWGLG..VS 
+SYFA_ARCFU      ....WVELGG AGVFRKEVTE PLGIRGKVL. .......... .AWGLG..IG 
+SYFA_METKA      ....WVELGG AGIFRPEVLQ PLGFDPDVVC L......... .AWGLG..VE 
+SYFA_METTH      ....WIELGG AGMFRPEVLE PLGVETPVA. .......... .AFGLG..IE 
+SYFA_METJA      ....WLEILG AGIFRPEVLE PIGIEKPVL. .......... .AWGIG..FS 
+1lyl_A          ..NGFSELND AEDQAERFQE QVNAKAAGDD EAMFYDEDYV TALEYG..LP 
+1asz_B          FMRGEEILSG AQRIHDHALL QERMKAHGLS PEDPGLKDYC DGFSYG..CP 
+1adj_A          VERHLERLSV PYELEPALVR GLDYYVRTAF EVHHEEIGAQ SALGGGGRYD 
+
+
+1b70_A          RLAMLR.... .......YGI PDIRYFFGG. .......... RLKFLEQ... 
+1pys_A          RLAMLR.... .......YGI PDIRYFFGG. .......... RLKFLEQ... 
+SYFA_DEIRA      RIAMLK.... .......YGI PDIRYFYAN. .......... DPRVIGQ... 
+SYFA_SYNY3      RFAMVL.... .......HQI DDIRRLYNS. .......... DLRFLRQ... 
+SYFA_SYNEL      RFAMVL.... .......HQI DDIRRFYTS. .......... DLRFLRQ... 
+SYFA_MYCBO      RTLQFR.... .......NGI PDMRDMVEG. .......... DVRFSLP... 
+SYFA_COREF      RTLQFR.... .......NGL SDMRDMVEG. .......... DVRFTLP... 
+SYFA_BIFLO      RTLLLR.... .......SDI NDMHDLVEG. .......... DVRFAEQ... 
+SYFA_THETN      RIAMLK.... .......YGI EDLRLLFEN. .......... DMRFIEQ... 
+SYFA_THEVO      RLAMLY.... .......YGL TDVRDLYN.. .........T DFSFLEG... 
+SYFA_THEAC      RLAMMY.... .......YGL TDVRDLYN.. .........T DFEFLSS... 
+SYFA_ARATH      RPTMIL.... .......YGI DNIRDLFGHK .........V DLDLIKR... 
+SYFA_HALN1      RLLMLM.... .......TGF EDIRDVHGTL .........C DVGFLRN... 
+SYFA_TREPA      RMALLA.... .......LGI SDVRELFSP. .......... DIESVRL... 
+SYFA_BORBU      RMALMH.... .......LGL NDLRDLFTY. .......... DIGDVIL... 
+SYFA_PYRAB      RLAMFK.... .......LGI DDIRYLFSY. .......... DLRWLRE... 
+SYFA_SULTO      RLAMLL.... .......LGL KDIRLLYAT. .......... DIEYLRN... 
+SYFA_SULSO      RLAMSF.... .......LNI SDIRLLYSN. .......... NIEYIRD... 
+SYFA_AERPE      RLAMAF.... .......YGV SDIRKLYTR. .......... NVDEVRE... 
+SYFA_PYRAE      RIAMIL.... .......LGI DDIRELFTK. .......... DLEKLKE... 
+SYFA_METAC      RLAMLK.... .......LGL KDLRLLYQS. .......... DIDWLRK... 
+SYFA_ARCFU      RLAMLK.... .......IGL KDLRRLYLP. .......... DLGWLRS... 
+SYFA_METKA      RLAMLK.... .......LGI DDIRDLYMS. .......... DLKTLLE... 
+SYFA_METTH      RLAMIR.... .......FDI KDIRMLYQS. .......... DLGWLRG... 
+SYFA_METJA      RLAMLR.... .......YGL TDIRDLHKN. .......... DLDWLKR... 
+1lyl_A          PTAGLG.... .......IGI DRMIMLFTNS .........H TIRDVILFPA 
+1asz_B          PHAGGG.... .......IGL ERVVMFYLDL .........K NIRRASLFPR 
+1adj_A          GLSELLGGPR VPGVGFAFGV ERVALALEAE GFGLPEEKGP DLYLIPL... 
+
+
+1b70_A          .......
+1pys_A          .......
+SYFA_DEIRA      .......
+SYFA_SYNY3      .......
+SYFA_SYNEL      .......
+SYFA_MYCBO      .......
+SYFA_COREF      .......
+SYFA_BIFLO      .......
+SYFA_THETN      .......
+SYFA_THEVO      .......
+SYFA_THEAC      .......
+SYFA_ARATH      .......
+SYFA_HALN1      .......
+SYFA_TREPA      .......
+SYFA_BORBU      .......
+SYFA_PYRAB      .......
+SYFA_SULTO      .......
+SYFA_SULSO      .......
+SYFA_AERPE      .......
+SYFA_PYRAE      .......
+SYFA_METAC      .......
+SYFA_ARCFU      .......
+SYFA_METKA      .......
+SYFA_METTH      .......
+SYFA_METJA      .......
+1lyl_A          MRP....
+1asz_B          DPKRLRP
+1adj_A          .......
+

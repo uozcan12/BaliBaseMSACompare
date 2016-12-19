@@ -1,0 +1,879 @@
+PileUp
+
+
+
+   MSF:  599  Type: P    Check:  3940   .. 
+
+ Name: 3grs_ oo  Len:  599  Check:  6882  Weight:  1.000
+ Name: 1bhy_ oo  Len:  599  Check:  3337  Weight:  1.000
+ Name: TYTR_TRYBB oo  Len:  599  Check:  8975  Weight:  1.000
+ Name: TYTR_CRIFA oo  Len:  599  Check:  3388  Weight:  1.000
+ Name: TYTR_LEIDO oo  Len:  599  Check:  6342  Weight:  1.000
+ Name: GSHR_SCHPO oo  Len:  599  Check:  1934  Weight:  1.000
+ Name: YKGC_ECOLI oo  Len:  599  Check:  9529  Weight:  1.000
+ Name: DLDH_SYNY3 oo  Len:  599  Check:  6404  Weight:  1.000
+ Name: GSHR_PSEAE oo  Len:  599  Check:   349  Weight:  1.000
+ Name: GSHC_SPIOL oo  Len:  599  Check:  2035  Weight:  1.000
+ Name: GSHR_BRARP oo  Len:  599  Check:  8044  Weight:  1.000
+ Name: GSHR_ORYSA oo  Len:  599  Check:   723  Weight:  1.000
+ Name: TXN2_BOVIN oo  Len:  599  Check:  7971  Weight:  1.000
+ Name: TXN2_RAT oo  Len:  599  Check:  9890  Weight:  1.000
+ Name: TRX1_BOVIN oo  Len:  599  Check:   347  Weight:  1.000
+ Name: DLDH_BUCAI oo  Len:  599  Check:  6349  Weight:  1.000
+ Name: DLD1_BACST oo  Len:  599  Check:  2595  Weight:  1.000
+ Name: DLD1_BACSU oo  Len:  599  Check:  6064  Weight:  1.000
+ Name: DLDH_STAAM oo  Len:  599  Check:  4231  Weight:  1.000
+ Name: DLDH_HALVO oo  Len:  599  Check:  3097  Weight:  1.000
+ Name: DLDH_PEA oo  Len:  599  Check:  5821  Weight:  1.000
+ Name: DLD3_PSEPU oo  Len:  599  Check:  6404  Weight:  1.000
+ Name: DLHD_MANSE oo  Len:  599  Check:  3978  Weight:  1.000
+ Name: DLDH_CANFA oo  Len:  599  Check:  3971  Weight:  1.000
+ Name: DLDH_CHLTE oo  Len:  599  Check:  7330  Weight:  1.000
+ Name: DLD2_BACSU oo  Len:  599  Check:  3055  Weight:  1.000
+ Name: DLD3_BACSU oo  Len:  599  Check:  4632  Weight:  1.000
+ Name: DLDH_ALCEU oo  Len:  599  Check:  8945  Weight:  1.000
+ Name: GSHR_ECOLI oo  Len:  599  Check:  9852  Weight:  1.000
+ Name: GSHR_HAEIN oo  Len:  599  Check:  8507  Weight:  1.000
+ Name: GSHC_TOBAC oo  Len:  599  Check:   998  Weight:  1.000
+ Name: GSHC_PEA oo  Len:  599  Check:  7881  Weight:  1.000
+ Name: GSHC_ARATH oo  Len:  599  Check:  7237  Weight:  1.000
+ Name: TRX1_DROME oo  Len:  599  Check:  6814  Weight:  1.000
+ Name: TRX2_DROME oo  Len:  599  Check:  8249  Weight:  1.000
+ Name: TRXB_CAEEL oo  Len:  599  Check:  7085  Weight:  1.000
+ Name: GSHR_CAEEL oo  Len:  599  Check:  6346  Weight:  1.000
+ Name: TRXB_PLAF5 oo  Len:  599  Check:  6258  Weight:  1.000
+ Name: GSHR_YEAST oo  Len:  599  Check:  9410  Weight:  1.000
+ Name: DLDH_ECOLI oo  Len:  599  Check:  2727  Weight:  1.000
+ Name: STHA_MYCTU oo  Len:  599  Check:  2129  Weight:  1.000
+ Name: STHA_AZOVI oo  Len:  599  Check:  2295  Weight:  1.000
+ Name: STHA_VIBCH oo  Len:  599  Check:  9724  Weight:  1.000
+ Name: DLDH_BUCAP oo  Len:  599  Check:  8032  Weight:  1.000
+ Name: DLDH_MYCPN oo  Len:  599  Check:  1720  Weight:  1.000
+ Name: DLDH_MYCGE oo  Len:  599  Check:   485  Weight:  1.000
+ Name: DLD1_PSEPU oo  Len:  599  Check:  4091  Weight:  1.000
+ Name: DLDH_BUCBP oo  Len:  599  Check:  5449  Weight:  1.000
+ Name: DLDH_RHOCA oo  Len:  599  Check:  9901  Weight:  1.000
+ Name: DLDH_TRYBB oo  Len:  599  Check:  5330  Weight:  1.000
+ Name: DLDH_YEAST oo  Len:  599  Check:  6825  Weight:  1.000
+ Name: DLDH_SCHPO oo  Len:  599  Check:  8479  Weight:  1.000
+ Name: DLDH_MYCLE oo  Len:  599  Check:  5303  Weight:  1.000
+ Name: MERA_SHEPU oo  Len:  599  Check:  5635  Weight:  1.000
+ Name: MERA_STRLI oo  Len:  599  Check:  8915  Weight:  1.000
+ Name: MERA_BACCE oo  Len:  599  Check:  8689  Weight:  1.000
+ Name: MERA_STAEP oo  Len:  599  Check:    62  Weight:  1.000
+ Name: MERA_ACICA oo  Len:  599  Check:  1577  Weight:  1.000
+ Name: MERA_THIFE oo  Len:  599  Check:  4532  Weight:  1.000
+ Name: 1fcd_A oo  Len:  599  Check:  1756  Weight:  1.000
+ Name: 1gv4_A oo  Len:  599  Check:  3478  Weight:  1.000
+ Name: 1nhp_ oo  Len:  599  Check:  3114  Weight:  1.000
+ Name: 1d7y_A oo  Len:  599  Check:  8245  Weight:  1.000
+ Name: 2tmd_A oo  Len:  599  Check:  5820  Weight:  1.000
+ Name: 1vdc_ oo  Len:  599  Check:  8368  Weight:  1.000
+
+//
+
+
+
+3grs_           YDYLVIGGGS GGLASAR..R ..AAELG.AR AA..V.VES. .........H 
+1bhy_           YDVVVLGGGP GGYSAAF..A ..AADEG.LK VA..I.VERY .........K 
+TYTR_TRYBB      FDLVVIGAGS GGLEAGW..N ..AATLYKKR VA..V.IDVQ TH.HGPPHYA 
+TYTR_CRIFA      YDLVVIGAGS GGLEAGW..N ..AASLHKKR VA..V.IDLQ KH.HGPPHYA 
+TYTR_LEIDO      YDLVVLGAGS GGLEAGW..N ..AAVTHKKK VA..V.VDVQ AT.HGPPALV 
+GSHR_SCHPO      FDYLVIGGGS GGLASAR..R ..AAKHG.AK VA..L.IEA. ........SG 
+YKGC_ECOLI      YQAVIIGFGK AGKTLAV..T ..LAKAG.WR VA..L.IEQS ........NA 
+DLDH_SYNY3      YDLVIIGAGV GGHGAAL..H ..AVKCG.LK TA..I.IEA. .........K 
+GSHR_PSEAE      FDLFVIGAGS GGVRAAR..F ..AAGFG.AR VA..V.AES. .........R 
+GSHC_SPIOL      FDLFVIGAGS GGVRAAR..F ..SANLG.AK VG..I.CELP FHPISSEVIG 
+GSHR_BRARP      FDLFVIGAGS GGVRAAR..F ..SANNG.AK VG..I.CELP FHPISSEEIG 
+GSHR_ORYSA      YDLFVIGAGS GGVRGSR..T ..SASFG.AK VA..I.CELP FHPISSDWQG 
+TXN2_BOVIN      YDLLVIGGGS GGLACAK..E ..AAQLG.KK VA..V.LDYV EPS.PQGTRW 
+TXN2_RAT        FDLLVIGGGS GGLACAK..E ..AAQLG.RK VA..V.ADYV EPS.PRGTKW 
+TRX1_BOVIN      YDLIIIGGGS GGLAAAK..E ..AAKYD.KK VM..V.LDFV TPT.PLGTRW 
+DLDH_BUCAI      TQVVVIGSGP AGYSAAF..R ..CADLG.LD TV..L.IERY .........D 
+DLD1_BACST      TETLVVGAGP GGYVAAI..R ..AAQLG.QK VT..I.VEK. .........G 
+DLD1_BACSU      TDTLVIGAGP GGYVAAI..R ..AAQLG.QK VT..V.VEK. .........A 
+DLDH_STAAM      TDTIVIGAGP GGYVAAI..R ..AAQLG.QK VT..I.VEK. .........G 
+DLDH_HALVO      TELLVIGAGP GGYVAAI..R ..AAQNG.ID TT..L.VEK. .........D 
+DLDH_PEA        NDVVIIGGGP GGYVAAI..K ..AAQLG.FK TT..C.IEKR .........G 
+DLD3_PSEPU      YDVVIIGGGP GGYNAAI..R ..AGQLG.LT VA..C.VEGR .........S 
+DLHD_MANSE      ADLVVIGAGP GGYVAAI..K ..AAQLG.MK VV..S.VEKE .........P 
+DLDH_CANFA      ADVTVIGSGP GGYVAAI..K ..AAQLG.FK TV..C.VEKN .........E 
+DLDH_CHLTE      FDVAVIGSGP GGYEAAI..H ..AARYG.LK TC..I.VEK. .........A 
+DLD2_BACSU      YDVVILGGGT GGYVAAI..R ..AAQLG.LK TA..V.VEK. .........E 
+DLD3_BACSU      MTLAIIGGGP AGYAAAV..S ..AAQQG.RN VL..L.IDK. .........G 
+DLDH_ALCEU      FDVLVIGAGP GGYIAAI..R ..AGQLG.LN VA..C.CEGN PYD.DPKGEA 
+GSHR_ECOLI      YDYIAIGGGS GGIASIN..R ..AAMYG.QK CA..L.IEA. .........K 
+GSHR_HAEIN      YDYIAIGGGS GGIASLN..R ..AASYG.KK CA..I.IEA. .........K 
+GSHC_TOBAC      FDLFTIGAGS GGVRASR..F ..ASNFG.AS VA..V.CELP FSTISSDSTG 
+GSHC_PEA        FDLFTIGAGS GGVRASR..F ..ASNFG.AS SA..V.CELP FSTISSDTTG 
+GSHC_ARATH      FDLFTIGAGS GGVRASR..F ..ATSFG.AS AA..V.CELP FSTISSDTAG 
+TRX1_DROME      YDLIVIGGGS AGLACAK..E ..AVLNG.AR VA..C.LDFV KPTPTLGTKW 
+TRX2_DROME      YDLVVLGGGS AGLACAK..E ..AAGCG.AR VL..C.FDYV KPT.PVGTKW 
+TRXB_CAEEL      YDLIVIGGGS GGLAAAK..E ..ASRLG.KK VA..C.LDFV KPS.PQGTSW 
+GSHR_CAEEL      FDLIVIGAGS GGLSCSK..R ..AADLG.AN VA..L.IDAV EPT.PHGHSW 
+TRXB_PLAF5      YDYVVIGGGP GGMASAK..E ..AAAHG.AR VL..L.FDYV KPS.SQGTKW 
+GSHR_YEAST      YDYLVIGGGS GGVASAR..R ..AASYG.AK TL..L.VEA. .........K 
+DLDH_ECOLI      TQVVVLGAGP AGYSAAF..R ..CADLG.LE TV..I.VERY .........N 
+STHA_MYCTU      YDIVVIGSGP GGQKAAI..A ..SAKLG.KS VA...IVERG .........R 
+STHA_AZOVI      YDVVVIGTGP AGEGAAM..N ..AVKAG.RK VA...VVDDR .........P 
+STHA_VIBCH      FDVIVIGSGP GGEGAAM..G ..LTKGG.KN VA...IIEKE .........S 
+DLDH_BUCAP      SEVVIIGSGP AGYSAAF..R ..CADLG.LE TV..L.IEHQ .........E 
+DLDH_MYCPN      YDLIIIGAGP AGYVAAE..Y ..AGKHK.LK TL..V.VEK. .........E 
+DLDH_MYCGE      YDLIILGAGP AGYIAAE..Y ..AGKHK.LK TL..V.IEK. .........Q 
+DLD1_PSEPU      TTLLIIGGGP GGYVAAI..R ..AGQLG.IP TV..L.VEG. .........Q 
+DLDH_BUCBP      TQVVIIGSGP SGYSAAF..R ..CSDLG.LN VV..L.IEQY .........Y 
+DLDH_RHOCA      FDVIIIGGGP GGYVCAI..R ..CAQLG.LK TA..C.VEGR .........G 
+DLDH_TRYBB      YDVVVVGGGP GGYVAAI..K ..AAQLG.LK TA..C.VEKR .........G 
+DLDH_YEAST      HDVVIIGGGP AGYVAAI..K ..AAQLG.FN TA..C.VEKR .........G 
+DLDH_SCHPO      YDLCVIGGGP GGYVAAI..R ..GAQLG.LK TI..C.VEKR .........G 
+DLDH_MYCLE      YDVVVLGAGP GGYVAAI..R ..AAQLG.LS TA..V.VEP. .........K 
+MERA_SHEPU      QHVAIIGTGS GAFACAI..K ..AAEGG.AK VT..L.IEG. ........AD 
+MERA_STRLI      YDLAIIGSGA GAFAAAI..A ..ARNKG.RS VV..M.VER. .........G 
+MERA_BACCE      YDYIIIGSGG AAFSSAI..E ..AVALN.AK VA..M.IER. .........G 
+MERA_STAEP      YDLLIIGSGG AAFSAAI..K ..ANENG.AK VA..M.VER. .........G 
+MERA_ACICA      LQVVVIGSGG AAMAAAL..K ..AVEQG.AH VS..L.IER. .........G 
+MERA_THIFE      LHIAVIGSGG AAMACAL..K ..AVERG.AR VT..L.IER. .........S 
+1fcd_A          RKVVVVGGGT GGATAAK..Y IKLADPS.IE VT...LIEPN .......... 
+1gv4_A          VPFLLIGGGT AAFAAARSIR ..ARDPG.AR VL..I.VSE. .........D 
+1nhp_           MKVIVLGSSH GGYEAVE..E ..LLNLH.PD AEIQW.YEK. .........G 
+1d7y_A          APVVVLGAGL ASVSFVA..E ..LRQAG.YQ GLITVVGDE. .........A 
+2tmd_A          DSVLIVGAGP SGSEAAR..V ..LMESG.YT VH...LTDTA .........E 
+1vdc_           TRLCIVGSGP AAHTAAI..Y ..AARAE.LK PL..L.FEG. .........W 
+
+
+3grs_           K.....LGGT CV......NV GCVPKKVMWN TAVH....SE FMH....D.H 
+1bhy_           T.....LGGV CL......NV GCIPSKALLH NAAV....ID EV..R..H.L 
+TYTR_TRYBB      A.....LGGT CV......NV GCVPKKLMVT GAQY....MD HLR....E.S 
+TYTR_CRIFA      A.....LGGT CV......NV GCVPKKLMVT GANY....MD TIR....E.S 
+TYTR_LEIDO      A.....LGGT CV......NV GCVPKKLMVT GAQY....MD LIR....E.S 
+GSHR_SCHPO      R.....LGGT CV......NY GCVPKKIMWN IADL....VA KMK....T.A 
+YKGC_ECOLI      M.....YGGT CI......NI GCIPTKTLVH DAQQ....HT .......... 
+DLDH_SYNY3      D.....MGGT CV......NR GCIPSKALLA ASGR....VR EMS.DQDH.L 
+GSHR_PSEAE      Y.....LGGT CV......NV GCVPKKLLVY GAHF....SE DFE....Q.A 
+GSHC_SPIOL      G.....VGGT CV......IR GCVPKKILVY GASF....GG ELE....D.A 
+GSHR_BRARP      G.....VGGT CV......IR GCVPKKILVY GATY....GG ELE....D.A 
+GSHR_ORYSA      G.....HGGT CV......IR GCVPKKILVY GSSF....RG EFE....D.A 
+TXN2_BOVIN      G.....LGGT CV......NV GCIPKKLMHQ AALL....GG MIR....D.A 
+TXN2_RAT        G.....LGGT CV......NV GCIPKKLMHQ AALL....GG MIR....D.A 
+TRX1_BOVIN      G.....LGGT CV......NV GCIPKKLMHQ AALL....GQ ALR....D.S 
+DLDH_BUCAI      K.....LGGV CL......NV GCIPSKTLLH IAKV....IK EA..K..E.L 
+DLD1_BACST      N.....LGGV CL......NV GCIPSKALIS ASHR....YE QAK....H.S 
+DLD1_BACSU      T.....LGGV CL......NV GCIPSKALIN AGHR....YE NAK....H.S 
+DLDH_STAAM      N.....LGGV CL......NV GCIPSKALLH ASHR....FV EAQ....H.S 
+DLDH_HALVO      A.....YGGT CL......NY GCIPSKALIT GANL....AH EAG....N.A 
+DLDH_PEA        A.....LGGT CL......NV GCIPSKALLH SSHM....YH EAK.H..S.F 
+DLD3_PSEPU      T.....LGGT CL......NV GCMPSKALLH ASEL....YE AAS.G.DE.F 
+DLHD_MANSE      S.....LGGT CL......NV GCIPSKALLH NTHL....YH MAK.H..D.F 
+DLDH_CANFA      T.....LGGT CL......NV GCIPSKALLN NSHY....YH MAHGK..D.F 
+DLDH_CHLTE      V.....LGGV CV......NW GCIPTKALLR SAEV....FD LAK....N.P 
+DLD2_BACSU      K.....LGGT CL......HK GCIPSKALLR SAEV....YR TA..R..E.A 
+DLD3_BACSU      K.....LGGT CL......NE GCIPTKSLLE SANV....LD KI..K..H.A 
+DLDH_ALCEU      R.....LGGT CL......NV GCIPSKALLA SSEE....FE NVQ.H..H.L 
+GSHR_ECOLI      E.....LGGT CV......NV GCVPKKVMWH AAQI....RE AIH....MYG 
+GSHR_HAEIN      H.....LGGT CV......NV GCVPKKVMFY GAHI....AE AIN....NYA 
+GSHC_TOBAC      G.....VGGT CV......LR GCVPKKLLVY ASKY....SH EFE....E.S 
+GSHC_PEA        G.....VGGT CV......IR GCVPKKLLVY ASKF....SH EFE....E.S 
+GSHC_ARATH      G.....VGGT CV......LR GCVPKKLLVY ASKY....SH EFE....D.S 
+TRX1_DROME      G.....VGGT CV......NV GCIPKKLMHQ ASLL....GE AVH....E.A 
+TRX2_DROME      G.....IGGT CV......NV GCIPKKLMHQ ASLL....GE AVH....E.A 
+TRXB_CAEEL      G.....LGGT CV......NV GCIPKKLMHQ ASLL....GH SIH....D.A 
+GSHR_CAEEL      G.....IGGT CA......NV GCIPKKLMHQ AAIV....GK ELK....H.A 
+TRXB_PLAF5      G.....IGGT CV......NV GCVPKKLMHY AGHM....GS IFK.L..D.S 
+GSHR_YEAST      A.....LGGT CV......NV GCVPKKVMWY ASDL....AT RVS....H.A 
+DLDH_ECOLI      T.....LGGV CL......NV GCIPSKALLH VAKV....IE EA..K..A.L 
+STHA_MYCTU      M.....LGGV CV......NT GTIPSKTLRE AVLY....LT GMN....Q.R 
+STHA_AZOVI      Q.....VGGN CT......HL GTIPSKALRH SVRQ....IM QYN....N.N 
+STHA_VIBCH      S.....VGGG CT......HW GTIPSKALRH AVSR....II EFN....S.N 
+DLDH_BUCAP      R.....LGGV CL......NV GCIPSKSLLH IAKI....IK DA..S..E.L 
+DLDH_MYCPN      Y.....FGGV CL......NV GCIPTKTLLK RAKI....VD YL..R..H.A 
+DLDH_MYCGE      Y.....FGGV CL......NV GCIPTKTLLK RAKI....ID YL..V..H.A 
+DLD1_PSEPU      A.....LGGT CL......NI GCIPSKALIH VAEQ....FH QAS.RFTE.P 
+DLDH_BUCBP      S.....LGGV CL......NV GCIPSKYLLH IAKV....IK DV..K..K.L 
+DLDH_RHOCA      A.....LGGT CL......NV GCIPSKALLH ATHE....LH EVH.E..N.F 
+DLDH_TRYBB      A.....LGGT CL......NV GCIPSKALLH ATHM....YH DAH.A..N.F 
+DLDH_YEAST      K.....LGGT CL......NV GCIPSKALLN NSHL....FH QMH.T..E.A 
+DLDH_SCHPO      T.....LGGT CL......NV GCIPSKALLN NSHI....YH TVK.H..D.T 
+DLDH_MYCLE      Y.....WGGI CL......NV GCIPSKVLLH NAEL....AH IFT.K..E.A 
+MERA_SHEPU      V.....IGGC CV......NV GCVPSKILIR AAQL....AQ QQR....N.N 
+MERA_STRLI      T.....TGGT CV......NV GCVPSKALLA AAEA....RH GAQ....A.A 
+MERA_BACCE      T.....VGGT CV......NV GCVPSKTLLR AGEI....NH LAK....N.N 
+MERA_STAEP      T.....VGGT CV......NI GCVPSKTMLR AGEI....NG LAQ....N.N 
+MERA_ACICA      T.....IGGT CV......NV GCVPSKIMIR AAHI....AH LRR....E.S 
+MERA_THIFE      T.....IGGT CV......NI GCVPSKIMIR AAHI....AH LRR....E.S 
+1fcd_A          T.....DYYT CY........ ...LSNEVIG GDRK....LE S......... 
+1gv4_A          PE....LPYM RP........ ..PLSKELWF SDDPNVTKTL QFR....... 
+1nhp_           .........D FI......SF LS..AGMQLY L......... .......... 
+1d7y_A          E........R PY......DR PPLSKDFMAH G......... .......... 
+2tmd_A          K.....IGGH LN......QV AALPGLGEWS YHRD....YR E......... 
+1vdc_           MANDIAPGGQ LTTTTDVENF PGFPEGIL.. GVEL....TD KFR.K..Q.S 
+
+
+3grs_           .AD.YGFP.. SC......EG KFNWRVIKEK RDAYVSRLN. A.IYQNNLT. 
+1bhy_           .AA.NGIK.. YP......EP ELDIDMLRAY KDGVVSRLT. G.GLAGMAK. 
+TYTR_TRYBB      .AG.FGWE.. FD....GSSV KANWKKLIAA KNEAVLDIN. K.SYEGMFN. 
+TYTR_CRIFA      .AG.FGWE.. LD....RESV RPNWKALIAA KNKAVSGIN. D.SYEGMFA. 
+TYTR_LEIDO      .GG.FGWE.. MD....RESL CPNWKTLIAA KNKVVNSIN. E.SYKSMFA. 
+GSHR_SCHPO      .KQ.NGFP.. NS.....QLG SFDWGMIKRK RDAYIGRLN. G.IYERNVN. 
+YKGC_ECOLI      .......... .......... ..DFVRAIQR KNEVVNFLRN K.NFHNLAD. 
+DLDH_SYNY3      .QQ.LGIQ.. IN......GV TFTREAIAAH ANDLVSKIQ. S.DLTNSLT. 
+GSHR_PSEAE      .RA.YGWS.. A......GEA QFDWATLIGN KNREIQRLN. G.IYRNLLV. 
+GSHC_SPIOL      .KN.YGWE.. LN.....EKI DFNWKKLLQK KTDEIIRLN. N.IYKRLLS. 
+GSHR_BRARP      .RN.YGWE.. IN.....GNV DFNWKKLLQK KTDEILRLN. N.IYKRLLA. 
+GSHR_ORYSA      .KN.FGWE.. IN.....GDI NFNWKRLLEN KTQEIVRLN. G.VYQRILG. 
+TXN2_BOVIN      .PH.YGWG.. VA.....Q.A PHSWATLADA VQNHVKSLN. W.GHRIQLQ. 
+TXN2_RAT        .QH.YGWE.. VA.....QPV QHNWKAMAEA VQNHVKSLN. W.GHRVQLQ. 
+TRX1_BOVIN      .RN.YGWN.. VE....E.TV KHDWERMTEA VQNHIGSLN. W.GYRVALR. 
+DLDH_BUCAI      .HK.TGVS.. FN......KP DIDIKKIKNW KQHIVNKLT. D.GLSSMRK. 
+DLD1_BACST      .EE.MGIK.. A......ENV TIDFAKVQEW KASVVKKLT. G.GVEGLLK. 
+DLD1_BACSU      .DD.MGIT.. A......ENV TVDFTKVQEW KASVVNKLT. G.GVAGLLK. 
+DLDH_STAAM      .EN.LGVI.. A......ESV SLNFQKVQEF KSSVVNKLT. G.GVEGLLK. 
+DLDH_HALVO      .EE.MGIH.. A......D.P VVDMSQLRDW KSGVVDQLT. G.GVEKLCK. 
+DLDH_PEA        .AN.HGVK.. V......SNV EIDLAAMMGQ KDKAVSNLT. R.GIEGLFK. 
+DLD3_PSEPU      .AH.LGIE.. V.......KP TLNLAQMMKQ KDESVTGLT. K.GIEYLFR. 
+DLHD_MANSE      .KH.RGIE.. T......GEV KFNFKAMMDY KVNAVKALT. G.GIAMLFQ. 
+DLDH_CANFA      .AS.RGIE.. M......SEV RLNLEKMMEQ KSTAVKALT. G.GIAHLFK. 
+DLDH_CHLTE      .ET.FGVN.. VG......NV SFDLAQAVKR SRNVALKSS. K.GVAYLLK. 
+DLD2_BACSU      .DQ.FGVE.. TA......GV SLNFEKVQQR KQAVVDKLA. A.GVNHLMK. 
+DLD3_BACSU      .DS.FGIE.. LP....AGAI SVDWSKMQSR KQQVVSQLV. Q.GVQYLMK. 
+DLDH_ALCEU      .GD.HGIT.. V......GDV KVDVAKMLKR KDDIVGKMT. K.GIEFLFR. 
+GSHR_ECOLI      .PD.YGFD.. TT......IN KFNWETLIAS RTAYIDRIH. T.SYENVLG. 
+GSHR_HAEIN      .PD.YGFD.. VE......VK KFDFSKLIES RQAYISRIH. T.SYNNVLA. 
+GSHC_TOBAC      .CG.FGWN.. YD.....VEP RFDWSTLIAN KNAELQRLT. G.IYKNILK. 
+GSHC_PEA        .NG.FGWR.. YD.....SEP KHDWSSLIAN KNAELQRLT. G.IYKNTLK. 
+GSHC_ARATH      .HG.FGWK.. YE.....TEP SHDWTTLIAN KNAELQRLT. G.IYKNILS. 
+TRX1_DROME      .AA.YGWN.. VD.....EKI KPDWHKLVQS VQNHIKSVN. W.VTRVDLR. 
+TRX2_DROME      .VA.YGWN.. VD....DTNI RPDWRKLVRS VQNHIKSVN. W.VTRVDLR. 
+TRXB_CAEEL      .KK.YGWK.. LP....EGKV EHQWNHLRDS VQDHIASLN. W.GYRVQLR. 
+GSHR_CAEEL      .DK.YGWN.G ID....QEKI KHDWNVLSKN VNDRVKANN. W.IYRVQLN. 
+TRXB_PLAF5      .KA.YGWK.. FD......NL KHDWKKLVTT VQSHIRSLN. F.SYMTGLR. 
+GSHR_YEAST      .NE.YGLY.. QNLPLDKEHL TFNWPEFKQK RDAYVHRLN. G.IYQKNLE. 
+DLDH_ECOLI      .AE.HGIV.. FG......EP KTDIDKIRTW KEKVINQLT. G.GLAGMAK. 
+STHA_MYCTU      .EL.YGAS.. YR.....VKD RITPADLLAR TQHVIGKEV. D.VVRNQLM. 
+STHA_AZOVI      .PL.FRQI.. .G.....EPR WFSFADVLKS AEQVIAKQV. S.SRTGYYA. 
+STHA_VIBCH      .PL.FCKN.. .N.....SSI HATFSTILSH AKSVIDKQT. R.LRQGFYD. 
+DLDH_BUCAP      .SE.SGVF.. FN......KP IIDIKKINNW KEKIIKKLT. T.GLSNMGE. 
+DLDH_MYCPN      .QD.YGIS.. IN.....GQV ALNWNQLLEQ KGKVVSKLV. G.GVKAIIA. 
+DLDH_MYCGE      .KD.YGIT.. IN.....GQA KLDWKQLLKQ KQEVVDKLV. A.GVKTIIK. 
+DLD1_PSEPU      .SP.LGIS.. V......ASP RLDIGQSVAW KDGIVDRLT. T.GVAALLK. 
+DLDH_BUCBP      .SR.IGIS.. FE......KL DINLKEIQCN QKKIIESFS. S.GISNLAR. 
+DLDH_RHOCA      .EK.MGLM.. G......AKV KVDWAKID.. ......GNT. K.GIEFLFK. 
+DLDH_TRYBB      .ER.YGLM.. GG.....AGV TMDVAKMQQQ KEKSVNGLT. S.GVEYLLK. 
+DLDH_YEAST      .QK.RGID.. VN.....GDI KINVANFQKA KDDAVKQLT. G.GIELLFK. 
+DLDH_SCHPO      .KR.RGID.. VS......GV SVNLSQMMKA KDDSVKSLT. S.GIEYLFK. 
+DLDH_MYCLE      .KT.FGIS.. G.......DA SFDYGIAYDR SRKVSEGRV. A.GVHFLMK. 
+MERA_SHEPU      .PF.TGLE.. NH......AP QLSRALLTQQ QTARVEELR. AAKYQNILET 
+MERA_STRLI      SRF.PGIQ.. AT......EP ALDFPALISG KDTLVGQLR. AEKYTDLAA. 
+MERA_BACCE      .PF.VGLH.. TS......AS NVDLAPLVKQ KNDLVTEMR. NEKYVNLID. 
+MERA_STAEP      .PF.TGLQ.. TS......TG AADLAQLTEQ KDGLVSQMR. QEKYIDLIE. 
+MERA_ACICA      .PFDGGIA.. AT......VP AIDRSKLLAQ QQARVEELR. HAKYEGILDG 
+MERA_THIFE      .PFDGGIQ.. AV......AP TIQRTALLVQ QQARVDELR. HAKYEGILDG 
+1fcd_A          .......... .......... .......... .......IK. H.GYD.GLR. 
+1gv4_A          .....QWNGK ER......SI YFQPPSFYVS AQDLPN.... .......IE. 
+1nhp_           .......E.. GK......VK DV........ .....NSVR. Y.MTGEKME. 
+1d7y_A          .......D.. AE......KI RL........ .......... .....DCKR. 
+2tmd_A          .......... .......... .......... .......... T.QITKLLK. 
+1vdc_           .ER.FGTT.. .......... .......... .......... .......... 
+
+
+3grs_           K.SH.IEIIR GH.AA.FTSD P.......KP TIEV.....S .......... 
+1bhy_           S.RK.VDVIQ GD.GQ.FLDP H.......HL EVSL...T.A .GDAYEQAAP 
+TYTR_TRYBB      DTEG.LDFFL GW.GS.LESK N.......VV VVRE...T.A .DPK...... 
+TYTR_CRIFA      DTEG.LTFHQ GF.GA.LQDN H.......TV LVRE...S.A .DPN...... 
+TYTR_LEIDO      DTEG.LSFHM GF.GA.LQDA H.......TV VVRK...S.E .DPH...... 
+GSHR_SCHPO      K.DG.VAYIS GH.AS.FVSP T.......EV AVDM...N.D .GS....... 
+YKGC_ECOLI      M.PN.IDVID GQ.AE.FINN H.......SL RVHR...P.E .G........ 
+DLDH_SYNY3      R.LK.VDTIR GW.GK.VSGP Q.......EV TVIG.....D .N........ 
+GSHR_PSEAE      N.SG.VTLLE GH.AR.LLDA H.......SV EVD....... .......... 
+GSHC_SPIOL      N.AG.VKLYE GE.GK.IVGP N.......EV QVTQ...L.D .G........ 
+GSHR_BRARP      N.AA.VKLYE GE.GR.IVGP N.......EV EVRQ...I.D .G........ 
+GSHR_ORYSA      N.SG.VTMIE GA.GS.LVDA H.......TV EVTK...P.D .G........ 
+TXN2_BOVIN      D.RK.VKYFN VK.AS.FVDT H.......TV CGVS...K.G .G........ 
+TXN2_RAT        D.RK.VKYFN IK.AS.FVNE H.......TV HGVD...K.A .G........ 
+TRX1_BOVIN      E.KK.VTYEN AY.GE.FVGP H.......RI KATN...N.K .G........ 
+DLDH_BUCAI      K.RK.IRIFQ GH.AI.FETD K.......SL CVTN...T.E .......... 
+DLD1_BACST      G.NK.VEIVK GE.AY.FVDA N.......TV RVVN...G.. .DS....... 
+DLD1_BACSU      G.NK.VDVVK GE.AY.FVDS N.......SV RVMD...E.. .NS....... 
+DLDH_STAAM      G.NK.VNIVK GE.AY.FVDN N.......SL RVMD...E.. .KS....... 
+DLDH_HALVO      A.NG.VNLVE GT.AR.FKDE N.......AV RIAH...GGE GQG....... 
+DLDH_PEA        K.NK.VTYVK GY.GK.FVSP S.......EI SVDT...I.E .GE....... 
+DLD3_PSEPU      K.NK.VDWIK GW.GR.LDGV G.......KV VVKA...E.D .GS....... 
+DLHD_MANSE      K.NK.VKLVR GA.GT.IVAP N.......KV EVKG...E.K .G........ 
+DLDH_CANFA      Q.NK.VVHVN GY.GK.ITGK N.......QV TAKK...A.D .GS....... 
+DLDH_CHLTE      K.AA.VEVLA GE.AV.LTGG A.......GV MVTM...P.D .G........ 
+DLD2_BACSU      K.GK.IDVYT GY.GR.ILGP SIFSPLPGTI SVER...G.N .GEE...... 
+DLD3_BACSU      K.NQ.IQVVK GT.AS.FLSE R.......KL LIEG...E.N .G........ 
+DLDH_ALCEU      K.NK.VTLLK GY.GK.FVGK S.......AE GFQV.....D .VA....... 
+GSHR_ECOLI      K.NN.VDVIK GF.AR.FVDA K.......TL EVN....... .......... 
+GSHR_HAEIN      K.NN.IDVIN GF.GK.FVDA H.......TI EVTL...A.D .GT....... 
+GSHC_TOBAC      N.AG.VTLIE GR.GK.VVDP H.......TV DVD....... .......... 
+GSHC_PEA        N.AG.VKLIE GR.GK.IVDA H.......TV DVD....... .......... 
+GSHC_ARATH      K.AN.VKLIE GR.GK.VIDP H.......TV DVD....... .......... 
+TRX1_DROME      D.KK.VEYIN GL.GS.FVDS H.......TL LAKL...K.S .G........ 
+TRX2_DROME      D.KK.VEYVN SM.AT.FRDS H.......TI EYVA...M.P .GA....... 
+TRXB_CAEEL      E.KT.VTYIN SY.GE.FTGP F.......EI SATN...K.K .K........ 
+GSHR_CAEEL      Q.KK.INYFN AY.AE.FVDK D.......KI VITG...T.D .KN....... 
+TRXB_PLAF5      S.SK.VKYIN GL.AK.LKDK N.......TV SYYL...KGD .LS....... 
+GSHR_YEAST      K.EK.VDVVF GW.AR.FNKD G.......NV EVQK...R.D .NT....... 
+DLDH_ECOLI      G.RK.VKVVN GL.GK.FTGA N.......TL EVEG...E.N .......... 
+STHA_MYCTU      R.NR.VDLIV GH.GR.FIDP H.......TI LVED....QA RR........ 
+STHA_AZOVI      R.NR.IDTFF GT.AS.FCDE H.......TI EVVH....LN .G........ 
+STHA_VIBCH      R.NQ.CTLIF GA.AH.FIDA H.......TV AVKK....AD .G........ 
+DLDH_BUCAP      K.RK.VRIVQ GK.AL.FNTD H.......SV LVKN...K.K .......... 
+DLDH_MYCPN      S.AK.AETVM GE.AK.VLDP N.......TV EVAG...... .......... 
+DLDH_MYCGE      G.AK.VESIE GE.AT.VIDK N.......KV QVNN...... .......... 
+DLD1_PSEPU      K.HG.VKVVH GW.AK.VLDG K.......QV EVD....... .......... 
+DLDH_BUCBP      K.RN.VRIIF GY.AK.FLDA N.......SI FVQG...E.H .......... 
+DLDH_RHOCA      K.NK.VTYLR GW.GS.IPAP G.......QV KVG....... .......... 
+DLDH_TRYBB      K.NK.VTYYK GE.AG.FVTP N.......TL NVKG...I.D .GK....... 
+DLDH_YEAST      K.NK.VTYYK GN.GS.FEDE T.......KI RVTP...V.D .GLEGTVK.. 
+DLDH_SCHPO      K.NK.VEYAK GT.GS.FIDP Q.......TL SVKG...I.D .GAA...... 
+DLDH_MYCLE      K.NK.ITEIH GY.GR.FTDA N.......TL SVEL...S.E .GVP...... 
+MERA_SHEPU      N.PA.LSLLK GW.AQ.FKNA N.......TL IVRK...N.D .G........ 
+MERA_STRLI      E.YG.WQIVH GT.AT.FADG P.......ML EVAL...N.D .G........ 
+MERA_BACCE      D.YG.FELIK GE.SK.FVNE N.......TV EVNG...... .......... 
+MERA_STAEP      E.YG.FDLIR GE.AS.FIDD K.......TI QVNG...... .......... 
+MERA_ACICA      N.PA.ITVVH GE.AR.FKDE Q.......SL VVRL...N.D .G........ 
+MERA_THIFE      N.PA.ITVLR GE.AR.FKDS R.......SV VVHL...N.D .G........ 
+1fcd_A          A.HG.IQVVH DS.AT.GIDP D.......KK LVKT.....A .G........ 
+1gv4_A          N.GG.VAVLT GK.KVVHLDV R.......GN MVKL.....N .......... 
+1nhp_           S.RG.VNVFS NTEIT.AIQP K.......EH QVTVKDLV.S .G........ 
+1d7y_A          A.PE.VEWLL GVTAQ.SFDP Q.......AH TVAL...S.D .G........ 
+2tmd_A          K.NKESQLAL GQ.KP.MTAD .......... .......... .D........ 
+1vdc_           .......IFT ET.VT.KVDF S.......SK PFKL.....F .T........ 
+
+
+3grs_           ...GKKYTAP HILIATG... .......... .......... .......... 
+1bhy_           TGEKKIVAFK NCIIAAG... .......... .......... .......... 
+TYTR_TRYBB      SAVKERLQAD HILLATG... .......... .......... .......... 
+TYTR_CRIFA      SAVLETLDTE YILLATG... .......... .......... .......... 
+TYTR_LEIDO      SDVLETLDTE YILIATG... .......... .......... .......... 
+GSHR_SCHPO      ..GTQVFSAK YILIAVG... .......... .......... .......... 
+YKGC_ECOLI      ...NLEIHGE KIFINTG... .......... .......... .......... 
+DLDH_SYNY3      ..ETRILKAK EIMLCPG... .......... .......... .......... 
+GSHR_PSEAE      ...GQRFSAK HILVATG... .......... .......... .......... 
+GSHC_SPIOL      ..TKLSYSAK HILIATG... .......... .......... .......... 
+GSHR_BRARP      ..TKISYTAK HILIATG... .......... .......... .......... 
+GSHR_ORYSA      ..SKQRYTAK HILIATG... .......... .......... .......... 
+TXN2_BOVIN      ..EETLLSAE HIVIATG... .......... .......... .......... 
+TXN2_RAT        ..KVTQLSAK HIVIATG... .......... .......... .......... 
+TRX1_BOVIN      ..KEKIYSAE RFLIATG... .......... .......... .......... 
+DLDH_BUCAI      ..DKFTIFFD NAIIATG... .......... .......... .......... 
+DLD1_BACST      ...AQTYTFK NAIIATG... .......... .......... .......... 
+DLD1_BACSU      ...AQTYTFK NAIIATG... .......... .......... .......... 
+DLDH_STAAM      ...AQTYNFK NAIIATG... .......... .......... .......... 
+DLDH_HALVO      ...SETIEFE HCIIATG... .......... .......... .......... 
+DLDH_PEA        ...NTVVKGK HIIIATG... .......... .......... .......... 
+DLD3_PSEPU      ...ETALQAK DIVIATG... .......... .......... .......... 
+DLHD_MANSE      ...VETVNTK NILIATG... .......... .......... .......... 
+DLDH_CANFA      ...TQVIDTK NILIATG... .......... .......... .......... 
+DLDH_CHLTE      ..SVRMLGAK NIIVATG... .......... .......... .......... 
+DLD2_BACSU      ...NDMLIPK QVIIATG... .......... .......... .......... 
+DLD3_BACSU      ...KEIREAD QVLIASG... .......... .......... .......... 
+DLDH_ALCEU      ...GEVVTAK QVIIATG... .......... .......... .......... 
+GSHR_ECOLI      ...GETITAD HILIATG... .......... .......... .......... 
+GSHR_HAEIN      ...KEQVTAD HILIATG... .......... .......... .......... 
+GSHC_TOBAC      ...GKLYSAK NILISVG... .......... .......... .......... 
+GSHC_PEA        ...GKLYSAK HILVSVG... .......... .......... .......... 
+GSHC_ARATH      ...GKIYTTR NILIAVG... .......... .......... .......... 
+TRX1_DROME      ...ERTITAQ TFVIAVG... .......... .......... .......... 
+TRX2_DROME      ..EHRQVTSE YVVVAVG... .......... .......... .......... 
+TRXB_CAEEL      ..KVEKLTAD RFLISTG... .......... .......... .......... 
+GSHR_CAEEL      .KTKNFLSAP NVVISTG... .......... .......... .......... 
+TRXB_PLAF5      ..KEETVTGK YILIATG... .......... .......... .......... 
+GSHR_YEAST      ...TEVYSAN HILVATG... .......... .......... .......... 
+DLDH_ECOLI      ..GKTVINFD NAIIAAG... .......... .......... .......... 
+STHA_MYCTU      ..EKTTVTGD YIIIATG... .......... .......... .......... 
+STHA_AZOVI      ..MVETLVAK QFVIATG... .......... .......... .......... 
+STHA_VIBCH      ..SIDTYSAD KFVIATG... .......... .......... .......... 
+DLDH_BUCAP      ..NDFTIFFK HAIIATG... .......... .......... .......... 
+DLDH_MYCPN      ....KTYTTK SIVVATG... .......... .......... .......... 
+DLDH_MYCGE      ....TTYTTN NIIVATG... .......... .......... .......... 
+DLD1_PSEPU      ...GQRIQCE HLLLATG... .......... .......... .......... 
+DLDH_BUCBP      ..DSYVVSFN KIVIATG... .......... .......... .......... 
+DLDH_RHOCA      ...DEVHTAK NIVIATG... .......... .......... .......... 
+DLDH_TRYBB      ...DEAIEAK NTIIATG... .......... .......... .......... 
+DLDH_YEAST      ..EDHILDVK NIIVATG... .......... .......... .......... 
+DLDH_SCHPO      ...DQTIKAK NFIIATG... .......... .......... .......... 
+DLDH_MYCLE      .ETPLKVTFN NVIIATG... .......... .......... .......... 
+MERA_SHEPU      ..TEQAVHAD KILIATG... .......... .......... .......... 
+MERA_STRLI      ..GTATVEAA HYLIATG... .......... .......... .......... 
+MERA_BACCE      ....NQITAK RFLIATG... .......... .......... .......... 
+MERA_STAEP      ....QNITSK SFLIATG... .......... .......... .......... 
+MERA_ACICA      ..GERVVAFD RCLVATG... .......... .......... .......... 
+MERA_THIFE      ..GERVVMFD RCLVATG... .......... .......... .......... 
+1fcd_A          ...GAEFGYD RCVVAPGIEL IYDKIEGYSE EAAAKLPHAW KAGEQTAILR 
+1gv4_A          ..DGSQITFE KCLIATG... .......... .......... .......... 
+1nhp_           ..EERVENYD KLIISPG... .......... .......... .......... 
+1d7y_A          ....RTLPYG TLVLATG... .......... .......... .......... 
+2tmd_A          ...VLQYGAD KVIIATG... .......... .......... .......... 
+1vdc_           ..DSKAILAD AVILAIG... .......... .......... .......... 
+
+
+3grs_           .......... .......GMP STPHESQI.. ......PGA. ..S.L....G 
+1bhy_           .......... .......SRV TKL....... ...PFIPED. ..P.R....I 
+TYTR_TRYBB      .......... .......SWP QMP...AI.. ......PGV. ..E.H....C 
+TYTR_CRIFA      .......... .......SWP QHL...GI.. ......EGD. ..D.L....C 
+TYTR_LEIDO      .......... .......SWP TRL...GV.. ......PGD. ..E.F....C 
+GSHR_SCHPO      .......... .......GHP IWPS..HI.. ......PGA. ..E.Y....G 
+YKGC_ECOLI      .......... .......AQT VVP...PI.. ......PGIT TTP.G....V 
+DLDH_SYNY3      .......... .......SVP FVP....... ...PGIEID. H.K.T....V 
+GSHR_PSEAE      .......... .......GWP QVP...DI.. ......PGK. ..E.H....A 
+GSHC_SPIOL      .......... .......SRA QRP...NI.. ......PGQ. ..E.L....A 
+GSHR_BRARP      .......... .......SRA QKP...NI.. ......PGH. ..E.L....A 
+GSHR_ORYSA      .......... .......SRA QRV...NI.. ......PGK. ..E.L....A 
+TXN2_BOVIN      .......... .......GRP RYPT..HI.. ......EGA. .LE.Y....G 
+TXN2_RAT        .......... .......GRP KYPT..QV.. ......KGA. .LE.H....G 
+TRX1_BOVIN      .......... .......ERP RYL...GI.. ......PGD. .KE.Y....C 
+DLDH_BUCAI      .......... .......SKP IKI....... ...PSIPHD. .DI.R....I 
+DLD1_BACST      .......... .......SRP IEL....... ...PNFKFS. ..N.R....I 
+DLD1_BACSU      .......... .......SRP IEL....... ...PNFKYS. ..E.R....V 
+DLDH_STAAM      .......... .......SRP IEI....... ...PNFKFG. ..K.R....V 
+DLDH_HALVO      .......... .......SRV IQI....... ...PGFDFG. .DE.P....V 
+DLDH_PEA        .......... .......SDV KSL....... ...PGVTID. .EK.K....I 
+DLD3_PSEPU      .......... .......SEP TPL....... ...PGVTID. .NQ.R....I 
+DLHD_MANSE      .......... .......SEV TPF....... ...PGVTFD. .EK.Q....I 
+DLDH_CANFA      .......... .......SEV TPF....... ...PGITID. .ED.T....I 
+DLDH_CHLTE      .......... .......STP RVI....... ...PGLEPD. .GK.K....I 
+DLD2_BACSU      .......... .......SRP RML....... ...PGLEVD. .GK.S....V 
+DLD3_BACSU      .......... .......SEP IEL....... ...PFAPFD. .GE.W....I 
+DLDH_ALCEU      .......... .......SKA RHL....... ...PGIKVD. .ND.L....V 
+GSHR_ECOLI      .......... .......GRP SHP...DI.. ......PGV. ..E.Y....G 
+GSHR_HAEIN      .......... .......GRP YRP...NI.. ......KGQ. ..E.Y....G 
+GSHC_TOBAC      .......... .......GRP FIP...DI.. ......PGS. ..E.Y....A 
+GSHC_PEA        .......... .......GRP FIP...DI.. ......PGK. ..E.Y....A 
+GSHC_ARATH      .......... .......GRP FIP...DI.. ......PGK. ..E.F....A 
+TRX1_DROME      .......... .......GRP RYP...DI.. ......PGA. .VE.Y....G 
+TRX2_DROME      .......... .......GRP RYP...DI.. ......PGA. .VE.L....G 
+TRXB_CAEEL      .......... .......LRP KYP...EI.. ......PGV. .KE.Y....T 
+GSHR_CAEEL      .......... .......LRP KYP...NI.. ......PGA. ..E.L....G 
+TRXB_PLAF5      .......... .......CRP HIPD..DV.. ......EGA. .KE.L....S 
+GSHR_YEAST      .......... .......GKA IFPE..NI.. ......PGF. ..E.L....G 
+DLDH_ECOLI      .......... .......SRP IQL....... ...PFIPHE. .DP.R....I 
+STHA_MYCTU      .......... .......TRP ARP....... ...SGVEFD. .EE.....RV 
+STHA_AZOVI      .......... .......SRP YRP....... ...ADVDFT. .HP.....RI 
+STHA_VIBCH      .......... .......SRP YHP....... ...KDVDFG. .HP.....RI 
+DLDH_BUCAP      .......... .......SKP IKI....... ...PSLPNE. .DN.R....I 
+DLDH_MYCPN      .......... .......SRP RYL...TL.. ...PGFAEAR QNG.F....V 
+DLDH_MYCGE      .......... .......SRP RYL...TL.. ...PGFEKAQ QAG.F....I 
+DLD1_PSEPU      .......... .......SSS VEL....... ...PMLPLG. ..G.P....V 
+DLDH_BUCBP      .......... .......SLS KKL....... ...SYIPYD. .DI.R....I 
+DLDH_RHOCA      .......... .......SES SGL....... ...PGIEID. .EQ.T....V 
+DLDH_TRYBB      .......... .......SEP TAL....... ...PFLPFD. .EK.V....V 
+DLDH_YEAST      .......... .......SEV TPF....... ...PGIEID. .EE.K....I 
+DLDH_SCHPO      .......... .......SEV KPF....... ...PGVTID. .EK.K....I 
+DLDH_MYCLE      .......... .......SKT RLV....... ...PGTLLS. ..T.N....V 
+MERA_SHEPU      .......... .......STP TIP...PI.. ......DGL. .TETP....Y 
+MERA_STRLI      .......... .......SAP TAP...HI.. ......DGL. .DQVD....Y 
+MERA_BACCE      .......... .......ASS TAP...NI.. ......PGL. .DEVD....Y 
+MERA_STAEP      .......... .......ASP AVP...EI.. ......PGM. .NEVD....Y 
+MERA_ACICA      .......... .......ASP AVP...PI.. ......PGL. .KESP....Y 
+MERA_THIFE      .......... .......ASP AVP...PI.. ......PGL. .KDTP....Y 
+1fcd_A          KQLEDMADGG TVVIAPPAAP FRC...P... ......PGP. ....YER... 
+1gv4_A          .......... .......GTP RSL....... ...SAIDRA. G.A.E....V 
+1nhp_           .......... .......AVP FEL....... ....DIPGK. .DL.D.NIYL 
+1d7y_A          .......... .......AAP RAL....... ...PTLQGA. .TM.P....V 
+2tmd_A          .......... .......ARW NTD...GTNC LTHDPIPGA. ..D.ASLPDQ 
+1vdc_           .......... .......AVA KRL....... ...SFVGSG. E.V.L..GGF 
+
+
+3grs_           .......I.. ......T.SD .......... GFFQLE..EL P.GRSVIVGA 
+1bhy_           .......I.. ......D.SS .......... GALALK..EV P.GKLLIIGG 
+TYTR_TRYBB      .......I.. ......S.SN .......... EAFYLP..EP P.RRVLTVGG 
+TYTR_CRIFA      .......I.. ......T.SN .......... EAFYLD..EA P.KRALCVGG 
+TYTR_LEIDO      .......I.. ......T.SN .......... EAFYLE..DA P.KRMLCVGG 
+GSHR_SCHPO      .......I.. ......D.SD .......... GFFELE..SQ P.KRVAIVGA 
+YKGC_ECOLI      .......Y.. ......D.ST .......... GLLNLK..EL P.GHLGILGG 
+DLDH_SYNY3      .......F.. ......T.SD .......... EAVKLE..TL P.QWIAIIGS 
+GSHR_PSEAE      .......I.. ......T.SN .......... EAFFLE..RL P.RRVLVVGG 
+GSHC_SPIOL      .......I.. ......T.SD .......... EALSLE..EF P.KRVVILGG 
+GSHR_BRARP      .......I.. ......T.SD .......... EALSLE..EF P.KRAIVLGG 
+GSHR_ORYSA      .......I.. ......T.SD .......... EALSLE..EL P.KRAVILGG 
+TXN2_BOVIN      .......I.. ......T.SD .......... DLFWLK..ES P.GKTLVVGA 
+TXN2_RAT        .......I.. ......T.SD .......... DIFWLK..ES P.GKTLVVGA 
+TRX1_BOVIN      .......I.. ......S.SD .......... DLFSLP..YC P.GKTLVVGA 
+DLDH_BUCAI      .......W.. ......D.ST .......... DALSLK..KI P.NNFLIIGS 
+DLD1_BACST      .......L.. ......D.ST .......... GALNLG..EV P.KSLVVIGG 
+DLD1_BACSU      .......L.. ......N.ST .......... GALALK..EI P.KKLVVIGG 
+DLDH_STAAM      .......I.. ......D.ST .......... GALNLQ..EV P.GKLVVVGG 
+DLDH_HALVO      .......W.. ......S.SR .......... DALEAD..TV P.ERLVVVGG 
+DLDH_PEA        .......V.. ......S.ST .......... GALALS..EI P.KKLVVIGA 
+DLD3_PSEPU      .......I.. ......D.ST .......... GALSLP..QV P.KHLVVIGA 
+DLHD_MANSE      .......I.. ......T.ST .......... GALSLE..SV P.KKMLVIGA 
+DLDH_CANFA      .......V.. ......S.ST .......... GALSLK..KV P.EKMVVIGA 
+DLDH_CHLTE      .......I.. ......T.SR .......... EALILK..EV P.KSMIVVGG 
+DLD2_BACSU      .......L.. ......T.SD .......... EALQME..EL P.QSIIIVGG 
+DLD3_BACSU      .......L.. ......D.SK .......... DALSLS..EI P.SSLVIVGG 
+DLDH_ALCEU      .......S.. ......D.NE .......... GALKFP..AV P.KKLGVIGA 
+GSHR_ECOLI      .......I.. ......D.SD .......... GFFALP..AL P.ERVAVVGA 
+GSHR_HAEIN      .......I.. ......D.SD .......... GFFALT..EL P.KRAAVIGA 
+GSHC_TOBAC      .......I.. ......D.SD .......... AALDLP..TK P.NKIAIVGG 
+GSHC_PEA        .......I.. ......D.SD .......... AALDLP..SK P.QKIAIVGG 
+GSHC_ARATH      .......I.. ......D.SD .......... AALDLP..SK P.KKIAIVGG 
+TRX1_DROME      .......I.. ......T.SD .......... DLFSLD..RE P.GKTLVVGA 
+TRX2_DROME      .......I.. ......T.SD .......... DIFSYE..RE P.GRTLVVGA 
+TRXB_CAEEL      .......I.. ......T.SD .......... DLFQLP..YS P.GKTLCVGA 
+GSHR_CAEEL      .......I.. ......T.SD .......... DLFTLA..SV P.GKTLIVGG 
+TRXB_PLAF5      .......I.. ......T.SD .......... DIFSLK..KD P.GKTLVVGA 
+GSHR_YEAST      .......T.. ......D.SD .......... GFFRLE..EQ P.KKVVVVGA 
+DLDH_ECOLI      .......W.. ......D.ST .......... DALELK..EV P.ERLLVMGG 
+STHA_MYCTU      .......... ......LDSD .......... GILDLK..SL P.SSMVVVGA 
+STHA_AZOVI      .......... ......YDSD .......... TILSLG..HT P.RRLIIYGA 
+STHA_VIBCH      .......... ......YDSD .......... SILNLE..HD P.RHIIIYGA 
+DLDH_BUCAP      .......W.. ......N.ST .......... DALSLK..SI P.NRFLIIGG 
+DLDH_MYCPN      .......I.. ......D.ST .......... QALSLE..GV P.RKLVVVGG 
+DLDH_MYCGE      .......I.. ......D.ST .......... QALALE..GV P.KKFVVVGG 
+DLD1_PSEPU      .......I.. ......S.ST .......... EALAPK..AL P.QHLVVVGG 
+DLDH_BUCBP      .......W.. ......N.SS .......... FAVSIP..SI P.KKLLIIGG 
+DLDH_RHOCA      .......V.. ......T.ST .......... GALSLA..KV P.KSMVVIGA 
+DLDH_TRYBB      .......L.. ......S.ST .......... GALALQ..QV P.KKMVVIGG 
+DLDH_YEAST      .......V.. ......S.ST .......... GALSLK..EI P.KRLTIIGG 
+DLDH_SCHPO      .......V.. ......S.ST .......... GALSLS..EV P.KKMTVLGG 
+DLDH_MYCLE      .......I.. ......T.YE .......... EQILTR..EL P.DSIVIVGA 
+MERA_SHEPU      .......W.. ......T.ST .......... EALFAQ..EL P.QHLVVIGS 
+MERA_STRLI      .......L.. ......T.ST .......... TAMELQ..QL P.EHLLILGG 
+MERA_BACCE      .......L.. ......T.ST .......... SLLELK..KV P.NRLTVIGS 
+MERA_STAEP      .......L.. ......T.ST .......... SALELK..EV P.QRLAVIGS 
+MERA_ACICA      .......W.. ......T.ST .......... EALVSD..TL P.ERLAVIGS 
+MERA_THIFE      .......W.. ......T.ST .......... EGLVSE..SI P.ERLAVIGS 
+1fcd_A          .......... .......ASQ .......... VAYYLKAHKP M.SKVIILDS 
+1gv4_A          .......K.. ......S.RT TLFRKIGDFR ALEKIS..RE V.KSITVIGG 
+1nhp_           MRGRQWAI.. ......K..L .......... KQKTVD..PE V.NNVVVIGS 
+1d7y_A          HT..LRTL.. ......E.DA .......... RRIQAG..LR PQSRLLIVGG 
+2tmd_A          .......... ......LTPE .......... QVMDGK.KKI G.KRVVILNA 
+1vdc_           .......WNR GISACAV.CD .......... GAAPI...FR N.KPLAVIGG 
+
+
+3grs_           G..YIA.VEM AGIL...SA. ..LG..SKTS LMIR...HDK V.L.R.SFDS 
+1bhy_           G..IIG.LEM GTVY...ST. ..LG..SRLD VVEM...MDG L.M.Q.GADR 
+TYTR_TRYBB      G..FIS.VEF AGIF...NAY KPPG..GKVT LCYR...NNL I.L.R.GFDE 
+TYTR_CRIFA      G..YIS.IEF AGIF...NAY KARG..GQVD LAYR...GDM I.L.R.GFDS 
+TYTR_LEIDO      G..YIA.VEF AGIF...NGY KPCG..GYVD LCYR...GDL I.L.R.GFDT 
+GSHR_SCHPO      G..YIA.VEL AGVF...AA. ..LG..TETH MFIR...QSK F.L.R.KFDP 
+YKGC_ECOLI      G..YIG.VEF ASMF...AN. ..FG..SKVT ILEA...ASL F.L.P.REDR 
+DLDH_SYNY3      G..YIG.LEF SDVY...TA. ..LG..CEVT MIEA...LPD L.M.P.GFDP 
+GSHR_PSEAE      G..YIA.VEF ASIF...NG. ..LG..AETT LLYR...RDL F.L.R.GFDR 
+GSHC_SPIOL      G..YIS.VEF ASIW...RG. ..MG..ADVN LCFR...KEL P.L.R.GFDD 
+GSHR_BRARP      G..YIA.VEF ASIW...RG. ..MG..ATVD LFFR...KEL P.L.R.GFDD 
+GSHR_ORYSA      G..YIA.VEF ASIW...KG. ..MG..AHVD LFYR...KEL P.L.R.GFDD 
+TXN2_BOVIN      S..YVA.LEC AGLL...TG. ..LG..LDTT VMIR....SV P.L.R.AFDQ 
+TXN2_RAT        S..YVA.LEC AGFL...TG. ..IG..LDTT VMMR....SV P.L.R.GFDQ 
+TRX1_BOVIN      S..YVA.LEC AGFL...AG. ..IG..LDVT VMVR....SI L.L.R.GFDQ 
+DLDH_BUCAI      G..IIG.LEM ATIY...SA. ..LG..SKVD IIDR...FNH F.L.P.VIDE 
+DLD1_BACST      G..YIG.IEL GTAY...AN. ..FG..TKVT ILEG...AGE I.L.S.GFEK 
+DLD1_BACSU      G..YIG.TEL GTAY...AN. ..FG..TELV ILEG...GDE I.L.P.GFEK 
+DLDH_STAAM      G..YIG.SEL GTAF...AN. ..FG..SEVT ILEG...AKD I.L.G.GFEK 
+DLDH_HALVO      G..YIG.MEL STTF...AK. ..LG..ADVT VVEM...LDD I.L.P.GYES 
+DLDH_PEA        G..YIG.LEM GSVW...GR. ..IG..SEVT VVEF...ASE I.V.P.TMDA 
+DLD3_PSEPU      G..VIG.LEL GSVW...RR. ..LG..SQVT VIEY...LDR I.C.P.GTDT 
+DLHD_MANSE      G..VIG.LEL GSVY...QR. ..LG..ADVT AIEF...LGS IGG.I.GIDM 
+DLDH_CANFA      G..VIG.VEL GSVW...QR. ..LG..ADVT AVEF...LGH VGG.V.GIDM 
+DLDH_CHLTE      G..AIG.VEM AWFY...AK. ..AG..SKVT IVEL...MPR M.L.P.AEEA 
+DLD2_BACSU      G..VIG.IEW ASML...HD. ..FG..VKVT VIEY...ADR I.L.P.TEDL 
+DLD3_BACSU      G..VIG.CEY AGLF...AR. ..LG..SQVT IIET...ADR L.I.P.AEDE 
+DLDH_ALCEU      G..VIG.LEL GSVW...RR. ..LG..SDVT VLEA...LPA F.L.G.AADE 
+GSHR_ECOLI      G..YIA.VEL AGVI...NG. ..LG..AKTH LFVR...KHA P.L.R.SFDP 
+GSHR_HAEIN      G..YIA.VEL SGVL...NS. ..LG..VETH LLVR...RHA P.M.R.NQDP 
+GSHC_TOBAC      G..YIA.LEF AGIF...NG. ..LK..SEVH VFIR...QKK V.L.R.GFDE 
+GSHC_PEA        G..YIA.LEF AGIF...NG. ..LK..SEVH VFIR...QKK V.L.R.GFDE 
+GSHC_ARATH      G..YIA.LEF AGIF...NG. ..LN..CEVH VFIR...QKK V.L.R.GFDE 
+TRX1_DROME      G..YIG.LEC AGFL...KG. ..LG..YEPT VMVR....SI V.L.R.GFDQ 
+TRX2_DROME      G..YVG.LEC ACFL...KG. ..LG..YEPT VMVR....SI V.L.R.GFDR 
+TRXB_CAEEL      S..YVS.LEC AGFL...HG. ..FG..FDVT VMVR....SI L.L.R.GFDQ 
+GSHR_CAEEL      G..YVA.LEC AGFL...SA. ..FN..QNVE VLVR....SI P.L.K.GFDR 
+TRXB_PLAF5      S..YVA.LEC SGFL...NS. ..LG..YDVT VAVR....SI V.L.R.GFDQ 
+GSHR_YEAST      G..YIG.IEL AGVF...HG. ..LG..SETH LVIR...GET V.L.R.KFDE 
+DLDH_ECOLI      G..IIG.LEM GTVY...HA. ..LG..SQID VVEM...FDQ V.I.P.AADK 
+STHA_MYCTU      G..VIG.IEY ASMF...AA. ..LG..TKVT VVEK...RDN M.L.D.FCDP 
+STHA_AZOVI      G..VIG.CEY ASIF...SG. ..LG..VLVD LIDN...RDQ L.L.S.FLDD 
+STHA_VIBCH      G..VIG.CEY ASIF...RG. ..LD..VKTD LINT...RDR L.L.S.FLDN 
+DLDH_BUCAP      G..IIG.LEM ATIY...SA. ..LG..SKVD IVDR...FNA F.L.P.SVDK 
+DLDH_MYCPN      G..VIG.IEF AFLY...AS. ..LG..SEVT ILQG...VDR I.L.E.IFDT 
+DLDH_MYCGE      G..VIG.VEF AFLF...AS. ..LG..SEVT IIQG...VDR I.L.E.VCDS 
+DLD1_PSEPU      G..YIG.LEL GIAY...RK. ..LG..AQVS VVEA...RER I.L.P.TYDS 
+DLDH_BUCBP      G..IIG.LEM ATIY...SA. ..LG..SNVD IIDN...SHD I.L.P.HLDR 
+DLDH_RHOCA      G..VIG.LEL GSVY...AR. ..LG..AEVT VVEY...LDA I.T.P.GMDA 
+DLDH_TRYBB      G..VIG.LEL GSVW...AR. ..LG..SDVT VVEF...APR C.A.P.TLDS 
+DLDH_YEAST      G..IIG.LEM GSVY...SR. ..LG..SKVT VVEF...QPQ I.G.A.SMDG 
+DLDH_SCHPO      G..IIG.LEM GSVW...SR. ..LG..AEVT VVEF...LPA V.G.G.PMDA 
+DLDH_MYCLE      G..AIG.IEF GYVL...KN. ..YG..VDVT IVEF...LPR A.M.P.NEDA 
+MERA_SHEPU      S..VVA.LEI AQAY...RR. ..LG..SEVT ILAR...H.T L.L.Y.REDP 
+MERA_STRLI      G..YVG.LEQ AQLF...AR. ..LG..SRVT LAVR...S.R L.A.S.REEP 
+MERA_BACCE      G..YIG.MEL GQLF...HN. ..LG..SEVT LIQR...SER L.L.K.EYDP 
+MERA_STAEP      G..YIA.AEL GQMF...HN. ..LG..TEVT LMQR...SER L.F.K.TYDP 
+MERA_ACICA      S..VVA.LEL AQAF...AR. ..LG..SQVT ILAR...N.T L.F.F.RDDP 
+MERA_THIFE      S..VVA.LEL AQAF...AR. ..LG..SHVT ILAR...G.T L.F.L.REDP 
+1fcd_A          SQTFSKQSQF SKGWERLYG. ..FG..TENA MIE....... .......... 
+1gv4_A          G..FLG.SEL ACAL...GR. ..KSQASGIE VIQLFPEKGN M.G.K.ILPQ 
+1nhp_           G..YIG.IEA AEAF...AK. ..AG..KKVT VIDI...LDR P.L.GVYLDK 
+1d7y_A          G..VIG.LEL AATA...RT. ..AG..VHVS LVET...QPR L.M.SRAAPA 
+2tmd_A          DTYFMA.PSL AEKL...AT. ..AG..HEVT IVSG...VHL A.NYM.HFTL 
+1vdc_           G..DSA.MEE ANFL...TK. ..YG..SKVY IIHR...RDA F.R.A.SKI. 
+
+
+3grs_           MI....STNC TEEL.ENAG. VEVLKFSQ.V ..KEV...KK TL...S.... 
+1bhy_           DL....VKVW QKQN.EYRF. DNIMVNTK.T ..VAV...EP KE...D.... 
+TYTR_TRYBB      TI....REEV TKQL.TANG. IEIMTNEN.P ..AKV...SL NT...D.... 
+TYTR_CRIFA      EL....RKQL TEQL.RANG. INVRTHEN.P ..AKV...TK NA...D.... 
+TYTR_LEIDO      EV....RKSL TKQL.GANG. IRVRTNLN.P ..TKI...TK NE...D.... 
+GSHR_SCHPO      II....SDGI MDHF.QHIG. INVHTNSLEF ..KKV...EK LP...S.... 
+YKGC_ECOLI      DI....ADNI ATIL.RDQG. VDIILNAH.V ..ERI...SH HE...N.... 
+DLDH_SYNY3      EI....AKIA ERVLIKSRD. IETYTGVF.A ..TKI...KA GS...P...V 
+GSHR_PSEAE      SV....REHL RDEL.GKKG. LDLQFNSD.I ..ARI...DK QA...D.... 
+GSHC_SPIOL      EM....RAAV ARNL.EGRG. VNVHPRTT.L ..TEL...VK TD...G.... 
+GSHR_BRARP      EM....RALV ARNL.EGRG. INLHPQTS.L ..AEL...IK TD...D.... 
+GSHR_ORYSA      EM....RTVV ASNL.EGRG. IRLHPGTN.L ..SEL...SK TA...D.... 
+TXN2_BOVIN      QM....ASLV TEHM.AGHG. TRILRGCA.P ..EKV...EK LP...G.... 
+TXN2_RAT        QM....ASLV TEHM.ESHG. TRFLKGCV.P ..SLI...RK LP...T.... 
+TRX1_BOVIN      DM....ANKI GEHM.QEHG. IKFIRQFV.P ..IKV...EQ IEAGTP.... 
+DLDH_BUCAI      DI....SSIY KKSI.NQQ.. FNLMLNTH.I ..DKV...EV KK...D.... 
+DLD1_BACST      QM....AAII KKRL.KKKG. VEVVTNAL.A ..KGA...EE RE...D.... 
+DLD1_BACSU      QM....SSLV TRRL.KKKGN VEIHTNAM.A ..KGV...EE RP...D.... 
+DLDH_STAAM      QM....TQPV KKGM.KEKG. VEIVTEAM.A ..KSA...EE TD...N.... 
+DLDH_HALVO      DV....ARVV RKRA.EELG. IDMHLGEG.A ..TGW...RE ED...D.... 
+DLDH_PEA        EI....RKQF QRSL.EKQG. MKFKLKTK.V ..VGV...DT SG...D.... 
+DLD3_PSEPU      ET....AKTL QKAL.AKQG. MVFKLGSK.V ..TQA...TA SA...D.... 
+DLHD_MANSE      EV....SKDY .RIL.AKQG. MKFKLETK.V ..LGV...KK EG...S.... 
+DLDH_CANFA      EI....SKNF QRIL.QKQG. FKFKLNTK.V ..TGA...TK KS...D.... 
+DLDH_CHLTE      EV....SEAL KRSF.EKAG. ITVHCGAK.L ..DNV...AV S...ES.... 
+DLD2_BACSU      EI....SKEM ESLL.KKKG. IQFITGAK.V LPDTM...TK TS...D.... 
+DLD3_BACSU      DI....ARLF QEKL.EEDG. VEVHTSSR.L ..GRV...DQ TA...K.... 
+DLDH_ALCEU      GV....AKEA QKQL.TKQG. LKFSLGVN.V ..NEV...TT GK...N.... 
+GSHR_ECOLI      MI....SETL VEVM.NAEG. PQLHTNAI.P ..KAV...VK NT...D.... 
+GSHR_HAEIN      LI....VETL VEVL.AQDG. IQLHTNST.P ..SEI...VK NA...D.... 
+GSHC_TOBAC      EI....RDFV GEQM.SLRG. IEFHTEES.P ..QAI...VK SA...D.... 
+GSHC_PEA        EI....RDFV AENM.ALRG. IEFHTEES.P ..VAI...TK AA...D.... 
+GSHC_ARATH      DV....RDFV GEQM.SLRG. IEFHTEES.P ..EAI...IK AG...D.... 
+TRX1_DROME      QM....AELV AASM.EERG. IPFLRKTV.P ..LSV...EK QD...D.... 
+TRX2_DROME      QM....SELL AAMM.TERG. IPFLGTTI.P ..KAV...ER QA...D.... 
+TRXB_CAEEL      DM....AERI RKHM.IAYG. MKFEAGV..P ..TRI...EQ IDEKTD.... 
+GSHR_CAEEL      DC....VHFV MEHL.KTTG. VKVKEHVE.V ..ERV...EA VG...S.... 
+TRXB_PLAF5      QC....AVKV KLYM.EEQG. VMFKNGIL.P ..KKL...TK MD...D.... 
+GSHR_YEAST      CI....QNTI TDHY.VKEG. INVHKLSK.I ..VKV...EK NV...E.... 
+DLDH_ECOLI      DI....VKVF TKRI.SKK.. FNLMLETK.V ..TAV...EA KE...D.... 
+STHA_MYCTU      EV....VEAL KFHL.RDLA. VTFRFGEE.V ..TAV...DV GS...A.... 
+STHA_AZOVI      EI....SDSL SYHL.RNNN. VLIRHNEE.Y ..ERV...EG LD...N.... 
+STHA_VIBCH      EV....SDAL SYHF.WNSG. VVIRNDET.Y ..DKV...EG TS...D.... 
+DLDH_BUCAP      DI....TDIY IKSI.KKR.. FKLLLNTH.V ..KSV...EK SK...D.... 
+DLDH_MYCPN      EV....SDLV AKLL.QTKN. VKIITNAQ.V ..TRA...NN N......... 
+DLDH_MYCGE      DV....SELI SKTL.KNKG. VQIITNAH.V ..VRA...EN N......... 
+DLD1_PSEPU      EL....TAPV AESL.KKLG. IALHLGHS.V ..EG...... YE...N.... 
+DLDH_BUCBP      DV....IDIF KRSV.NHD.. YNIFFNSN.V ..IKI...VQ EK...N.... 
+DLDH_RHOCA      EV....AKGL QRIL.TRQG. LKFVLGAA.V ..QGV...DK AK...G.... 
+DLDH_TRYBB      DV....TDAL VGAL.KRNG. EDEVPMTG.I ..EGV...NG TN...N.... 
+DLDH_YEAST      EV....AKAT QKFL.KKQG. LDFKLSTK.V ..ISA...KR ND...D.... 
+DLDH_SCHPO      DI....SKAL SRII.SKQG. IKFKTSTK.L ..LSA...KV NG...D.... 
+DLDH_MYCLE      EV....SKEI EKQF.KKMG. IKILTGTK.V ..ESI...SD NG...S.... 
+MERA_SHEPU      LL....GEKL TGCF.EKEG. IRVLNSTQ.A ..TKV...TH .....D.... 
+MERA_STRLI      EI....SAGI ENIF.REEG. ITVHTRTQ.L ..RAV...RR DG...E.... 
+MERA_BACCE      EI....SEAI TKAL.TEQG. INLVTGAT.Y ..ERV...EQ DG...D.... 
+MERA_STAEP      EI....SEAI DESL.TEQG. LNLITGVT.Y ..QKV...EQ NG...K.... 
+MERA_ACICA      AI....GEAV TAAF.RAEG. IKVLEHTQ.A ..SQV...AH .V...D.... 
+MERA_THIFE      AI....GEAI TAAF.RAEG. IEVLEHTQ.A ..SQV...AY .A...D.... 
+1fcd_A          .......... .......... ..WHPGPD.. ..SA....VV KV...DGG.. 
+1gv4_A          YL....SNWT MEKV.KREG. VKVMPNAI.V ..QSV...GV SG...G.... 
+1nhp_           EF....TDVL TEEM.EANN. ITIATGET.V ..ERY..... E...GD.... 
+1d7y_A          TL....ADFV ARYH.AAQG. VDLRFERS.V ..TG...... S...VD.... 
+2tmd_A          EYPNMMRRLH ELHV.EELG. DHFCSRIE.P ..GRMEIYNI WG...DGSKR 
+1vdc_           ........MQ QRAL.SNPK. IDVIWNSS.V ..VEA...YG DG...E...R 
+
+
+3grs_           ...GLEV..S MVTA....V. ...P...GRL PVMTMIPDVD CLLWA.IGRV 
+1bhy_           ...G.V...Y VT.F....EG A..NAP.K.. ....EPQRYD AVLVA.AGRA 
+TYTR_TRYBB      ...G.SK..H VT.F....E. ...S...G.. ....KTLDVD VVMMA.IGRI 
+TYTR_CRIFA      ...G.TR..H VV.F....E. ...S...G.. ....AEADYD VVMLA.IGRV 
+TYTR_LEIDO      ...G.SN..H VH.F....N. ...D...G.. ....TEEDYD QVMLA.IG.V 
+GSHR_SCHPO      ...G.EL..C IH.Q....Q. ...D...G.. ....STFNVD TLLWA.IGRA 
+YKGC_ECOLI      ...Q.V...Q VH.S...... ...E...H.. ....AQLAVD ALLIA.SGRQ 
+DLDH_SYNY3      .....EI..E LT.D....A. ..KTKEVI.. ....DTLEVD ACLVA.TGRI 
+GSHR_PSEAE      ...G.SL..A AT.L....K. ...D...G.. ....RVLEAD CVFYA.TGRR 
+GSHC_SPIOL      ...G.VV... AR.T....D. ...H...G.. ....EEIEAD VVLFA.TGRS 
+GSHR_BRARP      ...G.IK... VI.S....S. ...H...G.. ....EEFVAD VVLFA.TGRI 
+GSHR_ORYSA      ...G.IK... VV.T....D. ...K...G.. ....EEIIAD VVLFA.TGRT 
+TXN2_BOVIN      ...Q.QL..R VT.W....VD L.TSDR.K.. ....DAGTFD TVLWA.IGRV 
+TXN2_RAT        ...N.QL..Q VT.W....ED L.ASGK.E.. ....DVGTFD TVLWA.IGRV 
+TRX1_BOVIN      ...G.RL..R VI.A....KS T.DSDQ.T.. ....IEGEYN TVLLA.IGRD 
+DLDH_BUCAI      ...A.L...I VD.M....IH E..NIP.K.. ....KNILYD AVLVA.IGRT 
+DLD1_BACST      ...G.VT... VT.Y....E. ..ANGE.T.. ....KTIDAD YVLVT.VGRR 
+DLD1_BACSU      ...G.VT... VT.F....E. ..VKGE.E.. ....KTVDAD YVLIT.VGRR 
+DLDH_STAAM      ...G.VK... VT.Y....E. ..AKGE.E.. ....KTIEAD YVLVT.VGRR 
+DLDH_HALVO      ...G.IM... VT.T....ET ..EDGE.E.. ....NEYRAD KVLVA.VGRS 
+DLDH_PEA        ...G.VK... LT.V....EP S.AGGE.Q.. ....TIIEAD VVLVS.AGRT 
+DLD3_PSEPU      ...G.VS... LV.L....EP A.AGGT.A.. ....ESLQAD YVLVA.IGRR 
+DLHD_MANSE      ...T.VKVED VS.I....EG A.KGGN.K.. ....ETMDCD VVLIS.IGRR 
+DLDH_CANFA      ...G.KI..D VS.I....EG A.SGGK.A.. ....EVITCD VLLVC.IGRR 
+DLDH_CHLTE      ...G.VSA.E LV.V....E. ...GSA.P.. ....QTLNAS CLLVA.VGVT 
+DLD2_BACSU      ...D.I...S IQ.A....E. K..DGE.T.. ....VTYSAE KMLVS.IGRQ 
+DLD3_BACSU      ...T.A.... I..W....K. S..GQR.E.. ....FKTKAD YVLVA.IGRK 
+DLDH_ALCEU      ...G.VT... VK.Y....TD ..KDGK.A.. ....QTLEVD RLIVS.VGRV 
+GSHR_ECOLI      ...G.SL..T LE.L....E. ...D...G.. ....RSETVD CLIWA.IGRE 
+GSHR_HAEIN      ...G.SL..T VR.C....D. ...G...Q.. ....SDVTVD CVIWA.AGRV 
+GSHC_TOBAC      ...G.SL..S LK.T....S. ...R...G.. ....TVEGFS HIMFA.TGRR 
+GSHC_PEA        ...G.SL..S LK.T....N. ...K...G.. ....TEEGFS HIMFA.TGRS 
+GSHC_ARATH      ...G.SF..S LK.T....S. ...K...G.. ....TVEGFS HVMFA.TGRK 
+TRX1_DROME      ...G.KL..L VK.Y....KN V.ETGE.E.. ....AEDVYD TVLWA.IGRK 
+TRX2_DROME      ...G.RL..L VR.Y....RN T.TTQM.D.. ....GSDVFD TVLWA.IGRK 
+TRXB_CAEEL      EKAG.KY..R VF.WPKKNEE T.GEMQ.E.. ....VSEEYN TILMA.IGRE 
+GSHR_CAEEL      ...K.K...K VT.F....T. ..GN...G.. ....GVEEYD TVIWA.AGRV 
+TRXB_PLAF5      ...K.I...L VE.F....S. ...D...K.. ....TSELYD TVLYA.IGRK 
+GSHR_YEAST      ...TDKL..K IH.M....N. ...D...SK. ....SIDDVD ELIWT.IGRK 
+DLDH_ECOLI      ...G.I...Y VT.M....EG K..KAP.A.. ....EPQRYD AVLVA.IGRV 
+STHA_MYCTU      ...G.TV... TT.L....A. ...S...G.. ....KQIPAE TVMYS.AGRQ 
+STHA_AZOVI      ...G.VI... LH.L....K. ...S...G.. ....KKIKAD AFLWS.NGRT 
+STHA_VIBCH      ...G.VI... VH.L....K. ...S...G.. ....KKMRAD CLLYA.NGRT 
+DLDH_BUCAP      ...N.DL..I VK.I....AE E..NSD.E.. ....NVCCYD NILVA.IGRS 
+DLDH_MYCPN      ...E.V...F Y.......S. Q..NGQ.E.. ....GSVVGD RILVS.IGRI 
+DLDH_MYCGE      ...Q.L...F Y.......T. V..NGV.E.. ....QSVIGD KILVS.IGRI 
+DLD1_PSEPU      ...G.CL... LA.N....D. ..GKGG.Q.. ....LRLEAD RVLVA.VGRR 
+DLDH_BUCBP      ...G.L...L VH.I....AE N.DNKN.K.. ....RFELYD IILVA.IGRV 
+DLDH_RHOCA      ...K.NT... VR.Y....TL R.KDES.A.. ....HAIEAE VVLVA.TGRK 
+DLDH_TRYBB      ...GSIA... LT.L....EV EQAGGQ.A.. ....ETLHCD ALLVS.VGRR 
+DLDH_YEAST      ...K.NVV.E IV.V....ED T.KTNK.Q.. ....ENLEAE VLLVA.VGRR 
+DLDH_SCHPO      ...S.VE... VE.I....EN M.KNNK.R.. ....ETYQTD VLLVA.IGRV 
+DLDH_MYCLE      ...H.V...L VA.V....S. K..DGQ.F.. ....QELKAD KVLQA.IGFA 
+MERA_SHEPU      ...G.SQF.T LE.T....N. .......A.. ....GDLRCD RLLVS.TGRH 
+MERA_STRLI      ...G.ILA.T LT.G....P. ...D.G.D.. ....QQVRAS HLLIA.TGRR 
+MERA_BACCE      ...I.KKV.H VE.I....N. ...G.K.K.. ....RIIEAE QLLIA.TGRK 
+MERA_STAEP      ...S.TSI.Y IE.V....N. ...G.Q.E.. ....QVIEAD QVLVA.TGRK 
+MERA_ACICA      ...G.E.F.V LT.T....G. .......Y.. ....GEIRAD QLLVA.TGRA 
+MERA_THIFE      ...G.E.F.V LA.T....G. .......H.. ....GELRAD KLLVA.TGRA 
+1fcd_A          .....EM..M VE.T...... ....AF.G.. ....DEFKAD VINLIPPQRA 
+1gv4_A          .....RL..L IK......L. ..KDG..... ....RKVETD HIVTA.VGLE 
+1nhp_           ...G.RVQ.K V..V....T. .....D.K.. ....NAYDAD LVVVA.VGVR 
+1d7y_A          ...G.VV... L..L....D. .....D.G.. ....TRIAAD MVVVG.IGVL 
+2tmd_A          TYRGPGV..S PR.D....A. ...NTS.H.. ....RWIEFD SLVLV.TGRH 
+1vdc_           DVLG.GL..K VK.N....V. ..VTGD.V.. ....SDLKVS GLFFA.IGHE 
+
+
+3grs_           PNTKDLSLNK .LGIQTD.D. KGHIIVD..E FQN.....TN VKGIYAVGDV 
+1bhy_           PNGKLISAEK .AGVAVT.D. RGFIEVD..K QMR.....TN VPHIYAIGDI 
+TYTR_TRYBB      PRTNDLQLGN .VGVKLT.P. KGGVQVD..E FSR.....TN VPNIYAIGDI 
+TYTR_CRIFA      PRSQTLQLDK .AGVEVA.K. NGAIKVD..A YSK.....TN VDNIYAIGDV 
+TYTR_LEIDO      PRSQALQLDK .AGVRTG.K. NGAVQVD..A YSK.....TS VDNIYAIGDV 
+GSHR_SCHPO      PKIQGLRLEK .AGVKTL.P. NGIIIAD..T YQR.....TN VPTVLSLGDV 
+YKGC_ECOLI      PATASLHPEN .AGIAVN.E. RGAIVVD..K RLH.....TT ADNIWAMGDV 
+DLDH_SYNY3      PATKNLGLET .VGVETD.R. RGFIEVN..D QMQVIKDGKP VPHLWAVGDA 
+GSHR_PSEAE      PMLDDLGLEN .TAVKLT.D. KGFIAVD..E HYQ.....TS EPSILALGDV 
+GSHC_SPIOL      PNTKRLNLEA .LGVELD.R. TGAVKVD..E YSR.....TS VPSIWAIGDV 
+GSHR_BRARP      PNTKRLNLEA .VGVELD.Q. AGAVKVD..E YSR.....TN IPSIWAVGDA 
+GSHR_ORYSA      PNSQRLNLEA .AGVEVD.N. IGAIKVD..D YSR.....TS VPNIWAVGDV 
+TXN2_BOVIN      PETASLNLEK .AGVHTN.PV TGKILVD..A QET.....TS VPHIYAIGDV 
+TXN2_RAT        PETRNLNLEK .AGVNTN.PK NQKIIVD..A QEA.....TS VPHIYAIGDV 
+TRX1_BOVIN      ACTRKIGLEN .VGVKIN.EK TGKIPVT..E EEQ.....TN VPYIYAIGDI 
+DLDH_BUCAI      PNIDSLGLDR .IGLKIN.N. FGFIQVN..N QLK.....TN IPHIYAIGDV 
+DLD1_BACST      PNTDELGLEQ .IGIKMT.N. RGLIEVD..Q QCR.....TS VPNIFAIGDI 
+DLD1_BACSU      PNTDELGLEQ .VGIEMT.D. RGIVKTD..K QCR.....TN VPNIYAIGDI 
+DLDH_STAAM      PNTDELGLEE .LGVKFA.D. RGLLEVD..K QSR.....TS ISNIYAIGDI 
+DLDH_HALVO      PVTDTMDIEN .AGLEAD.D. RGFLSVD..D RRR.....TD VEHIYAVGDV 
+DLDH_PEA        PFTSGLNLDK .IGVETD.K. LGRILVN..E RFS.....TN VSGVYAIGDV 
+DLD3_PSEPU      PYTKGLNLES .VGLETD.K. RGML.AQ..R TPP.....TS VPGVWVIGDV 
+DLHD_MANSE      PYTKDLGLDK .VGIALD.D. RGRVPVN..N KFQ.....TT VPGIYAIGDV 
+DLDH_CANFA      PFTQNLGLEE .LGIELD.P. RGRIPVN..T RFQ.....TK IPNIYAIGDV 
+DLDH_CHLTE      GAIDGLGLDA .VGVETE.R. .GFIRTD..G QCR.....TS APGIYAIGDV 
+DLD2_BACSU      ANIEGIGLEN .TDIVT..E. NGMISVN..E SCQ.....TK ESHIYAIGDV 
+DLD3_BACSU      PRLDGLQLEQ .AGVDFS.P. KG.IPVN..G HMQ.....TN VPHIYACGDA 
+DLDH_ALCEU      PNTDNLGLDA .VGLAAD.Q. RGFIEVD..D HCA.....TK VPGLWAIGDV 
+GSHR_ECOLI      PANDNINLEA .AGVKTN.E. KGYIVVD..K YQN.....TN IEGIYAVGDN 
+GSHR_HAEIN      PTTDKIGLEN .AGVETN.E. HGYVKVD..K YQN.....TN VKGIYAVGDI 
+GSHC_TOBAC      PNTKNLGLET .VGVKMT.K. NGAIEVD..E YSR.....TS VPSIWAVGDV 
+GSHC_PEA        PNTKDLGLES .VGVKVA.K. DGSIEVD..E YSQ.....TS VPSIWAIGDA 
+GSHC_ARATH      PNTKNLGLEN .VGVKMA.K. NGAIEVD..E YSQ.....TS VPSIWAVGDV 
+TRX1_DROME      GLVDDLNLPN .AGVTVQ..K D.KIPVD..S QEA.....TN VANIYAVGDI 
+TRX2_DROME      GLIEDLNLDA .AGVKTH..D D.KIVVD..A AEA.....TS VPHIFAVGDI 
+TRXB_CAEEL      AVTDDVGLTT .IGVERA.K. SKKVLGR..R EQS.....TT IPWVYAIGDV 
+GSHR_CAEEL      PNLKSLNLDN .AGVRTD.KR SGKILAD..E FDR.....AS CNGVYAVGDI 
+TRXB_PLAF5      GDIDGLNLES .LNMNVN.KS NNKIIAD..H LSC.....TN IPSIFAVGDV 
+GSHR_YEAST      SHL.GMGSEN .VGIKLN.S. HDQIIAD..E YQN.....TN VPNIYSLGDV 
+DLDH_ECOLI      PNGKNLDAGK .AGVEVD.D. RGFIRVD..K QLR.....TN VPHIFAIGDI 
+STHA_MYCTU      GQTDHLDLHN .AGLEVQ.G. RGRIFVD..D RFQ.....TK VDHIYAVGDV 
+STHA_AZOVI      GNTDKLGLEN .IGLKAN.G. RGQIQVD..E HYR.....TE VSNIYAAGDV 
+STHA_VIBCH      GNTDKLNLES .VGLQAD.S. RGQLVVN..A NYQ.....TQ VEHIYAVGDV 
+DLDH_BUCAP      PNVDFLGLEK .IGLKLN.E. SGFIEIN..Q QLK.....TN ISHIYAIGDV 
+DLDH_MYCPN      PNTECL..DG .LNLQRD.E. RNRIVLN..Q DLQ.....TS IPNIYIVGDA 
+DLDH_MYCGE      ANTECL..DQ .LDLKRD.H. NNKIVLN..E KLQ.....TS TTNIYLIGDV 
+DLD1_PSEPU      PRTKGFNLEC .LDLKMN.G. .AAIAID..E RCQ.....TS MHNVWAIGDV 
+DLDH_BUCBP      PNTDMLDISK .VGLKTD.N. NGFIKVN..E QFC.....TN IPNIYAIGDV 
+DLDH_RHOCA      PFTKGLGLEA .LGVEML.P. RGQVKAD..S HWA.....TN VPGLYAIGDA 
+DLDH_TRYBB      PYTAGLGLEK .NNVSLN.E. RGFVKIG..S HFE.....TN VAGVYAIGDV 
+DLDH_YEAST      PYIAGLGAEK .IGLEVD.K. RGRLVID..D QFN.....SK FPHIKVVGDV 
+DLDH_SCHPO      PYTEGLGLDK .LGISMD.K. SNRVIMD..S EYR.....TN IPHIRVIGDA 
+DLDH_MYCLE      PNVDGYGLDK .VGVALT.A. DKAVDID..D YMQ.....TN VSHIYAIGDV 
+MERA_SHEPU      ANTCQLNLGA .VGVTTN.K. KGEIVVN..E RME.....TN VPGIYAAGDC 
+MERA_STRLI      SVTNGLGLER .VGVKTG.E. RGEVVVD..E YLR.....TD NPRIWAAGDV 
+MERA_BACCE      PIQTSLNLHA .AGVEVG.S. RGEIVID..D YLK.....TT NSRIYSAGDV 
+MERA_STAEP      PNTETLNLES .AGVKTG.K. KGEVLTN..E YLQ.....TS NNRIYAAGDV 
+MERA_ACICA      PNTRSLALEA .AGVAAN.A. QGAIVID..K GMR.....TS TPHIYAAGDC 
+MERA_THIFE      PNTRRLNLEA .AGVAIN.A. QGAIVID..Q GMR.....TN SPNIYAAGDC 
+1fcd_A          GK.....IAQ IAGL.TN.D. AGWCPVDIKT FES.....SI HKGIHVIGDA 
+1gv4_A          PNVELAKT.. .GGLEIDSD. FGGFRVN..A ELQ.....A. RSNIWVAGDA 
+1nhp_           PNTAWL...K .GTLELH.P. NGLIKTD..E YMR.....TS EPDVFAVGDA 
+1d7y_A          ANDALA..RA .AGLACD.D. ..GIFVD..A YGR.....TT CPDVYALGDV 
+2tmd_A          SE........ CTL...W.N. ELKARES..E WAE.....ND IKGIYLIGDA 
+1vdc_           PATKFLD... .GGVELD.S. DGYVVTK.PG TTQ.....TS VPGVFAAGDV 
+
+
+3grs_           CG.KA..... ......L..L .TPVAIAAGR K.LAHRLF.. .EYKE...D
+1bhy_           VG.QP..... ......M..L .AHKAVHEGH V.AAENCA.. .GH.....K
+TYTR_TRYBB      TD.RL..... ......M..L .TPVAINEGA A.LVDTVF.. .GNK.P...
+TYTR_CRIFA      TD.RV..... ......M..L .TPVAINEGA A.FVDTVF.. .ANK.P...
+TYTR_LEIDO      TN.RV..... ......M..L .TPVAINEGA CVLLETVF.. .GGK.P...
+GSHR_SCHPO      CG.KL..... ......E..L .TPVAIAAGR R.LSDRLF.. .GGIK...D
+YKGC_ECOLI      TG.GL..... ......Q..F .TYISLDDYR I.VRDELL.. .GEG.K.R.
+DLDH_SYNY3      TG.KM..... ......M..L .AHAASGQGV V.AVENIC.. .GR.....K
+GSHR_PSEAE      IG.RV..... ......Q..L .TPVALAEGM A.VARRLF.. .KPEEY...
+GSHC_SPIOL      TN.RM..... ......N..L .TPVALMEGT C.FAKTVF.. .GGQ.N...
+GSHR_BRARP      TN.RI..... ......N..L .TPVALMEAT C.FANTVF.. .GGK.P...
+GSHR_ORYSA      TN.RI..... ......N..L .TPVALMEAT C.FSKTVF.. .GGQ.P...
+TXN2_BOVIN      AEGRP..... ......E..L .TPTAIMAGR L.LAQRLS.. .GRT.S...
+TXN2_RAT        AEGRP..... ......E..L .TPTAIKAGK L.LAQRLF.. .GKS.S...
+TRX1_BOVIN      LEGKL..... ......E..L .TPVAIQAGR L.LAQRLY.. .GGS.T...
+DLDH_BUCAI      AG.TP..... ......M..L .AHKGVHEGH I.AAEVIS.. .GK.....N
+DLD1_BACST      VP.GP..... ......A..L .AHKASYEGK V.AAEAIA.. .GH.....P
+DLD1_BACSU      IE.GP..... ......P..L .AHKASYEGK I.AAEAIA.. .GE.....P
+DLDH_STAAM      VP.GL..... ......P..L .AHKASYEAK V.AAEAID.. .GQ.....A
+DLDH_HALVO      VEDTP..... ......M..L .AHVASKEGI V.AAEHVA.. .GE.....P
+DLDH_PEA        IP.GP..... ......M..L .AHKAEEDGV A.CVEYLA.. .GK.....V
+DLD3_PSEPU      TS.GP..... ......M..L .AHKAEDEAV A.CIERIA.. .GK.....P
+DLHD_MANSE      IH.GP..... ......M..L .AHKAEDEGI V.CVEGIK.. .GM.....P
+DLDH_CANFA      VA.GP..... ......M..L .AHKAEDEGI I.CVEGMA.. .GG.....A
+DLDH_CHLTE      RG.GM..... ......L..L .AHKASAEAA I.AVEAIA.. .GKS....P
+DLD2_BACSU      IG.GL..... ......Q..L .AHVASHEGI I.AVEHFA.. .GLN....P
+DLD3_BACSU      IG.GI..... ......Q..L .AHAAFHEGI I.AASHAS.. .GR.....D
+DLDH_ALCEU      VR.GP..... ......M..L .AHKAEDEGV A.VAERIA.. .GQ.....K
+GSHR_ECOLI      TG.AV..... ......E..L .TPVAVAAGR R.LSERLF.. .NNKPD...
+GSHR_HAEIN      IENGI..... ......E..L .TPVAVAAGR R.LSERLF.. .NNKPT...
+GSHC_TOBAC      TD.RI..... ......N..L .TPVALMEGG A.LAKTIF.. .AHE.P...
+GSHC_PEA        TN.RV..... ......N..L .TPVALMEGV A.LAKTLF.. .QNE.P...
+GSHC_ARATH      TD.RI..... ......N..L .TPVALMEGG A.LAKTLF.. .QNE.P...
+TRX1_DROME      IYGKP..... ......E..L .TPVAVLAGR L.LARRLY.. .GGS.T...
+TRX2_DROME      IYGRP..... ......E..L .TPVAILSGR L.LARRLF.. .AGS.T...
+TRXB_CAEEL      LEGTP..... ......E..L .TPVAIQAGR V.LMRRIF.. .DGA.N...
+GSHR_CAEEL      VQDRQ..... ......E..L .TPLAIQSGK L.LADRLF.. .SNS.K...
+TRXB_PLAF5      AENVP..... ......E..L .APVAIKAGE I.LARRLF.. .KDS.D...
+GSHR_YEAST      VG.KV..... ......E..L .TPVAIAAGR K.LSNRLF.. .GPEKF.RN
+DLDH_ECOLI      VG.QP..... ......M..L .AHKGVHEGH V.AAEVIA.. .GK.....K
+STHA_MYCTU      IG.FP..... ......A..L .AATSMEQGR L.AAYHAF.. .GE.P....
+STHA_AZOVI      IG.WP..... ......S..L .ASAAYDQGR S.AAGSIT.. .EN.D....
+STHA_VIBCH      IG.YP..... ......S..L .ASAAYDQGR F.VAQAII.. .HGQA....
+DLDH_BUCAP      TG.FP..... ......M..L .AHKAVQQAH I.AAEVIS.. .GK.....K
+DLDH_MYCPN      NA.QL..... ......M..L .AHFAYQQGR Y.AVNHIL.. .NKK.Q..V
+DLDH_MYCGE      NT.QM..... ......M..L .AHYAYQQGR Y.AVDQIL.. .NQN.Q..V
+DLD1_PSEPU      AG.EP..... ......M..L .AHRAMAQGE M.VAEIIA.. .GK.....A
+DLDH_BUCBP      IG.QP..... ......M..L .AHKGTHEGH I.VAEVIS.. .GK.....K
+DLDH_RHOCA      IV.GP..... ......M..L .AHKAEDEGM A.VAEVIA.. .GK.....H
+DLDH_TRYBB      VDKGP..... ......M..L .AHKAEDEGV A.CAEILA.. .GR.....P
+DLDH_YEAST      TF.GP..... ......M..L .AHKAEEEGI A.AVEMLK.. .TG.....H
+DLDH_SCHPO      TL.GP..... ......M..L .AHKAEDEGI A.AVEYIA.. .KG.....Q
+DLDH_MYCLE      TG.KL..... ......Q..L .AHVAEAQGV V.AAEAIA.. .GAE.T..L
+MERA_SHEPU      CN.MP..... ......Q..F .VYVAAAAGS R.SGINMT.. .GG.Y....
+MERA_STRLI      TC.HP..... ......D..F .VYVAAAHGT L.VADNAL.. .DGAE....
+MERA_BACCE      TP.GP..... ......Q..F .VYVAAYEGG L.AARNAI.. .GGLN....
+MERA_STAEP      TL.GP..... ......Q..F .VYVAAYEGG I.VANNAL.. .GLAK....
+MERA_ACICA      TD.QP..... ......Q..F .VYVAAAAGT R.AAINMT.. .GG.D....
+MERA_THIFE      TD.QP..... ......Q..F .VYVAAAAGT R.AAINMM.. .GG.S....
+1fcd_A          SI.ANP.... ......MPKS .GYSANSQGK V.AAAAVVVL LKGEEPG.T
+1gv4_A          AC.FYD.IKL GRRRV.E..H .HDHAVVSGR L.AGENMT.. .GAAKPY.W
+1nhp_           TL.IKYNPAD T.EVNIA..L .ATNARKQGR F.AVKNLE.. .EPVKP..F
+1d7y_A          TR.QRN.PLS GRFERIE..T .WSNAQNQGI A.VARHLV.. .DPTAPGYA
+2tmd_A          E..APR.... .........L .IADATFTGH R.VAREIE.. .EANPQIAI
+1vdc_           QD.KK..... ......Y..R QAITAAGTGC M.AALDAE.. .HYLQEIGS
+

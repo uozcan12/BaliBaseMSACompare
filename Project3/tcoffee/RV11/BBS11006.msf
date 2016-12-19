@@ -1,0 +1,98 @@
+PileUp
+
+
+
+   MSF:  355  Type: P    Check:  5692   .. 
+
+ Name: 1bbt_ac oo  Len:  355  Check:   822  Weight:  1.000
+ Name: 1al2_ad oo  Len:  355  Check:  2027  Weight:  1.000
+ Name: 1b35_C oo  Len:  355  Check:  6986  Weight:  1.000
+ Name: 1bbt_ab oo  Len:  355  Check:   627  Weight:  1.000
+ Name: 1mec_aa oo  Len:  355  Check:  6187  Weight:  1.000
+ Name: 1bbt_aa oo  Len:  355  Check:  5305  Weight:  1.000
+ Name: 1al2_ab oo  Len:  355  Check:   526  Weight:  1.000
+ Name: 1al2_ac oo  Len:  355  Check:  3212  Weight:  1.000
+
+//
+
+
+
+1bbt_ac      YGKVFNPPRN QLPGRFTNLL DVAEA..C.. PTFL...RFE GGV......P 
+1al2_ad      NMMELAE..I DTMIPFDL.S A.TKKNTM.. E.MYR.V... .R........ 
+1b35_C       SSTNEIETNE GLAGTSLDVM DLSRVLSI.. PNYW..DRFT WKT......S 
+1bbt_ab      YGYATAE..D FVSGPNTSGL E.TRVVQA.. ERFFKTHLFD WVT......S 
+1mec_aa      TDA.TA...D FVAQPVYL.. P.ENQTKV.. AFFY..DRSS PIG.....RF 
+1bbt_aa      VTT.TVE..N YGGETQIQ.. R.RQHTDVSF ..I..MDRFV KVT......P 
+1al2_ab      PSD.TV...Q TRHVVQHR.. S.RSESSI.. ESFF..ARGA CVTIMTVDNP 
+1al2_ac      RWPEYLR..D SEANPV.D.. Q.PTEPDVAA CRFYTLDTVS W.T......K 
+
+
+1bbt_ac      YVT....... .....TKTDS DRVLAQFDMS L....AAKHM .SNTFLA... 
+1al2_ad      .LS....... .....DKPHT DDPILCLSLS PASD...PRL .SHTMLG... 
+1b35_C       DVI....... .....NTVLW DNYVSPFKVK PYSATITDRF .RCTHMG... 
+1bbt_ab      D......... .......... .SFGRC..H. .LLELPTD.. .HKGVYG... 
+1mec_aa      AVKSGSLESG FAPFSNKACP NSVILT..PG PQFDPAYDQL .RPQRLTEIW 
+1bbt_aa      QN........ .......... .QINILD... .LMQVP.S.. ..HTLVG... 
+1al2_ab      AST....... .......TNK .DKLF...A. .VWKITYK.. .DTVQLR... 
+1al2_ac      E......... .......... .SR..GW... .WWKLP.DAL RDMGLFG... 
+
+
+1bbt_ac      .......... .......... .GLAQYYTQY SGTINLH..F MFTGPT..DA 
+1al2_ad      .......... .......... .EILNYYTHW AGSLKFT..F LFCGSM..MA 
+1b35_C       .......... .......... .KVANAFTYW RGSMVYT..F KFVKTQ..YH 
+1bbt_ab      .......... .......... .SLTDSYAYM RNGWDVE..V TAVGNQ..FN 
+1mec_aa      GNGNEETSEV FPLKTKQDYS FCLFSPFVYY KCDLEVT..L SPHT....SG 
+1bbt_aa      .......... .......... .GLLRASTYY FSDLEIA..V KHEGD..... 
+1al2_ab      .......... .......... .RKLEFFTYS RFDMELT..F VVTANFTETN 
+1al2_ac      .......... .......... .Q..NMYYHY LGRSGYTVHV QCNASK..FH 
+
+
+1bbt_ac      KA.....RYM VAYAPPGMEP P......... ........KT .......... 
+1al2_ad      TG.....KLL VSYAPPGADP P......... ........KK RK........ 
+1b35_C       SG.....RLR ISFIPYYYNT T......... ........IS TG........ 
+1bbt_ab      GG.....CLL VAMVPELCSI .......... ........QK RE........ 
+1mec_aa      AH.....GLL VRWCPTGTPT .......... ........KP TT........ 
+1bbt_aa      .......... LTWVPNG... .......... .......... ........AP 
+1al2_ab      NGHALNQVYQ IMYIPPGAPV P......... ........EK WD........ 
+1al2_ac      QG.....ALG VFAVPEMCLA GDSNTTTMHT SYQNANPGEK GGTFTGTFTP 
+
+
+1bbt_ac      .......... .......... ...PE..... ..AAAHCIHA E.WDTGLNSK 
+1al2_ad      .......... .......... .......... ..EAMLGTHV I.WDIGLQSS 
+1b35_C       .......... .......... ...TP..... ..DVSRTQKI V.VDLRTSTA 
+1bbt_ab      .......... .......... ...LY..... ..QLTLFPHQ F.INPRTNMT 
+1mec_aa      .......... .......... ...QVLHEVS SLSEGRTPQV YSAGPGTSNQ 
+1bbt_aa      EK........ .......... .......... .......... A.LDNTTNPT 
+1al2_ab      .......... .......... ...DYTW... ..QTSSNPSI F.YTY.GTAP 
+1al2_ac      DNNQTSPARR FCPVDYLLGN GTLLG..... ..NAFVFPHQ I.INLRTNNC 
+
+
+1bbt_ac      .......FTF SIPYLSAADY TYTA.SDVAE .......... ....TTNV.. 
+1al2_ad      .......CTM VVPWISNTTY RQTI.DD..S F......... .......TE. 
+1b35_C       .......VSF TVPYIGSRPW LYCI.RPESS W...LS.... ....KDNTDG 
+1bbt_ab      .......AHI TVPFVGVNRY DQYK.VHK.P WTLVVMVVAP ...LTVNTE. 
+1mec_aa      .......ISF VVPYNSPLSV LPAVWYN..G HK.RFD.... ....NTGDLG 
+1bbt_aa      AYHKAPLTRL ALPYTAPHRV LATV.YN..G E......... .......... 
+1al2_ab      .......ARI SVPYVGISNA YSHF.YD..G FS.KVPLKDQ SAALGDSLYG 
+1al2_ac      .......ATL VLPYVNSLSI DSMVKHN..N W......... .......... 
+
+
+1bbt_ac      .......QGW VCLFQIT.HG K.......AD GDALVVLASA GKDFELRLPV 
+1al2_ad      .......GGY ISVFYQTRIV V..PLSTPRE MDIL.GFVSA CNDFSVRLLR 
+1b35_C       ALMYNCVSGI VRVEVLNQLV A..AQNVFSE IDVI.CEVNG GPDLEFAGPT 
+1bbt_ab      .......... .......... ....GAPQ.. IKVY.AN.IA PTNVHVAGEF 
+1mec_aa      IAPNSD.FGT LFFA...... ...GTKPD.. IKFT.VY.LR YKNMRVFCPR 
+1bbt_aa      .......... CRTLPT..SF NYGAIKAT.. RVTE.LL.YR MKRAETYCPR 
+1al2_ab      AASLND.FGI LAVRVVNDHN ...PTKVT.. SKIR.VY.LK PKHIRVWCPR 
+1al2_ac      ........GI AI.LPLAPLN FASESSPE.. IPIT.LT.IA PMCCEFNGLR 
+
+
+1bbt_ac      DARA.
+1al2_ad      DTT.H
+1b35_C       CPRY.
+1bbt_ab      PSK.E
+1mec_aa      PTVFF
+1bbt_aa      PLLAI
+1al2_ab      PPRAV
+1al2_ac      NIT.L
+

@@ -1,0 +1,101 @@
+PileUp
+
+
+
+   MSF:   85  Type: P    Check:  5309   .. 
+
+ Name: 1tvx_A oo  Len:   85  Check:  2022  Weight:  1.000
+ Name: GRO1_RABIT oo  Len:   85  Check:  3077  Weight:  1.000
+ Name: GRO_HUMAN oo  Len:   85  Check:  2883  Weight:  1.000
+ Name: GRO2_RABIT oo  Len:   85  Check:  4497  Weight:  1.000
+ Name: MI2A_RAT oo  Len:   85  Check:  4492  Weight:  1.000
+ Name: MIP2_MOUSE oo  Len:   85  Check:  3314  Weight:  1.000
+ Name: GRO_CRIGR oo  Len:   85  Check:  3712  Weight:  1.000
+ Name: GRO_CAVPO oo  Len:   85  Check:  2594  Weight:  1.000
+ Name: SZ07_PIG oo  Len:   85  Check:  1298  Weight:  1.000
+ Name: AMC_RABIT oo  Len:   85  Check:  1856  Weight:  1.000
+ Name: SZ06_HUMAN oo  Len:   85  Check:  3869  Weight:  1.000
+ Name: AMC2_PIG oo  Len:   85  Check:  2637  Weight:  1.000
+ Name: SZ05_MOUSE oo  Len:   85  Check:  2728  Weight:  1.000
+ Name: SZ05_RAT oo  Len:   85  Check:  4267  Weight:  1.000
+ Name: PLF4_PIG oo  Len:   85  Check:  3044  Weight:  1.000
+ Name: PLF4_BOVIN oo  Len:   85  Check:  3254  Weight:  1.000
+ Name: PLF4_MOUSE oo  Len:   85  Check:  2549  Weight:  1.000
+ Name: PF4V_HUMAN oo  Len:   85  Check:  2023  Weight:  1.000
+ Name: EMF1_CHICK oo  Len:   85  Check:  3110  Weight:  1.000
+ Name: IL8_CERTO oo  Len:   85  Check:  3270  Weight:  1.000
+ Name: IL8_BOVIN oo  Len:   85  Check:  4428  Weight:  1.000
+ Name: IL8_CAVPO oo  Len:   85  Check:  4118  Weight:  1.000
+ Name: SZ15_MOUSE oo  Len:   85  Check:  3579  Weight:  1.000
+ Name: SZ09_MOUSE oo  Len:   85  Check:  2644  Weight:  1.000
+ Name: SZ09_HUMAN oo  Len:   85  Check:  3686  Weight:  1.000
+ Name: SZ10_HUMAN oo  Len:   85  Check:  4075  Weight:  1.000
+ Name: 1prt_F oo  Len:   85  Check:  1250  Weight:  1.000
+ Name: 1sap_ oo  Len:   85  Check:  2794  Weight:  1.000
+ Name: 1lt5_D oo  Len:   85  Check:  8239  Weight:  1.000
+
+//
+
+
+
+1tvx_A          KTT.S.GIHP KNIQSLEVIG KGTHCNQVEV IATLK.D.GR .KICLD.PD. 
+GRO1_RABIT      QTV.Q.GIHL KNIQNLKVLS PGPHCAQTEV IATLK.S.GQ .EACRN.PA. 
+GRO_HUMAN       QTL.Q.GIHP KNIQSVNVKS PGPHCAQTEV IATLK.N.GR .KACLN.PA. 
+GRO2_RABIT      QTL.Q.GIHL KNIQSVKVTT PGPHCDQTEV IASLK.T.GQ .EVCLN.PT. 
+MI2A_RAT        KTL.P.RVDF ENIQSLTVTP PGPHCTQTEV IATLK.D.GQ .EVCLN.PQ. 
+MIP2_MOUSE      KTL.P.RVDF KNIQSLSVTP PGPHCAQTEV IATLK.G.GQ .KVCLD.PE. 
+GRO_CRIGR       QTM.T.GVHL KNIQSLKVTP PGPHCTQTEV IATLK.N.GQ .EACLN.PE. 
+GRO_CAVPO       RPV.R.GLHP KNIQSVAVTA PGPHCHQTEV LATLK.D.GR .EACLD.PE. 
+SZ07_PIG        NTV.S.GIHP SNIQSLEVIR AGAHCAKVEV IATLK.N.DK .KICLD.PE. 
+AMC_RABIT       ST..T.AIHP KMIARLQVIA AGPQCSKVEV VASLK.N.GK .EICLD.PE. 
+SZ06_HUMAN      RVT.L.RVNP KTIGKLQVFP AGPQCSKVEV VASLK.N.GK .QVCLD.PE. 
+AMC2_PIG        TTT.P.GIHP KMISDLQVIP AGPQCSKAEV IATLK.N.GK .EVCLD.PK. 
+SZ05_MOUSE      TVT.P.KINP KLIANLEVIP AGPQCPTVEV IAKLK.N.QK .EVCLD.PE. 
+SZ05_RAT        TLA.P.RINP KMIANLEVIP AGPHCPKVEV IAKLK.N.QK DNVCLD.PQ. 
+PLF4_PIG        KTI.S.GVSP KHISSLEVIG AGPHCPSPQL IATLK.K.GH .KICLD.PQ. 
+PLF4_BOVIN      KTT.S.GINP RHISSLEVIG AGTHCPSPQL LATKK.T.GR .KICLD.QQ. 
+PLF4_MOUSE      KTISS.GIHL KHITSLEVIK AGRHCAVPQL IATLK.N.GR .KICLD.RQ. 
+PF4V_HUMAN      KTT.S.QVRP RHITSLEVIK AGPHCPTAQL IATLK.N.GR .KICLD.LQ. 
+EMF1_CHICK      STH.SKFIHP KSIQDVKLTP SGPHCKNVEI IATLK.D.GR .EVCLD.PT. 
+IL8_CERTO       KTY.SKPFHP KFIKELRVIE SGPHCVNTEI IVKLS.D.GR .ELCLD.PK. 
+IL8_BOVIN       KTH.STPFHP KFIKELRVIE SGPHCENSEI IVKLT.N.GN .EVCLN.PK. 
+IL8_CAVPO       KIH.TTPFHP KFIKELKVIE SGPRCANSEI IVKLS.D.NR .QLCLD.PK. 
+SZ15_MOUSE      QEH.SEFIPL KLIKNIMVIF ETIYCNRKEV IAVPK.N.GS .MICLD.PD. 
+SZ09_MOUSE      STS.RGTIHY KSLKDLKQFA PSPNCNKTEI IATLK.N.GD .QTCLD.PD. 
+SZ09_HUMAN      STN.QGTIHL QSLKDLKQFA PSPSCEKIEI IATLK.N.GV .QTCLN.PD. 
+SZ10_HUMAN      SIS.NQPVNP RSLEKLEIIP ASQFCPRVEI IATMKKK.GE .KRCLN.PE. 
+1prt_F          LPT.H.LYKN FTVQEL.... .......... ALKLK.GKNQ .EFCLT.AFM 
+1sap_           GEE.K.EVDT SKIKKVWRVG ..KMVSFT.Y DDNGK.T.GR .GAVSE.KD. 
+1lt5_D          NTQ.IYTIND KILSYT.ESM ...AGKREMV IITFK.S.GE .TFQVEVPG. 
+
+
+1tvx_A          .......... ...APRI... KKIVQKKLAG ....D
+GRO1_RABIT      .......... ...APMV... KKFLQKRLSN ....G
+GRO_HUMAN       .......... ...SPIV... KKIIEKMLNS ....D
+GRO2_RABIT      .......... ...APVV... KKIIDKMLNK ....A
+MI2A_RAT        .......... ...APRL... QKIIQKLLKS ....D
+MIP2_MOUSE      .......... ...APLV... QKIIQKILNK ....G
+GRO_CRIGR       .......... ...APMV... QKIVQKMLKS ....G
+GRO_CAVPO       .......... ...APMV... QKVLQRMLKG ....S
+SZ07_PIG        .......... ...APRI... KKIVQKIMED ....G
+AMC_RABIT       .......... ...APLI... KKAIQKILES ....G
+SZ06_HUMAN      .......... ...APFL... KKVIQKILDS ....G
+AMC2_PIG        .......... ...APLI... KKIVQKMLDS ....G
+SZ05_MOUSE      .......... ...APVI... KKIIQKILGS ....D
+SZ05_RAT        .......... ...APLI... KKVIQKILGS ....E
+PLF4_PIG        .......... ...NLLY... KKIIKKLLKS ....Q
+PLF4_BOVIN      .......... ...RPLY... KKILKKLLDG ....D
+PLF4_MOUSE      .......... ...APLY... KKVIKKILE. ....S
+PF4V_HUMAN      .......... ...ALLY... KKIIKEHLE. ....S
+EMF1_CHICK      .......... ...APWV... QLIVKALMAK ....A
+IL8_CERTO       .......... ...EPWV... QRVVEKFLKR A....
+IL8_BOVIN       .......... ...EKWV... QKVVQVFVKR A....
+IL8_CAVPO       .......... ...KKWV... QDVVSMFLKR T....
+SZ15_MOUSE      .......... ...APWV... KATVGPITNR ....F
+SZ09_MOUSE      .......... ...SANV... KKLMKEWEKK ....I
+SZ09_HUMAN      .......... ...SADV... KELIKKWEKQ ....V
+SZ10_HUMAN      .......... ...SKAI... KNLLKAVSKE ....R
+1prt_F          SGRSLVRACL SDAGHEH... DTWFDTMLGF AISAY
+1sap_           .......... ...AP..... KELLDMLARA ERE.K
+1lt5_D          .......... ...SQHIDSQ KKAIERMKDT LRITY
+

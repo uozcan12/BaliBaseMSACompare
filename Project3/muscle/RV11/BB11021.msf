@@ -1,0 +1,30 @@
+PileUp
+
+  MSF: 172  Type: A  Check: 0000  ..
+
+ Name: 1aac_   Len: 172  Check:  1001  Weight: 0.259384
+ Name: 1pmy_   Len: 172  Check:  8946  Weight: 0.264204
+ Name: 1kdi_   Len: 172  Check:  9843  Weight: 0.238206
+ Name: 1ov8_A  Len: 172  Check:  1414  Weight: 0.238206
+
+//
+
+1aac_     DKATIPSESP FAAAEVADGA IVVDIAK..M KYETPELHVK VGDTVT..WI
+1pmy_     DEVAVK.... .MLNSGPGGM .........M VFDPALVRLK PGDSIK..FL
+1kdi_     AKVEVGDE.. .VGN...... .........F KFYPDSITVS AGEAVE..FT
+1ov8_A    ANAPGGSN.. .VVNETPAQT VEVRAAPDAL AFAQTSLSLP ANTVVRLDFV
+
+1aac_     NREAMPHNVH F..VAGVLGE AALKGPMMKK EQAYSLTFTE A.........
+1pmy_     PTDK.GHNVE T..IKGMAPD GADYVKTTVG QEAVVKFDKE ..........
+1kdi_     LVGETGHNIV FDIPAGAPGT VASELKAASM DENDLLSEDE P.........
+1ov8_A    NQNNLGVQHN WVLVNG.GDD VAAAVNTAAQ NNADALFVPP PDTPNALAWT
+
+1aac_     .......... ........GT YDYHCT..PH PF..MRGKVV VE........
+1pmy_     .......... ........GV YGFKCA..PH YMMGMVALVV VGDKRDNLEA
+1kdi_     .........S FKAKVSTPGT YTFYCT..PH KSANMKGTLT VK........
+1ov8_A    AMLNAGESGS VTFRTPAPGT YLYICTFPGH YLAGMKGTLT VTP.......
+
+1aac_     .......... .......... ..
+1pmy_     AKSVQHNKLT QKRLDPLFAQ IQ
+1kdi_     .......... .......... ..
+1ov8_A    .......... .......... ..

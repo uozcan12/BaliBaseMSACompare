@@ -1,0 +1,3474 @@
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BB11001.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11001.msf
+
+	SP score= 0.904
+
+	TC score= 0.850
+auto /home/ugur/Desktop/Project3/muscle/RV11/BB11001.msf 0.904 0.850
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BB11002.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11002.msf
+
+	SP score= 0.572
+
+	TC score= 0.270
+auto /home/ugur/Desktop/Project3/muscle/RV11/BB11002.msf 0.572 0.270
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BB11003.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11003.msf
+
+	SP score= 0.561
+
+	TC score= 0.390
+auto /home/ugur/Desktop/Project3/muscle/RV11/BB11003.msf 0.561 0.390
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BB11004.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11004.msf
+
+	SP score= 0.600
+
+	TC score= 0.420
+auto /home/ugur/Desktop/Project3/muscle/RV11/BB11004.msf 0.600 0.420
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BB11005.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11005.msf
+
+	SP score= 0.381
+
+	TC score= 0.010
+auto /home/ugur/Desktop/Project3/muscle/RV11/BB11005.msf 0.381 0.010
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BB11006.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11006.msf
+
+	SP score= 0.307
+
+	TC score= 0.070
+auto /home/ugur/Desktop/Project3/muscle/RV11/BB11006.msf 0.307 0.070
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BB11007.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11007.msf
+
+	SP score= 0.593
+
+	TC score= 0.390
+auto /home/ugur/Desktop/Project3/muscle/RV11/BB11007.msf 0.593 0.390
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BB11008.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11008.msf
+
+	SP score= 0.393
+
+	TC score= 0.230
+auto /home/ugur/Desktop/Project3/muscle/RV11/BB11008.msf 0.393 0.230
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BB11009.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11009.msf
+
+	SP score= 0.316
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/muscle/RV11/BB11009.msf 0.316 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BB11010.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11010.msf
+
+	SP score= 0.245
+
+	TC score= 0.060
+auto /home/ugur/Desktop/Project3/muscle/RV11/BB11010.msf 0.245 0.060
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BB11011.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11011.msf
+
+	SP score= 0.145
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/muscle/RV11/BB11011.msf 0.145 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BB11012.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11012.msf
+
+	SP score= 0.869
+
+	TC score= 0.770
+auto /home/ugur/Desktop/Project3/muscle/RV11/BB11012.msf 0.869 0.770
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BB11013.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11013.msf
+
+	SP score= 0.076
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/muscle/RV11/BB11013.msf 0.076 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BB11014.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11014.msf
+
+	SP score= 0.756
+
+	TC score= 0.600
+auto /home/ugur/Desktop/Project3/muscle/RV11/BB11014.msf 0.756 0.600
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BB11015.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11015.msf
+
+	SP score= 0.828
+
+	TC score= 0.750
+auto /home/ugur/Desktop/Project3/muscle/RV11/BB11015.msf 0.828 0.750
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BB11016.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11016.msf
+
+	SP score= 0.407
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/muscle/RV11/BB11016.msf 0.407 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BB11017.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11017.msf
+
+	SP score= 0.732
+
+	TC score= 0.610
+auto /home/ugur/Desktop/Project3/muscle/RV11/BB11017.msf 0.732 0.610
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BB11018.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11018.msf
+
+	SP score= 0.532
+
+	TC score= 0.230
+auto /home/ugur/Desktop/Project3/muscle/RV11/BB11018.msf 0.532 0.230
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BB11019.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11019.msf
+
+	SP score= 0.646
+
+	TC score= 0.220
+auto /home/ugur/Desktop/Project3/muscle/RV11/BB11019.msf 0.646 0.220
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BB11020.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11020.msf
+
+	SP score= 0.592
+
+	TC score= 0.300
+auto /home/ugur/Desktop/Project3/muscle/RV11/BB11020.msf 0.592 0.300
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BB11021.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11021.msf
+
+	SP score= 0.562
+
+	TC score= 0.450
+auto /home/ugur/Desktop/Project3/muscle/RV11/BB11021.msf 0.562 0.450
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BB11022.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11022.msf
+
+	SP score= 0.073
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/muscle/RV11/BB11022.msf 0.073 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BB11023.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11023.msf
+
+	SP score= 0.420
+
+	TC score= 0.130
+auto /home/ugur/Desktop/Project3/muscle/RV11/BB11023.msf 0.420 0.130
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BB11024.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11024.msf
+
+	SP score= 0.197
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/muscle/RV11/BB11024.msf 0.197 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BB11025.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11025.msf
+
+	SP score= 0.092
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/muscle/RV11/BB11025.msf 0.092 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BB11026.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11026.msf
+
+	SP score= 0.305
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/muscle/RV11/BB11026.msf 0.305 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BB11027.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11027.msf
+
+	SP score= 0.380
+
+	TC score= 0.170
+auto /home/ugur/Desktop/Project3/muscle/RV11/BB11027.msf 0.380 0.170
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BB11028.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11028.msf
+
+	SP score= 0.402
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/muscle/RV11/BB11028.msf 0.402 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BB11029.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11029.msf
+
+	SP score= 0.432
+
+	TC score= 0.330
+auto /home/ugur/Desktop/Project3/muscle/RV11/BB11029.msf 0.432 0.330
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BB11030.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11030.msf
+
+	SP score= 0.452
+
+	TC score= 0.100
+auto /home/ugur/Desktop/Project3/muscle/RV11/BB11030.msf 0.452 0.100
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BB11031.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11031.msf
+
+	SP score= 0.366
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/muscle/RV11/BB11031.msf 0.366 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BB11032.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11032.msf
+
+	SP score= 0.630
+
+	TC score= 0.300
+auto /home/ugur/Desktop/Project3/muscle/RV11/BB11032.msf 0.630 0.300
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BB11033.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11033.msf
+
+	SP score= 0.367
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/muscle/RV11/BB11033.msf 0.367 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BB11034.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11034.msf
+
+	SP score= 0.419
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/muscle/RV11/BB11034.msf 0.419 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BB11035.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11035.msf
+
+	SP score= 0.592
+
+	TC score= 0.430
+auto /home/ugur/Desktop/Project3/muscle/RV11/BB11035.msf 0.592 0.430
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BB11036.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11036.msf
+
+	SP score= 0.538
+
+	TC score= 0.130
+auto /home/ugur/Desktop/Project3/muscle/RV11/BB11036.msf 0.538 0.130
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BB11037.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11037.msf
+
+	SP score= 0.333
+
+	TC score= 0.120
+auto /home/ugur/Desktop/Project3/muscle/RV11/BB11037.msf 0.333 0.120
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BB11038.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BB11038.msf
+
+	SP score= 0.664
+
+	TC score= 0.360
+auto /home/ugur/Desktop/Project3/muscle/RV11/BB11038.msf 0.664 0.360
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BBS11001.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11001.msf
+
+	SP score= 0.993
+
+	TC score= 0.980
+auto /home/ugur/Desktop/Project3/muscle/RV11/BBS11001.msf 0.993 0.980
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BBS11002.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11002.msf
+
+	SP score= 0.715
+
+	TC score= 0.480
+auto /home/ugur/Desktop/Project3/muscle/RV11/BBS11002.msf 0.715 0.480
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BBS11003.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11003.msf
+
+	SP score= 0.695
+
+	TC score= 0.510
+auto /home/ugur/Desktop/Project3/muscle/RV11/BBS11003.msf 0.695 0.510
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BBS11004.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11004.msf
+
+	SP score= 0.561
+
+	TC score= 0.410
+auto /home/ugur/Desktop/Project3/muscle/RV11/BBS11004.msf 0.561 0.410
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BBS11005.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11005.msf
+
+	SP score= 0.476
+
+	TC score= 0.160
+auto /home/ugur/Desktop/Project3/muscle/RV11/BBS11005.msf 0.476 0.160
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BBS11006.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11006.msf
+
+	SP score= 0.380
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/muscle/RV11/BBS11006.msf 0.380 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BBS11007.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11007.msf
+
+	SP score= 0.662
+
+	TC score= 0.440
+auto /home/ugur/Desktop/Project3/muscle/RV11/BBS11007.msf 0.662 0.440
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BBS11008.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11008.msf
+
+	SP score= 0.556
+
+	TC score= 0.420
+auto /home/ugur/Desktop/Project3/muscle/RV11/BBS11008.msf 0.556 0.420
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BBS11009.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11009.msf
+
+	SP score= 0.812
+
+	TC score= 0.730
+auto /home/ugur/Desktop/Project3/muscle/RV11/BBS11009.msf 0.812 0.730
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BBS11010.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11010.msf
+
+	SP score= 0.498
+
+	TC score= 0.330
+auto /home/ugur/Desktop/Project3/muscle/RV11/BBS11010.msf 0.498 0.330
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BBS11011.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11011.msf
+
+	SP score= 0.439
+
+	TC score= 0.230
+auto /home/ugur/Desktop/Project3/muscle/RV11/BBS11011.msf 0.439 0.230
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BBS11012.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11012.msf
+
+	SP score= 0.889
+
+	TC score= 0.820
+auto /home/ugur/Desktop/Project3/muscle/RV11/BBS11012.msf 0.889 0.820
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BBS11013.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11013.msf
+
+	SP score= 0.686
+
+	TC score= 0.260
+auto /home/ugur/Desktop/Project3/muscle/RV11/BBS11013.msf 0.686 0.260
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BBS11014.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11014.msf
+
+	SP score= 0.768
+
+	TC score= 0.600
+auto /home/ugur/Desktop/Project3/muscle/RV11/BBS11014.msf 0.768 0.600
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BBS11015.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11015.msf
+
+	SP score= 0.791
+
+	TC score= 0.660
+auto /home/ugur/Desktop/Project3/muscle/RV11/BBS11015.msf 0.791 0.660
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BBS11016.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11016.msf
+
+	SP score= 0.564
+
+	TC score= 0.270
+auto /home/ugur/Desktop/Project3/muscle/RV11/BBS11016.msf 0.564 0.270
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BBS11017.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11017.msf
+
+	SP score= 0.757
+
+	TC score= 0.630
+auto /home/ugur/Desktop/Project3/muscle/RV11/BBS11017.msf 0.757 0.630
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BBS11018.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11018.msf
+
+	SP score= 0.567
+
+	TC score= 0.300
+auto /home/ugur/Desktop/Project3/muscle/RV11/BBS11018.msf 0.567 0.300
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BBS11019.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11019.msf
+
+	SP score= 0.646
+
+	TC score= 0.180
+auto /home/ugur/Desktop/Project3/muscle/RV11/BBS11019.msf 0.646 0.180
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BBS11020.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11020.msf
+
+	SP score= 0.793
+
+	TC score= 0.580
+auto /home/ugur/Desktop/Project3/muscle/RV11/BBS11020.msf 0.793 0.580
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BBS11021.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11021.msf
+
+	SP score= 0.712
+
+	TC score= 0.580
+auto /home/ugur/Desktop/Project3/muscle/RV11/BBS11021.msf 0.712 0.580
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BBS11022.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11022.msf
+
+	SP score= 0.895
+
+	TC score= 0.780
+auto /home/ugur/Desktop/Project3/muscle/RV11/BBS11022.msf 0.895 0.780
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BBS11023.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11023.msf
+
+	SP score= 0.485
+
+	TC score= 0.250
+auto /home/ugur/Desktop/Project3/muscle/RV11/BBS11023.msf 0.485 0.250
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BBS11024.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11024.msf
+
+	SP score= 0.487
+
+	TC score= 0.350
+auto /home/ugur/Desktop/Project3/muscle/RV11/BBS11024.msf 0.487 0.350
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BBS11025.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11025.msf
+
+	SP score= 0.565
+
+	TC score= 0.370
+auto /home/ugur/Desktop/Project3/muscle/RV11/BBS11025.msf 0.565 0.370
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BBS11026.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11026.msf
+
+	SP score= 0.505
+
+	TC score= 0.220
+auto /home/ugur/Desktop/Project3/muscle/RV11/BBS11026.msf 0.505 0.220
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BBS11027.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11027.msf
+
+	SP score= 0.480
+
+	TC score= 0.150
+auto /home/ugur/Desktop/Project3/muscle/RV11/BBS11027.msf 0.480 0.150
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BBS11028.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11028.msf
+
+	SP score= 0.792
+
+	TC score= 0.600
+auto /home/ugur/Desktop/Project3/muscle/RV11/BBS11028.msf 0.792 0.600
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BBS11029.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11029.msf
+
+	SP score= 0.540
+
+	TC score= 0.460
+auto /home/ugur/Desktop/Project3/muscle/RV11/BBS11029.msf 0.540 0.460
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BBS11030.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11030.msf
+
+	SP score= 0.634
+
+	TC score= 0.050
+auto /home/ugur/Desktop/Project3/muscle/RV11/BBS11030.msf 0.634 0.050
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BBS11031.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11031.msf
+
+	SP score= 0.543
+
+	TC score= 0.140
+auto /home/ugur/Desktop/Project3/muscle/RV11/BBS11031.msf 0.543 0.140
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BBS11032.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11032.msf
+
+	SP score= 0.714
+
+	TC score= 0.420
+auto /home/ugur/Desktop/Project3/muscle/RV11/BBS11032.msf 0.714 0.420
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BBS11033.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11033.msf
+
+	SP score= 0.497
+
+	TC score= 0.090
+auto /home/ugur/Desktop/Project3/muscle/RV11/BBS11033.msf 0.497 0.090
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BBS11034.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11034.msf
+
+	SP score= 0.530
+
+	TC score= 0.190
+auto /home/ugur/Desktop/Project3/muscle/RV11/BBS11034.msf 0.530 0.190
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BBS11035.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11035.msf
+
+	SP score= 0.567
+
+	TC score= 0.450
+auto /home/ugur/Desktop/Project3/muscle/RV11/BBS11035.msf 0.567 0.450
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BBS11036.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11036.msf
+
+	SP score= 0.545
+
+	TC score= 0.200
+auto /home/ugur/Desktop/Project3/muscle/RV11/BBS11036.msf 0.545 0.200
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BBS11037.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11037.msf
+
+	SP score= 0.430
+
+	TC score= 0.200
+auto /home/ugur/Desktop/Project3/muscle/RV11/BBS11037.msf 0.430 0.200
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV11/BBS11038.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV11/BBS11038.msf
+
+	SP score= 0.795
+
+	TC score= 0.570
+auto /home/ugur/Desktop/Project3/muscle/RV11/BBS11038.msf 0.795 0.570
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BB12001.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12001.msf
+
+	SP score= 0.811
+
+	TC score= 0.600
+auto /home/ugur/Desktop/Project3/muscle/RV12/BB12001.msf 0.811 0.600
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BB12002.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12002.msf
+
+	SP score= 0.920
+
+	TC score= 0.780
+auto /home/ugur/Desktop/Project3/muscle/RV12/BB12002.msf 0.920 0.780
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BB12003.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12003.msf
+
+	SP score= 0.903
+
+	TC score= 0.800
+auto /home/ugur/Desktop/Project3/muscle/RV12/BB12003.msf 0.903 0.800
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BB12004.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12004.msf
+
+	SP score= 0.930
+
+	TC score= 0.730
+auto /home/ugur/Desktop/Project3/muscle/RV12/BB12004.msf 0.930 0.730
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BB12005.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12005.msf
+
+	SP score= 0.893
+
+	TC score= 0.650
+auto /home/ugur/Desktop/Project3/muscle/RV12/BB12005.msf 0.893 0.650
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BB12006.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12006.msf
+
+	SP score= 0.938
+
+	TC score= 0.880
+auto /home/ugur/Desktop/Project3/muscle/RV12/BB12006.msf 0.938 0.880
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BB12007.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12007.msf
+
+	SP score= 0.859
+
+	TC score= 0.700
+auto /home/ugur/Desktop/Project3/muscle/RV12/BB12007.msf 0.859 0.700
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BB12008.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12008.msf
+
+	SP score= 0.897
+
+	TC score= 0.630
+auto /home/ugur/Desktop/Project3/muscle/RV12/BB12008.msf 0.897 0.630
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BB12009.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12009.msf
+
+	SP score= 0.815
+
+	TC score= 0.690
+auto /home/ugur/Desktop/Project3/muscle/RV12/BB12009.msf 0.815 0.690
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BB12010.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12010.msf
+
+	SP score= 0.899
+
+	TC score= 0.750
+auto /home/ugur/Desktop/Project3/muscle/RV12/BB12010.msf 0.899 0.750
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BB12011.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12011.msf
+
+	SP score= 0.715
+
+	TC score= 0.390
+auto /home/ugur/Desktop/Project3/muscle/RV12/BB12011.msf 0.715 0.390
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BB12012.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12012.msf
+
+	SP score= 0.550
+
+	TC score= 0.430
+auto /home/ugur/Desktop/Project3/muscle/RV12/BB12012.msf 0.550 0.430
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BB12013.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12013.msf
+
+	SP score= 0.924
+
+	TC score= 0.810
+auto /home/ugur/Desktop/Project3/muscle/RV12/BB12013.msf 0.924 0.810
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BB12014.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12014.msf
+
+	SP score= 0.964
+
+	TC score= 0.830
+auto /home/ugur/Desktop/Project3/muscle/RV12/BB12014.msf 0.964 0.830
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BB12015.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12015.msf
+
+	SP score= 0.918
+
+	TC score= 0.840
+auto /home/ugur/Desktop/Project3/muscle/RV12/BB12015.msf 0.918 0.840
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BB12016.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12016.msf
+
+	SP score= 0.811
+
+	TC score= 0.610
+auto /home/ugur/Desktop/Project3/muscle/RV12/BB12016.msf 0.811 0.610
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BB12017.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12017.msf
+
+	SP score= 0.883
+
+	TC score= 0.740
+auto /home/ugur/Desktop/Project3/muscle/RV12/BB12017.msf 0.883 0.740
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BB12018.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12018.msf
+
+	SP score= 0.916
+
+	TC score= 0.870
+auto /home/ugur/Desktop/Project3/muscle/RV12/BB12018.msf 0.916 0.870
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BB12019.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12019.msf
+
+	SP score= 0.842
+
+	TC score= 0.710
+auto /home/ugur/Desktop/Project3/muscle/RV12/BB12019.msf 0.842 0.710
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BB12020.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12020.msf
+
+	SP score= 0.813
+
+	TC score= 0.690
+auto /home/ugur/Desktop/Project3/muscle/RV12/BB12020.msf 0.813 0.690
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BB12021.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12021.msf
+
+	SP score= 0.866
+
+	TC score= 0.770
+auto /home/ugur/Desktop/Project3/muscle/RV12/BB12021.msf 0.866 0.770
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BB12022.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12022.msf
+
+	SP score= 0.840
+
+	TC score= 0.670
+auto /home/ugur/Desktop/Project3/muscle/RV12/BB12022.msf 0.840 0.670
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BB12023.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12023.msf
+
+	SP score= 0.867
+
+	TC score= 0.770
+auto /home/ugur/Desktop/Project3/muscle/RV12/BB12023.msf 0.867 0.770
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BB12024.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12024.msf
+
+	SP score= 0.912
+
+	TC score= 0.830
+auto /home/ugur/Desktop/Project3/muscle/RV12/BB12024.msf 0.912 0.830
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BB12025.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12025.msf
+
+	SP score= 0.763
+
+	TC score= 0.600
+auto /home/ugur/Desktop/Project3/muscle/RV12/BB12025.msf 0.763 0.600
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BB12026.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12026.msf
+
+	SP score= 0.869
+
+	TC score= 0.630
+auto /home/ugur/Desktop/Project3/muscle/RV12/BB12026.msf 0.869 0.630
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BB12027.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12027.msf
+
+	SP score= 0.875
+
+	TC score= 0.710
+auto /home/ugur/Desktop/Project3/muscle/RV12/BB12027.msf 0.875 0.710
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BB12028.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12028.msf
+
+	SP score= 0.767
+
+	TC score= 0.560
+auto /home/ugur/Desktop/Project3/muscle/RV12/BB12028.msf 0.767 0.560
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BB12029.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12029.msf
+
+	SP score= 0.842
+
+	TC score= 0.880
+auto /home/ugur/Desktop/Project3/muscle/RV12/BB12029.msf 0.842 0.880
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BB12030.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12030.msf
+
+	SP score= 0.888
+
+	TC score= 0.780
+auto /home/ugur/Desktop/Project3/muscle/RV12/BB12030.msf 0.888 0.780
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BB12031.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12031.msf
+
+	SP score= 0.827
+
+	TC score= 0.680
+auto /home/ugur/Desktop/Project3/muscle/RV12/BB12031.msf 0.827 0.680
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BB12032.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12032.msf
+
+	SP score= 0.766
+
+	TC score= 0.400
+auto /home/ugur/Desktop/Project3/muscle/RV12/BB12032.msf 0.766 0.400
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BB12033.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12033.msf
+
+	SP score= 0.689
+
+	TC score= 0.490
+auto /home/ugur/Desktop/Project3/muscle/RV12/BB12033.msf 0.689 0.490
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BB12034.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12034.msf
+
+	SP score= 0.884
+
+	TC score= 0.790
+auto /home/ugur/Desktop/Project3/muscle/RV12/BB12034.msf 0.884 0.790
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BB12035.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12035.msf
+
+	SP score= 0.907
+
+	TC score= 0.630
+auto /home/ugur/Desktop/Project3/muscle/RV12/BB12035.msf 0.907 0.630
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BB12036.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12036.msf
+
+	SP score= 0.940
+
+	TC score= 0.880
+auto /home/ugur/Desktop/Project3/muscle/RV12/BB12036.msf 0.940 0.880
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BB12037.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12037.msf
+
+	SP score= 0.769
+
+	TC score= 0.450
+auto /home/ugur/Desktop/Project3/muscle/RV12/BB12037.msf 0.769 0.450
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BB12038.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12038.msf
+
+	SP score= 0.848
+
+	TC score= 0.520
+auto /home/ugur/Desktop/Project3/muscle/RV12/BB12038.msf 0.848 0.520
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BB12039.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12039.msf
+
+	SP score= 0.912
+
+	TC score= 0.740
+auto /home/ugur/Desktop/Project3/muscle/RV12/BB12039.msf 0.912 0.740
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BB12040.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12040.msf
+
+	SP score= 0.944
+
+	TC score= 0.890
+auto /home/ugur/Desktop/Project3/muscle/RV12/BB12040.msf 0.944 0.890
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BB12041.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12041.msf
+
+	SP score= 0.641
+
+	TC score= 0.390
+auto /home/ugur/Desktop/Project3/muscle/RV12/BB12041.msf 0.641 0.390
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BB12042.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12042.msf
+
+	SP score= 0.651
+
+	TC score= 0.540
+auto /home/ugur/Desktop/Project3/muscle/RV12/BB12042.msf 0.651 0.540
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BB12043.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12043.msf
+
+	SP score= 0.905
+
+	TC score= 0.540
+auto /home/ugur/Desktop/Project3/muscle/RV12/BB12043.msf 0.905 0.540
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BB12044.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BB12044.msf
+
+	SP score= 0.839
+
+	TC score= 0.610
+auto /home/ugur/Desktop/Project3/muscle/RV12/BB12044.msf 0.839 0.610
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BBS12001.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12001.msf
+
+	SP score= 0.846
+
+	TC score= 0.630
+auto /home/ugur/Desktop/Project3/muscle/RV12/BBS12001.msf 0.846 0.630
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BBS12002.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12002.msf
+
+	SP score= 0.920
+
+	TC score= 0.780
+auto /home/ugur/Desktop/Project3/muscle/RV12/BBS12002.msf 0.920 0.780
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BBS12003.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12003.msf
+
+	SP score= 0.954
+
+	TC score= 0.880
+auto /home/ugur/Desktop/Project3/muscle/RV12/BBS12003.msf 0.954 0.880
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BBS12004.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12004.msf
+
+	SP score= 0.932
+
+	TC score= 0.740
+auto /home/ugur/Desktop/Project3/muscle/RV12/BBS12004.msf 0.932 0.740
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BBS12005.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12005.msf
+
+	SP score= 0.842
+
+	TC score= 0.670
+auto /home/ugur/Desktop/Project3/muscle/RV12/BBS12005.msf 0.842 0.670
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BBS12006.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12006.msf
+
+	SP score= 0.941
+
+	TC score= 0.890
+auto /home/ugur/Desktop/Project3/muscle/RV12/BBS12006.msf 0.941 0.890
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BBS12007.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12007.msf
+
+	SP score= 0.849
+
+	TC score= 0.700
+auto /home/ugur/Desktop/Project3/muscle/RV12/BBS12007.msf 0.849 0.700
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BBS12008.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12008.msf
+
+	SP score= 0.921
+
+	TC score= 0.710
+auto /home/ugur/Desktop/Project3/muscle/RV12/BBS12008.msf 0.921 0.710
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BBS12009.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12009.msf
+
+	SP score= 0.906
+
+	TC score= 0.770
+auto /home/ugur/Desktop/Project3/muscle/RV12/BBS12009.msf 0.906 0.770
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BBS12010.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12010.msf
+
+	SP score= 0.906
+
+	TC score= 0.760
+auto /home/ugur/Desktop/Project3/muscle/RV12/BBS12010.msf 0.906 0.760
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BBS12011.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12011.msf
+
+	SP score= 0.735
+
+	TC score= 0.410
+auto /home/ugur/Desktop/Project3/muscle/RV12/BBS12011.msf 0.735 0.410
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BBS12012.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12012.msf
+
+	SP score= 0.603
+
+	TC score= 0.440
+auto /home/ugur/Desktop/Project3/muscle/RV12/BBS12012.msf 0.603 0.440
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BBS12013.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12013.msf
+
+	SP score= 0.929
+
+	TC score= 0.810
+auto /home/ugur/Desktop/Project3/muscle/RV12/BBS12013.msf 0.929 0.810
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BBS12014.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12014.msf
+
+	SP score= 1.000
+
+	TC score= 1.000
+auto /home/ugur/Desktop/Project3/muscle/RV12/BBS12014.msf 1.000 1.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BBS12015.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12015.msf
+
+	SP score= 0.931
+
+	TC score= 0.850
+auto /home/ugur/Desktop/Project3/muscle/RV12/BBS12015.msf 0.931 0.850
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BBS12016.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12016.msf
+
+	SP score= 0.852
+
+	TC score= 0.710
+auto /home/ugur/Desktop/Project3/muscle/RV12/BBS12016.msf 0.852 0.710
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BBS12017.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12017.msf
+
+	SP score= 0.883
+
+	TC score= 0.740
+auto /home/ugur/Desktop/Project3/muscle/RV12/BBS12017.msf 0.883 0.740
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BBS12018.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12018.msf
+
+	SP score= 0.933
+
+	TC score= 0.890
+auto /home/ugur/Desktop/Project3/muscle/RV12/BBS12018.msf 0.933 0.890
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BBS12019.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12019.msf
+
+	SP score= 0.881
+
+	TC score= 0.780
+auto /home/ugur/Desktop/Project3/muscle/RV12/BBS12019.msf 0.881 0.780
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BBS12020.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12020.msf
+
+	SP score= 0.833
+
+	TC score= 0.770
+auto /home/ugur/Desktop/Project3/muscle/RV12/BBS12020.msf 0.833 0.770
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BBS12021.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12021.msf
+
+	SP score= 0.930
+
+	TC score= 0.850
+auto /home/ugur/Desktop/Project3/muscle/RV12/BBS12021.msf 0.930 0.850
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BBS12022.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12022.msf
+
+	SP score= 0.826
+
+	TC score= 0.700
+auto /home/ugur/Desktop/Project3/muscle/RV12/BBS12022.msf 0.826 0.700
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BBS12023.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12023.msf
+
+	SP score= 0.867
+
+	TC score= 0.770
+auto /home/ugur/Desktop/Project3/muscle/RV12/BBS12023.msf 0.867 0.770
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BBS12024.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12024.msf
+
+	SP score= 0.916
+
+	TC score= 0.840
+auto /home/ugur/Desktop/Project3/muscle/RV12/BBS12024.msf 0.916 0.840
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BBS12025.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12025.msf
+
+	SP score= 0.765
+
+	TC score= 0.610
+auto /home/ugur/Desktop/Project3/muscle/RV12/BBS12025.msf 0.765 0.610
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BBS12026.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12026.msf
+
+	SP score= 0.896
+
+	TC score= 0.650
+auto /home/ugur/Desktop/Project3/muscle/RV12/BBS12026.msf 0.896 0.650
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BBS12027.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12027.msf
+
+	SP score= 0.931
+
+	TC score= 0.800
+auto /home/ugur/Desktop/Project3/muscle/RV12/BBS12027.msf 0.931 0.800
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BBS12028.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12028.msf
+
+	SP score= 0.823
+
+	TC score= 0.660
+auto /home/ugur/Desktop/Project3/muscle/RV12/BBS12028.msf 0.823 0.660
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BBS12029.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12029.msf
+
+	SP score= 0.953
+
+	TC score= 0.900
+auto /home/ugur/Desktop/Project3/muscle/RV12/BBS12029.msf 0.953 0.900
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BBS12030.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12030.msf
+
+	SP score= 0.913
+
+	TC score= 0.820
+auto /home/ugur/Desktop/Project3/muscle/RV12/BBS12030.msf 0.913 0.820
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BBS12031.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12031.msf
+
+	SP score= 0.825
+
+	TC score= 0.680
+auto /home/ugur/Desktop/Project3/muscle/RV12/BBS12031.msf 0.825 0.680
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BBS12032.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12032.msf
+
+	SP score= 0.786
+
+	TC score= 0.480
+auto /home/ugur/Desktop/Project3/muscle/RV12/BBS12032.msf 0.786 0.480
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BBS12033.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12033.msf
+
+	SP score= 0.777
+
+	TC score= 0.580
+auto /home/ugur/Desktop/Project3/muscle/RV12/BBS12033.msf 0.777 0.580
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BBS12034.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12034.msf
+
+	SP score= 0.884
+
+	TC score= 0.790
+auto /home/ugur/Desktop/Project3/muscle/RV12/BBS12034.msf 0.884 0.790
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BBS12035.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12035.msf
+
+	SP score= 0.926
+
+	TC score= 0.650
+auto /home/ugur/Desktop/Project3/muscle/RV12/BBS12035.msf 0.926 0.650
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BBS12036.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12036.msf
+
+	SP score= 0.953
+
+	TC score= 0.900
+auto /home/ugur/Desktop/Project3/muscle/RV12/BBS12036.msf 0.953 0.900
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BBS12037.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12037.msf
+
+	SP score= 0.808
+
+	TC score= 0.530
+auto /home/ugur/Desktop/Project3/muscle/RV12/BBS12037.msf 0.808 0.530
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BBS12038.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12038.msf
+
+	SP score= 0.892
+
+	TC score= 0.660
+auto /home/ugur/Desktop/Project3/muscle/RV12/BBS12038.msf 0.892 0.660
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BBS12039.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12039.msf
+
+	SP score= 0.916
+
+	TC score= 0.690
+auto /home/ugur/Desktop/Project3/muscle/RV12/BBS12039.msf 0.916 0.690
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BBS12040.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12040.msf
+
+	SP score= 0.944
+
+	TC score= 0.890
+auto /home/ugur/Desktop/Project3/muscle/RV12/BBS12040.msf 0.944 0.890
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BBS12041.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12041.msf
+
+	SP score= 0.690
+
+	TC score= 0.430
+auto /home/ugur/Desktop/Project3/muscle/RV12/BBS12041.msf 0.690 0.430
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BBS12042.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12042.msf
+
+	SP score= 0.690
+
+	TC score= 0.570
+auto /home/ugur/Desktop/Project3/muscle/RV12/BBS12042.msf 0.690 0.570
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BBS12043.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12043.msf
+
+	SP score= 0.923
+
+	TC score= 0.530
+auto /home/ugur/Desktop/Project3/muscle/RV12/BBS12043.msf 0.923 0.530
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV12/BBS12044.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV12/BBS12044.msf
+
+	SP score= 0.841
+
+	TC score= 0.610
+auto /home/ugur/Desktop/Project3/muscle/RV12/BBS12044.msf 0.841 0.610
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BB20001.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20001.msf
+
+	SP score= 0.498
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/muscle/RV20/BB20001.msf 0.498 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BB20002.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20002.msf
+
+	SP score= 0.217
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/muscle/RV20/BB20002.msf 0.217 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BB20003.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20003.msf
+
+	SP score= 0.953
+
+	TC score= 0.280
+auto /home/ugur/Desktop/Project3/muscle/RV20/BB20003.msf 0.953 0.280
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BB20004.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20004.msf
+
+	SP score= 0.894
+
+	TC score= 0.600
+auto /home/ugur/Desktop/Project3/muscle/RV20/BB20004.msf 0.894 0.600
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BB20005.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20005.msf
+
+	SP score= 0.775
+
+	TC score= 0.060
+auto /home/ugur/Desktop/Project3/muscle/RV20/BB20005.msf 0.775 0.060
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BB20006.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20006.msf
+
+	SP score= 0.961
+
+	TC score= 0.450
+auto /home/ugur/Desktop/Project3/muscle/RV20/BB20006.msf 0.961 0.450
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BB20007.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20007.msf
+
+	SP score= 0.767
+
+	TC score= 0.340
+auto /home/ugur/Desktop/Project3/muscle/RV20/BB20007.msf 0.767 0.340
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BB20008.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20008.msf
+
+	SP score= 0.560
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/muscle/RV20/BB20008.msf 0.560 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BB20009.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20009.msf
+
+	SP score= 0.919
+
+	TC score= 0.650
+auto /home/ugur/Desktop/Project3/muscle/RV20/BB20009.msf 0.919 0.650
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BB20010.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20010.msf
+
+	SP score= 0.803
+
+	TC score= 0.280
+auto /home/ugur/Desktop/Project3/muscle/RV20/BB20010.msf 0.803 0.280
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BB20011.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20011.msf
+
+	SP score= 0.741
+
+	TC score= 0.030
+auto /home/ugur/Desktop/Project3/muscle/RV20/BB20011.msf 0.741 0.030
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BB20012.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20012.msf
+
+	SP score= 0.659
+
+	TC score= 0.070
+auto /home/ugur/Desktop/Project3/muscle/RV20/BB20012.msf 0.659 0.070
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BB20013.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20013.msf
+
+	SP score= 0.632
+
+	TC score= 0.220
+auto /home/ugur/Desktop/Project3/muscle/RV20/BB20013.msf 0.632 0.220
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BB20014.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20014.msf
+
+	SP score= 0.820
+
+	TC score= 0.160
+auto /home/ugur/Desktop/Project3/muscle/RV20/BB20014.msf 0.820 0.160
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BB20015.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20015.msf
+
+	SP score= 0.608
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/muscle/RV20/BB20015.msf 0.608 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BB20016.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20016.msf
+
+	SP score= 0.723
+
+	TC score= 0.010
+auto /home/ugur/Desktop/Project3/muscle/RV20/BB20016.msf 0.723 0.010
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BB20017.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20017.msf
+
+	SP score= 0.942
+
+	TC score= 0.530
+auto /home/ugur/Desktop/Project3/muscle/RV20/BB20017.msf 0.942 0.530
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BB20018.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20018.msf
+
+	SP score= 0.963
+
+	TC score= 0.680
+auto /home/ugur/Desktop/Project3/muscle/RV20/BB20018.msf 0.963 0.680
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BB20019.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20019.msf
+
+	SP score= 0.820
+
+	TC score= 0.080
+auto /home/ugur/Desktop/Project3/muscle/RV20/BB20019.msf 0.820 0.080
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BB20020.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20020.msf
+
+	SP score= 0.870
+
+	TC score= 0.590
+auto /home/ugur/Desktop/Project3/muscle/RV20/BB20020.msf 0.870 0.590
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BB20021.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20021.msf
+
+	SP score= 0.900
+
+	TC score= 0.200
+auto /home/ugur/Desktop/Project3/muscle/RV20/BB20021.msf 0.900 0.200
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BB20022.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20022.msf
+
+	SP score= 0.861
+
+	TC score= 0.300
+auto /home/ugur/Desktop/Project3/muscle/RV20/BB20022.msf 0.861 0.300
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BB20023.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20023.msf
+
+	SP score= 0.855
+
+	TC score= 0.190
+auto /home/ugur/Desktop/Project3/muscle/RV20/BB20023.msf 0.855 0.190
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BB20024.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20024.msf
+
+	SP score= 0.524
+
+	TC score= 0.480
+auto /home/ugur/Desktop/Project3/muscle/RV20/BB20024.msf 0.524 0.480
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BB20025.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20025.msf
+
+	SP score= 0.911
+
+	TC score= 0.070
+auto /home/ugur/Desktop/Project3/muscle/RV20/BB20025.msf 0.911 0.070
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BB20026.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20026.msf
+
+	SP score= 0.815
+
+	TC score= 0.260
+auto /home/ugur/Desktop/Project3/muscle/RV20/BB20026.msf 0.815 0.260
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BB20027.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20027.msf
+
+	SP score= 0.804
+
+	TC score= 0.410
+auto /home/ugur/Desktop/Project3/muscle/RV20/BB20027.msf 0.804 0.410
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BB20028.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20028.msf
+
+	SP score= 0.972
+
+	TC score= 0.650
+auto /home/ugur/Desktop/Project3/muscle/RV20/BB20028.msf 0.972 0.650
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BB20029.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20029.msf
+
+	SP score= 0.796
+
+	TC score= 0.040
+auto /home/ugur/Desktop/Project3/muscle/RV20/BB20029.msf 0.796 0.040
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BB20030.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20030.msf
+
+	SP score= 0.927
+
+	TC score= 0.240
+auto /home/ugur/Desktop/Project3/muscle/RV20/BB20030.msf 0.927 0.240
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BB20031.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20031.msf
+
+	SP score= 0.878
+
+	TC score= 0.110
+auto /home/ugur/Desktop/Project3/muscle/RV20/BB20031.msf 0.878 0.110
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BB20032.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20032.msf
+
+	SP score= 0.922
+
+	TC score= 0.100
+auto /home/ugur/Desktop/Project3/muscle/RV20/BB20032.msf 0.922 0.100
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BB20033.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20033.msf
+
+	SP score= 0.938
+
+	TC score= 0.330
+auto /home/ugur/Desktop/Project3/muscle/RV20/BB20033.msf 0.938 0.330
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BB20034.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20034.msf
+
+	SP score= 0.865
+
+	TC score= 0.210
+auto /home/ugur/Desktop/Project3/muscle/RV20/BB20034.msf 0.865 0.210
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BB20035.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20035.msf
+
+	SP score= 0.844
+
+	TC score= 0.120
+auto /home/ugur/Desktop/Project3/muscle/RV20/BB20035.msf 0.844 0.120
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BB20036.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20036.msf
+
+	SP score= 0.843
+
+	TC score= 0.040
+auto /home/ugur/Desktop/Project3/muscle/RV20/BB20036.msf 0.843 0.040
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BB20037.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20037.msf
+
+	SP score= 0.825
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/muscle/RV20/BB20037.msf 0.825 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BB20038.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20038.msf
+
+	SP score= 0.925
+
+	TC score= 0.330
+auto /home/ugur/Desktop/Project3/muscle/RV20/BB20038.msf 0.925 0.330
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BB20039.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20039.msf
+
+	SP score= 0.909
+
+	TC score= 0.110
+auto /home/ugur/Desktop/Project3/muscle/RV20/BB20039.msf 0.909 0.110
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BB20040.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20040.msf
+
+	SP score= 0.899
+
+	TC score= 0.600
+auto /home/ugur/Desktop/Project3/muscle/RV20/BB20040.msf 0.899 0.600
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BB20041.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BB20041.msf
+
+	SP score= 0.710
+
+	TC score= 0.370
+auto /home/ugur/Desktop/Project3/muscle/RV20/BB20041.msf 0.710 0.370
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BBS20001.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20001.msf
+
+	SP score= 0.971
+
+	TC score= 0.900
+auto /home/ugur/Desktop/Project3/muscle/RV20/BBS20001.msf 0.971 0.900
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BBS20002.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20002.msf
+
+	SP score= 0.885
+
+	TC score= 0.400
+auto /home/ugur/Desktop/Project3/muscle/RV20/BBS20002.msf 0.885 0.400
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BBS20003.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20003.msf
+
+	SP score= 0.956
+
+	TC score= 0.290
+auto /home/ugur/Desktop/Project3/muscle/RV20/BBS20003.msf 0.956 0.290
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BBS20004.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20004.msf
+
+	SP score= 0.963
+
+	TC score= 0.610
+auto /home/ugur/Desktop/Project3/muscle/RV20/BBS20004.msf 0.963 0.610
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BBS20005.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20005.msf
+
+	SP score= 0.785
+
+	TC score= 0.100
+auto /home/ugur/Desktop/Project3/muscle/RV20/BBS20005.msf 0.785 0.100
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BBS20006.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20006.msf
+
+	SP score= 0.963
+
+	TC score= 0.520
+auto /home/ugur/Desktop/Project3/muscle/RV20/BBS20006.msf 0.963 0.520
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BBS20007.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20007.msf
+
+	SP score= 0.784
+
+	TC score= 0.340
+auto /home/ugur/Desktop/Project3/muscle/RV20/BBS20007.msf 0.784 0.340
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BBS20008.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20008.msf
+
+	SP score= 0.839
+
+	TC score= 0.240
+auto /home/ugur/Desktop/Project3/muscle/RV20/BBS20008.msf 0.839 0.240
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BBS20009.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20009.msf
+
+	SP score= 0.955
+
+	TC score= 0.470
+auto /home/ugur/Desktop/Project3/muscle/RV20/BBS20009.msf 0.955 0.470
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BBS20010.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20010.msf
+
+	SP score= 0.849
+
+	TC score= 0.370
+auto /home/ugur/Desktop/Project3/muscle/RV20/BBS20010.msf 0.849 0.370
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BBS20011.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20011.msf
+
+	SP score= 0.894
+
+	TC score= 0.610
+auto /home/ugur/Desktop/Project3/muscle/RV20/BBS20011.msf 0.894 0.610
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BBS20012.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20012.msf
+
+	SP score= 0.778
+
+	TC score= 0.320
+auto /home/ugur/Desktop/Project3/muscle/RV20/BBS20012.msf 0.778 0.320
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BBS20013.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20013.msf
+
+	SP score= 0.871
+
+	TC score= 0.490
+auto /home/ugur/Desktop/Project3/muscle/RV20/BBS20013.msf 0.871 0.490
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BBS20014.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20014.msf
+
+	SP score= 0.890
+
+	TC score= 0.210
+auto /home/ugur/Desktop/Project3/muscle/RV20/BBS20014.msf 0.890 0.210
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BBS20015.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20015.msf
+
+	SP score= 0.910
+
+	TC score= 0.210
+auto /home/ugur/Desktop/Project3/muscle/RV20/BBS20015.msf 0.910 0.210
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BBS20016.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20016.msf
+
+	SP score= 0.895
+
+	TC score= 0.440
+auto /home/ugur/Desktop/Project3/muscle/RV20/BBS20016.msf 0.895 0.440
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BBS20017.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20017.msf
+
+	SP score= 0.959
+
+	TC score= 0.560
+auto /home/ugur/Desktop/Project3/muscle/RV20/BBS20017.msf 0.959 0.560
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BBS20018.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20018.msf
+
+	SP score= 0.951
+
+	TC score= 0.720
+auto /home/ugur/Desktop/Project3/muscle/RV20/BBS20018.msf 0.951 0.720
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BBS20019.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20019.msf
+
+	SP score= 0.855
+
+	TC score= 0.190
+auto /home/ugur/Desktop/Project3/muscle/RV20/BBS20019.msf 0.855 0.190
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BBS20020.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20020.msf
+
+	SP score= 0.880
+
+	TC score= 0.610
+auto /home/ugur/Desktop/Project3/muscle/RV20/BBS20020.msf 0.880 0.610
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BBS20021.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20021.msf
+
+	SP score= 0.909
+
+	TC score= 0.160
+auto /home/ugur/Desktop/Project3/muscle/RV20/BBS20021.msf 0.909 0.160
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BBS20022.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20022.msf
+
+	SP score= 0.861
+
+	TC score= 0.290
+auto /home/ugur/Desktop/Project3/muscle/RV20/BBS20022.msf 0.861 0.290
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BBS20023.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20023.msf
+
+	SP score= 0.880
+
+	TC score= 0.230
+auto /home/ugur/Desktop/Project3/muscle/RV20/BBS20023.msf 0.880 0.230
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BBS20024.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20024.msf
+
+	SP score= 0.866
+
+	TC score= 0.040
+auto /home/ugur/Desktop/Project3/muscle/RV20/BBS20024.msf 0.866 0.040
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BBS20025.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20025.msf
+
+	SP score= 0.958
+
+	TC score= 0.370
+auto /home/ugur/Desktop/Project3/muscle/RV20/BBS20025.msf 0.958 0.370
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BBS20026.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20026.msf
+
+	SP score= 0.830
+
+	TC score= 0.280
+auto /home/ugur/Desktop/Project3/muscle/RV20/BBS20026.msf 0.830 0.280
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BBS20027.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20027.msf
+
+	SP score= 0.854
+
+	TC score= 0.370
+auto /home/ugur/Desktop/Project3/muscle/RV20/BBS20027.msf 0.854 0.370
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BBS20028.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20028.msf
+
+	SP score= 0.976
+
+	TC score= 0.680
+auto /home/ugur/Desktop/Project3/muscle/RV20/BBS20028.msf 0.976 0.680
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BBS20029.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20029.msf
+
+	SP score= 0.882
+
+	TC score= 0.100
+auto /home/ugur/Desktop/Project3/muscle/RV20/BBS20029.msf 0.882 0.100
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BBS20030.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20030.msf
+
+	SP score= 0.929
+
+	TC score= 0.270
+auto /home/ugur/Desktop/Project3/muscle/RV20/BBS20030.msf 0.929 0.270
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BBS20031.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20031.msf
+
+	SP score= 0.888
+
+	TC score= 0.130
+auto /home/ugur/Desktop/Project3/muscle/RV20/BBS20031.msf 0.888 0.130
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BBS20032.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20032.msf
+
+	SP score= 0.935
+
+	TC score= 0.450
+auto /home/ugur/Desktop/Project3/muscle/RV20/BBS20032.msf 0.935 0.450
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BBS20033.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20033.msf
+
+	SP score= 0.941
+
+	TC score= 0.370
+auto /home/ugur/Desktop/Project3/muscle/RV20/BBS20033.msf 0.941 0.370
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BBS20034.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20034.msf
+
+	SP score= 0.869
+
+	TC score= 0.170
+auto /home/ugur/Desktop/Project3/muscle/RV20/BBS20034.msf 0.869 0.170
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BBS20035.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20035.msf
+
+	SP score= 0.905
+
+	TC score= 0.340
+auto /home/ugur/Desktop/Project3/muscle/RV20/BBS20035.msf 0.905 0.340
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BBS20036.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20036.msf
+
+	SP score= 0.960
+
+	TC score= 0.090
+auto /home/ugur/Desktop/Project3/muscle/RV20/BBS20036.msf 0.960 0.090
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BBS20037.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20037.msf
+
+	SP score= 0.850
+
+	TC score= 0.120
+auto /home/ugur/Desktop/Project3/muscle/RV20/BBS20037.msf 0.850 0.120
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BBS20038.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20038.msf
+
+	SP score= 0.923
+
+	TC score= 0.350
+auto /home/ugur/Desktop/Project3/muscle/RV20/BBS20038.msf 0.923 0.350
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BBS20039.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20039.msf
+
+	SP score= 0.924
+
+	TC score= 0.130
+auto /home/ugur/Desktop/Project3/muscle/RV20/BBS20039.msf 0.924 0.130
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BBS20040.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20040.msf
+
+	SP score= 0.960
+
+	TC score= 0.560
+auto /home/ugur/Desktop/Project3/muscle/RV20/BBS20040.msf 0.960 0.560
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV20/BBS20041.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV20/BBS20041.msf
+
+	SP score= 0.937
+
+	TC score= 0.560
+auto /home/ugur/Desktop/Project3/muscle/RV20/BBS20041.msf 0.937 0.560
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV30/BB30001.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BB30001.msf
+
+	SP score= 0.823
+
+	TC score= 0.310
+auto /home/ugur/Desktop/Project3/muscle/RV30/BB30001.msf 0.823 0.310
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV30/BB30002.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BB30002.msf
+
+	SP score= 0.748
+
+	TC score= 0.290
+auto /home/ugur/Desktop/Project3/muscle/RV30/BB30002.msf 0.748 0.290
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV30/BB30003.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BB30003.msf
+
+	SP score= 0.540
+
+	TC score= 0.010
+auto /home/ugur/Desktop/Project3/muscle/RV30/BB30003.msf 0.540 0.010
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV30/BB30004.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BB30004.msf
+
+	SP score= 0.863
+
+	TC score= 0.580
+auto /home/ugur/Desktop/Project3/muscle/RV30/BB30004.msf 0.863 0.580
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV30/BB30005.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BB30005.msf
+
+	SP score= 0.826
+
+	TC score= 0.360
+auto /home/ugur/Desktop/Project3/muscle/RV30/BB30005.msf 0.826 0.360
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV30/BB30006.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BB30006.msf
+
+	SP score= 0.504
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/muscle/RV30/BB30006.msf 0.504 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV30/BB30007.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BB30007.msf
+
+	SP score= 0.714
+
+	TC score= 0.410
+auto /home/ugur/Desktop/Project3/muscle/RV30/BB30007.msf 0.714 0.410
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV30/BB30008.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BB30008.msf
+
+	SP score= 0.644
+
+	TC score= 0.240
+auto /home/ugur/Desktop/Project3/muscle/RV30/BB30008.msf 0.644 0.240
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV30/BB30009.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BB30009.msf
+
+	SP score= 0.529
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/muscle/RV30/BB30009.msf 0.529 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV30/BB30010.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BB30010.msf
+
+	SP score= 0.918
+
+	TC score= 0.500
+auto /home/ugur/Desktop/Project3/muscle/RV30/BB30010.msf 0.918 0.500
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV30/BB30011.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BB30011.msf
+
+	SP score= 0.921
+
+	TC score= 0.650
+auto /home/ugur/Desktop/Project3/muscle/RV30/BB30011.msf 0.921 0.650
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV30/BB30012.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BB30012.msf
+
+	SP score= 0.711
+
+	TC score= 0.390
+auto /home/ugur/Desktop/Project3/muscle/RV30/BB30012.msf 0.711 0.390
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV30/BB30013.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BB30013.msf
+
+	SP score= 0.643
+
+	TC score= 0.180
+auto /home/ugur/Desktop/Project3/muscle/RV30/BB30013.msf 0.643 0.180
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV30/BB30014.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BB30014.msf
+
+	SP score= 0.888
+
+	TC score= 0.440
+auto /home/ugur/Desktop/Project3/muscle/RV30/BB30014.msf 0.888 0.440
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV30/BB30015.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BB30015.msf
+
+	SP score= 0.648
+
+	TC score= 0.320
+auto /home/ugur/Desktop/Project3/muscle/RV30/BB30015.msf 0.648 0.320
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV30/BB30016.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BB30016.msf
+
+	SP score= 0.375
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/muscle/RV30/BB30016.msf 0.375 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV30/BB30017.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BB30017.msf
+
+	SP score= 0.636
+
+	TC score= 0.350
+auto /home/ugur/Desktop/Project3/muscle/RV30/BB30017.msf 0.636 0.350
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV30/BB30018.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BB30018.msf
+
+	SP score= 0.815
+
+	TC score= 0.010
+auto /home/ugur/Desktop/Project3/muscle/RV30/BB30018.msf 0.815 0.010
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV30/BB30019.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BB30019.msf
+
+	SP score= 0.628
+
+	TC score= 0.240
+auto /home/ugur/Desktop/Project3/muscle/RV30/BB30019.msf 0.628 0.240
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV30/BB30020.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BB30020.msf
+
+	SP score= 0.614
+
+	TC score= 0.350
+auto /home/ugur/Desktop/Project3/muscle/RV30/BB30020.msf 0.614 0.350
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV30/BB30021.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BB30021.msf
+
+	SP score= 0.603
+
+	TC score= 0.080
+auto /home/ugur/Desktop/Project3/muscle/RV30/BB30021.msf 0.603 0.080
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV30/BB30022.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BB30022.msf
+
+	SP score= 0.801
+
+	TC score= 0.130
+auto /home/ugur/Desktop/Project3/muscle/RV30/BB30022.msf 0.801 0.130
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV30/BB30023.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BB30023.msf
+
+	SP score= 0.723
+
+	TC score= 0.030
+auto /home/ugur/Desktop/Project3/muscle/RV30/BB30023.msf 0.723 0.030
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV30/BB30024.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BB30024.msf
+
+	SP score= 0.764
+
+	TC score= 0.260
+auto /home/ugur/Desktop/Project3/muscle/RV30/BB30024.msf 0.764 0.260
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV30/BB30025.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BB30025.msf
+
+	SP score= 0.740
+
+	TC score= 0.120
+auto /home/ugur/Desktop/Project3/muscle/RV30/BB30025.msf 0.740 0.120
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV30/BB30026.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BB30026.msf
+
+	SP score= 0.752
+
+	TC score= 0.300
+auto /home/ugur/Desktop/Project3/muscle/RV30/BB30026.msf 0.752 0.300
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV30/BB30027.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BB30027.msf
+
+	SP score= 0.652
+
+	TC score= 0.200
+auto /home/ugur/Desktop/Project3/muscle/RV30/BB30027.msf 0.652 0.200
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV30/BB30028.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BB30028.msf
+
+	SP score= 0.848
+
+	TC score= 0.170
+auto /home/ugur/Desktop/Project3/muscle/RV30/BB30028.msf 0.848 0.170
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV30/BB30029.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BB30029.msf
+
+	SP score= 0.818
+
+	TC score= 0.460
+auto /home/ugur/Desktop/Project3/muscle/RV30/BB30029.msf 0.818 0.460
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV30/BB30030.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BB30030.msf
+
+	SP score= 0.839
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/muscle/RV30/BB30030.msf 0.839 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV30/BBS30001.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BBS30001.msf
+
+	SP score= 0.857
+
+	TC score= 0.330
+auto /home/ugur/Desktop/Project3/muscle/RV30/BBS30001.msf 0.857 0.330
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV30/BBS30002.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BBS30002.msf
+
+	SP score= 0.774
+
+	TC score= 0.330
+auto /home/ugur/Desktop/Project3/muscle/RV30/BBS30002.msf 0.774 0.330
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV30/BBS30003.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BBS30003.msf
+
+	SP score= 0.555
+
+	TC score= 0.060
+auto /home/ugur/Desktop/Project3/muscle/RV30/BBS30003.msf 0.555 0.060
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV30/BBS30004.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BBS30004.msf
+
+	SP score= 0.923
+
+	TC score= 0.620
+auto /home/ugur/Desktop/Project3/muscle/RV30/BBS30004.msf 0.923 0.620
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV30/BBS30005.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BBS30005.msf
+
+	SP score= 0.916
+
+	TC score= 0.450
+auto /home/ugur/Desktop/Project3/muscle/RV30/BBS30005.msf 0.916 0.450
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV30/BBS30006.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BBS30006.msf
+
+	SP score= 0.751
+
+	TC score= 0.460
+auto /home/ugur/Desktop/Project3/muscle/RV30/BBS30006.msf 0.751 0.460
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV30/BBS30007.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BBS30007.msf
+
+	SP score= 0.866
+
+	TC score= 0.600
+auto /home/ugur/Desktop/Project3/muscle/RV30/BBS30007.msf 0.866 0.600
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV30/BBS30008.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BBS30008.msf
+
+	SP score= 0.640
+
+	TC score= 0.200
+auto /home/ugur/Desktop/Project3/muscle/RV30/BBS30008.msf 0.640 0.200
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV30/BBS30009.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BBS30009.msf
+
+	SP score= 0.792
+
+	TC score= 0.350
+auto /home/ugur/Desktop/Project3/muscle/RV30/BBS30009.msf 0.792 0.350
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV30/BBS30010.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BBS30010.msf
+
+	SP score= 0.936
+
+	TC score= 0.520
+auto /home/ugur/Desktop/Project3/muscle/RV30/BBS30010.msf 0.936 0.520
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV30/BBS30011.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BBS30011.msf
+
+	SP score= 0.918
+
+	TC score= 0.690
+auto /home/ugur/Desktop/Project3/muscle/RV30/BBS30011.msf 0.918 0.690
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV30/BBS30012.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BBS30012.msf
+
+	SP score= 0.711
+
+	TC score= 0.400
+auto /home/ugur/Desktop/Project3/muscle/RV30/BBS30012.msf 0.711 0.400
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV30/BBS30013.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BBS30013.msf
+
+	SP score= 0.670
+
+	TC score= 0.230
+auto /home/ugur/Desktop/Project3/muscle/RV30/BBS30013.msf 0.670 0.230
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV30/BBS30014.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BBS30014.msf
+
+	SP score= 0.889
+
+	TC score= 0.470
+auto /home/ugur/Desktop/Project3/muscle/RV30/BBS30014.msf 0.889 0.470
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV30/BBS30015.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BBS30015.msf
+
+	SP score= 0.717
+
+	TC score= 0.510
+auto /home/ugur/Desktop/Project3/muscle/RV30/BBS30015.msf 0.717 0.510
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV30/BBS30016.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BBS30016.msf
+
+	SP score= 0.786
+
+	TC score= 0.230
+auto /home/ugur/Desktop/Project3/muscle/RV30/BBS30016.msf 0.786 0.230
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV30/BBS30017.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BBS30017.msf
+
+	SP score= 0.643
+
+	TC score= 0.380
+auto /home/ugur/Desktop/Project3/muscle/RV30/BBS30017.msf 0.643 0.380
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV30/BBS30018.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BBS30018.msf
+
+	SP score= 0.928
+
+	TC score= 0.530
+auto /home/ugur/Desktop/Project3/muscle/RV30/BBS30018.msf 0.928 0.530
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV30/BBS30019.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BBS30019.msf
+
+	SP score= 0.727
+
+	TC score= 0.340
+auto /home/ugur/Desktop/Project3/muscle/RV30/BBS30019.msf 0.727 0.340
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV30/BBS30020.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BBS30020.msf
+
+	SP score= 0.730
+
+	TC score= 0.460
+auto /home/ugur/Desktop/Project3/muscle/RV30/BBS30020.msf 0.730 0.460
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV30/BBS30021.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BBS30021.msf
+
+	SP score= 0.622
+
+	TC score= 0.050
+auto /home/ugur/Desktop/Project3/muscle/RV30/BBS30021.msf 0.622 0.050
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV30/BBS30022.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BBS30022.msf
+
+	SP score= 0.801
+
+	TC score= 0.210
+auto /home/ugur/Desktop/Project3/muscle/RV30/BBS30022.msf 0.801 0.210
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV30/BBS30023.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BBS30023.msf
+
+	SP score= 0.791
+
+	TC score= 0.310
+auto /home/ugur/Desktop/Project3/muscle/RV30/BBS30023.msf 0.791 0.310
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV30/BBS30024.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BBS30024.msf
+
+	SP score= 0.831
+
+	TC score= 0.250
+auto /home/ugur/Desktop/Project3/muscle/RV30/BBS30024.msf 0.831 0.250
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV30/BBS30025.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BBS30025.msf
+
+	SP score= 0.742
+
+	TC score= 0.170
+auto /home/ugur/Desktop/Project3/muscle/RV30/BBS30025.msf 0.742 0.170
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV30/BBS30026.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BBS30026.msf
+
+	SP score= 0.765
+
+	TC score= 0.290
+auto /home/ugur/Desktop/Project3/muscle/RV30/BBS30026.msf 0.765 0.290
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV30/BBS30027.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BBS30027.msf
+
+	SP score= 0.609
+
+	TC score= 0.360
+auto /home/ugur/Desktop/Project3/muscle/RV30/BBS30027.msf 0.609 0.360
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV30/BBS30028.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BBS30028.msf
+
+	SP score= 0.848
+
+	TC score= 0.170
+auto /home/ugur/Desktop/Project3/muscle/RV30/BBS30028.msf 0.848 0.170
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV30/BBS30029.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BBS30029.msf
+
+	SP score= 0.827
+
+	TC score= 0.510
+auto /home/ugur/Desktop/Project3/muscle/RV30/BBS30029.msf 0.827 0.510
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV30/BBS30030.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV30/BBS30030.msf
+
+	SP score= 0.936
+
+	TC score= 0.680
+auto /home/ugur/Desktop/Project3/muscle/RV30/BBS30030.msf 0.936 0.680
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV40/BB40001.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40001.msf
+
+	SP score= 0.813
+
+	TC score= 0.030
+auto /home/ugur/Desktop/Project3/muscle/RV40/BB40001.msf 0.813 0.030
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV40/BB40002.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40002.msf
+
+	SP score= 0.472
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/muscle/RV40/BB40002.msf 0.472 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV40/BB40003.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40003.msf
+
+	SP score= 0.895
+
+	TC score= 0.750
+auto /home/ugur/Desktop/Project3/muscle/RV40/BB40003.msf 0.895 0.750
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV40/BB40004.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40004.msf
+
+	SP score= 0.917
+
+	TC score= 0.480
+auto /home/ugur/Desktop/Project3/muscle/RV40/BB40004.msf 0.917 0.480
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV40/BB40005.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40005.msf
+
+	SP score= 0.889
+
+	TC score= 0.700
+auto /home/ugur/Desktop/Project3/muscle/RV40/BB40005.msf 0.889 0.700
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV40/BB40006.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40006.msf
+
+	SP score= 0.751
+
+	TC score= 0.270
+auto /home/ugur/Desktop/Project3/muscle/RV40/BB40006.msf 0.751 0.270
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV40/BB40007.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40007.msf
+
+	SP score= 0.729
+
+	TC score= 0.340
+auto /home/ugur/Desktop/Project3/muscle/RV40/BB40007.msf 0.729 0.340
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV40/BB40008.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40008.msf
+
+	SP score= 0.836
+
+	TC score= 0.530
+auto /home/ugur/Desktop/Project3/muscle/RV40/BB40008.msf 0.836 0.530
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV40/BB40009.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40009.msf
+
+	SP score= 0.718
+
+	TC score= 0.420
+auto /home/ugur/Desktop/Project3/muscle/RV40/BB40009.msf 0.718 0.420
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV40/BB40010.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40010.msf
+
+	SP score= 0.820
+
+	TC score= 0.530
+auto /home/ugur/Desktop/Project3/muscle/RV40/BB40010.msf 0.820 0.530
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV40/BB40011.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40011.msf
+
+	SP score= 0.676
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/muscle/RV40/BB40011.msf 0.676 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV40/BB40012.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40012.msf
+
+	SP score= 0.839
+
+	TC score= 0.550
+auto /home/ugur/Desktop/Project3/muscle/RV40/BB40012.msf 0.839 0.550
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV40/BB40013.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40013.msf
+
+	SP score= 0.718
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/muscle/RV40/BB40013.msf 0.718 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV40/BB40014.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40014.msf
+
+	SP score= 0.724
+
+	TC score= 0.410
+auto /home/ugur/Desktop/Project3/muscle/RV40/BB40014.msf 0.724 0.410
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV40/BB40015.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40015.msf
+
+	SP score= 0.921
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/muscle/RV40/BB40015.msf 0.921 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV40/BB40016.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40016.msf
+
+	SP score= 0.827
+
+	TC score= 0.010
+auto /home/ugur/Desktop/Project3/muscle/RV40/BB40016.msf 0.827 0.010
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV40/BB40017.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40017.msf
+
+	SP score= 0.827
+
+	TC score= 0.010
+auto /home/ugur/Desktop/Project3/muscle/RV40/BB40017.msf 0.827 0.010
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV40/BB40018.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40018.msf
+
+	SP score= 0.838
+
+	TC score= 0.550
+auto /home/ugur/Desktop/Project3/muscle/RV40/BB40018.msf 0.838 0.550
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV40/BB40019.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40019.msf
+
+	SP score= 0.893
+
+	TC score= 0.730
+auto /home/ugur/Desktop/Project3/muscle/RV40/BB40019.msf 0.893 0.730
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV40/BB40020.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40020.msf
+
+	SP score= 0.890
+
+	TC score= 0.690
+auto /home/ugur/Desktop/Project3/muscle/RV40/BB40020.msf 0.890 0.690
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV40/BB40021.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40021.msf
+
+	SP score= 0.886
+
+	TC score= 0.600
+auto /home/ugur/Desktop/Project3/muscle/RV40/BB40021.msf 0.886 0.600
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV40/BB40022.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40022.msf
+
+	SP score= 0.853
+
+	TC score= 0.460
+auto /home/ugur/Desktop/Project3/muscle/RV40/BB40022.msf 0.853 0.460
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV40/BB40023.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40023.msf
+
+	SP score= 0.716
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/muscle/RV40/BB40023.msf 0.716 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV40/BB40024.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40024.msf
+
+	SP score= 0.514
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/muscle/RV40/BB40024.msf 0.514 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV40/BB40025.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40025.msf
+
+	SP score= 0.869
+
+	TC score= 0.690
+auto /home/ugur/Desktop/Project3/muscle/RV40/BB40025.msf 0.869 0.690
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV40/BB40026.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40026.msf
+
+	SP score= 0.607
+
+	TC score= 0.160
+auto /home/ugur/Desktop/Project3/muscle/RV40/BB40026.msf 0.607 0.160
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV40/BB40027.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40027.msf
+
+	SP score= 0.632
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/muscle/RV40/BB40027.msf 0.632 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV40/BB40028.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40028.msf
+
+	SP score= 0.902
+
+	TC score= 0.620
+auto /home/ugur/Desktop/Project3/muscle/RV40/BB40028.msf 0.902 0.620
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV40/BB40029.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40029.msf
+
+	SP score= 0.834
+
+	TC score= 0.390
+auto /home/ugur/Desktop/Project3/muscle/RV40/BB40029.msf 0.834 0.390
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV40/BB40030.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40030.msf
+
+	SP score= 0.840
+
+	TC score= 0.620
+auto /home/ugur/Desktop/Project3/muscle/RV40/BB40030.msf 0.840 0.620
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV40/BB40031.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40031.msf
+
+	SP score= 0.634
+
+	TC score= 0.960
+auto /home/ugur/Desktop/Project3/muscle/RV40/BB40031.msf 0.634 0.960
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV40/BB40032.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40032.msf
+
+	SP score= 0.891
+
+	TC score= 0.770
+auto /home/ugur/Desktop/Project3/muscle/RV40/BB40032.msf 0.891 0.770
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV40/BB40033.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40033.msf
+
+	SP score= 0.799
+
+	TC score= 0.560
+auto /home/ugur/Desktop/Project3/muscle/RV40/BB40033.msf 0.799 0.560
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV40/BB40034.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40034.msf
+
+	SP score= 0.627
+
+	TC score= 0.240
+auto /home/ugur/Desktop/Project3/muscle/RV40/BB40034.msf 0.627 0.240
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV40/BB40035.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40035.msf
+
+	SP score= 0.503
+
+	TC score= 0.180
+auto /home/ugur/Desktop/Project3/muscle/RV40/BB40035.msf 0.503 0.180
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV40/BB40036.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40036.msf
+
+	SP score= 0.933
+
+	TC score= 0.620
+auto /home/ugur/Desktop/Project3/muscle/RV40/BB40036.msf 0.933 0.620
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV40/BB40037.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40037.msf
+
+	SP score= 0.416
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/muscle/RV40/BB40037.msf 0.416 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV40/BB40038.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40038.msf
+
+	SP score= 0.674
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/muscle/RV40/BB40038.msf 0.674 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV40/BB40039.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40039.msf
+
+	SP score= 0.821
+
+	TC score= 0.340
+auto /home/ugur/Desktop/Project3/muscle/RV40/BB40039.msf 0.821 0.340
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV40/BB40040.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40040.msf
+
+	SP score= 0.886
+
+	TC score= 0.550
+auto /home/ugur/Desktop/Project3/muscle/RV40/BB40040.msf 0.886 0.550
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV40/BB40041.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40041.msf
+
+	SP score= 0.666
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/muscle/RV40/BB40041.msf 0.666 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV40/BB40042.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40042.msf
+
+	SP score= 0.771
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/muscle/RV40/BB40042.msf 0.771 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV40/BB40043.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40043.msf
+
+	SP score= 0.658
+
+	TC score= 0.300
+auto /home/ugur/Desktop/Project3/muscle/RV40/BB40043.msf 0.658 0.300
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV40/BB40044.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40044.msf
+
+	SP score= 0.825
+
+	TC score= 0.380
+auto /home/ugur/Desktop/Project3/muscle/RV40/BB40044.msf 0.825 0.380
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV40/BB40045.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40045.msf
+
+	SP score= 0.429
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/muscle/RV40/BB40045.msf 0.429 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV40/BB40046.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40046.msf
+
+	SP score= 0.435
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/muscle/RV40/BB40046.msf 0.435 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV40/BB40047.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40047.msf
+
+	SP score= 0.894
+
+	TC score= 0.450
+auto /home/ugur/Desktop/Project3/muscle/RV40/BB40047.msf 0.894 0.450
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV40/BB40048.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40048.msf
+
+	SP score= 0.902
+
+	TC score= 0.690
+auto /home/ugur/Desktop/Project3/muscle/RV40/BB40048.msf 0.902 0.690
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV40/BB40049.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV40/BB40049.msf
+
+	SP score= 0.794
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/muscle/RV40/BB40049.msf 0.794 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV50/BB50001.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV50/BB50001.msf
+
+	SP score= 0.762
+
+	TC score= 0.410
+auto /home/ugur/Desktop/Project3/muscle/RV50/BB50001.msf 0.762 0.410
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV50/BB50002.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV50/BB50002.msf
+
+	SP score= 0.270
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/muscle/RV50/BB50002.msf 0.270 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV50/BB50003.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV50/BB50003.msf
+
+	SP score= 0.607
+
+	TC score= 0.300
+auto /home/ugur/Desktop/Project3/muscle/RV50/BB50003.msf 0.607 0.300
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV50/BB50004.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV50/BB50004.msf
+
+	SP score= 0.949
+
+	TC score= 0.840
+auto /home/ugur/Desktop/Project3/muscle/RV50/BB50004.msf 0.949 0.840
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV50/BB50005.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV50/BB50005.msf
+
+	SP score= 0.931
+
+	TC score= 0.750
+auto /home/ugur/Desktop/Project3/muscle/RV50/BB50005.msf 0.931 0.750
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV50/BB50006.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV50/BB50006.msf
+
+	SP score= 0.614
+
+	TC score= 0.130
+auto /home/ugur/Desktop/Project3/muscle/RV50/BB50006.msf 0.614 0.130
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV50/BB50007.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV50/BB50007.msf
+
+	SP score= 0.631
+
+	TC score= 0.020
+auto /home/ugur/Desktop/Project3/muscle/RV50/BB50007.msf 0.631 0.020
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV50/BB50008.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV50/BB50008.msf
+
+	SP score= 0.842
+
+	TC score= 0.620
+auto /home/ugur/Desktop/Project3/muscle/RV50/BB50008.msf 0.842 0.620
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV50/BB50009.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV50/BB50009.msf
+
+	SP score= 0.693
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/muscle/RV50/BB50009.msf 0.693 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV50/BB50010.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV50/BB50010.msf
+
+	SP score= 0.529
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/muscle/RV50/BB50010.msf 0.529 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV50/BB50011.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV50/BB50011.msf
+
+	SP score= 0.622
+
+	TC score= 0.100
+auto /home/ugur/Desktop/Project3/muscle/RV50/BB50011.msf 0.622 0.100
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV50/BB50012.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV50/BB50012.msf
+
+	SP score= 0.722
+
+	TC score= 0.140
+auto /home/ugur/Desktop/Project3/muscle/RV50/BB50012.msf 0.722 0.140
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV50/BB50013.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV50/BB50013.msf
+
+	SP score= 0.889
+
+	TC score= 0.600
+auto /home/ugur/Desktop/Project3/muscle/RV50/BB50013.msf 0.889 0.600
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV50/BB50014.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV50/BB50014.msf
+
+	SP score= 0.816
+
+	TC score= 0.500
+auto /home/ugur/Desktop/Project3/muscle/RV50/BB50014.msf 0.816 0.500
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV50/BB50015.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV50/BB50015.msf
+
+	SP score= 0.619
+
+	TC score= 0.100
+auto /home/ugur/Desktop/Project3/muscle/RV50/BB50015.msf 0.619 0.100
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV50/BB50016.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV50/BB50016.msf
+
+	SP score= 0.738
+
+	TC score= 0.360
+auto /home/ugur/Desktop/Project3/muscle/RV50/BB50016.msf 0.738 0.360
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV50/BBS50001.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV50/BBS50001.msf
+
+	SP score= 0.768
+
+	TC score= 0.380
+auto /home/ugur/Desktop/Project3/muscle/RV50/BBS50001.msf 0.768 0.380
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV50/BBS50002.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV50/BBS50002.msf
+
+	SP score= 0.459
+
+	TC score= 0.000
+auto /home/ugur/Desktop/Project3/muscle/RV50/BBS50002.msf 0.459 0.000
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV50/BBS50003.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV50/BBS50003.msf
+
+	SP score= 0.872
+
+	TC score= 0.590
+auto /home/ugur/Desktop/Project3/muscle/RV50/BBS50003.msf 0.872 0.590
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV50/BBS50005.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV50/BBS50005.msf
+
+	SP score= 0.928
+
+	TC score= 0.720
+auto /home/ugur/Desktop/Project3/muscle/RV50/BBS50005.msf 0.928 0.720
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV50/BBS50006.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV50/BBS50006.msf
+
+	SP score= 0.692
+
+	TC score= 0.160
+auto /home/ugur/Desktop/Project3/muscle/RV50/BBS50006.msf 0.692 0.160
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV50/BBS50007.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV50/BBS50007.msf
+
+	SP score= 0.610
+
+	TC score= 0.080
+auto /home/ugur/Desktop/Project3/muscle/RV50/BBS50007.msf 0.610 0.080
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV50/BBS50008.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV50/BBS50008.msf
+
+	SP score= 0.846
+
+	TC score= 0.550
+auto /home/ugur/Desktop/Project3/muscle/RV50/BBS50008.msf 0.846 0.550
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV50/BBS50009.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV50/BBS50009.msf
+
+	SP score= 0.812
+
+	TC score= 0.100
+auto /home/ugur/Desktop/Project3/muscle/RV50/BBS50009.msf 0.812 0.100
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV50/BBS50010.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV50/BBS50010.msf
+
+	SP score= 0.793
+
+	TC score= 0.380
+auto /home/ugur/Desktop/Project3/muscle/RV50/BBS50010.msf 0.793 0.380
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV50/BBS50011.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV50/BBS50011.msf
+
+	SP score= 0.710
+
+	TC score= 0.290
+auto /home/ugur/Desktop/Project3/muscle/RV50/BBS50011.msf 0.710 0.290
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV50/BBS50012.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV50/BBS50012.msf
+
+	SP score= 0.757
+
+	TC score= 0.180
+auto /home/ugur/Desktop/Project3/muscle/RV50/BBS50012.msf 0.757 0.180
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV50/BBS50013.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV50/BBS50013.msf
+
+	SP score= 0.909
+
+	TC score= 0.670
+auto /home/ugur/Desktop/Project3/muscle/RV50/BBS50013.msf 0.909 0.670
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV50/BBS50014.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV50/BBS50014.msf
+
+	SP score= 0.834
+
+	TC score= 0.550
+auto /home/ugur/Desktop/Project3/muscle/RV50/BBS50014.msf 0.834 0.550
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV50/BBS50015.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV50/BBS50015.msf
+
+	SP score= 0.680
+
+	TC score= 0.110
+auto /home/ugur/Desktop/Project3/muscle/RV50/BBS50015.msf 0.680 0.110
+Using GCG format reference alignment
+
+Comparing test alignment in /home/ugur/Desktop/Project3/muscle/RV50/BBS50016.msf
+with reference alignment in /home/ugur/Desktop/Project3/bb3_release/RV50/BBS50016.msf
+
+	SP score= 0.781
+
+	TC score= 0.430
+auto /home/ugur/Desktop/Project3/muscle/RV50/BBS50016.msf 0.781 0.430

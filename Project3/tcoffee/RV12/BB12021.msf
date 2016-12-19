@@ -1,0 +1,32 @@
+PileUp
+
+
+
+   MSF:   91  Type: P    Check:  5996   .. 
+
+ Name: 1hpi_ oo  Len:   91  Check:  7524  Weight:  1.000
+ Name: 1hip_ oo  Len:   91  Check:   991  Weight:  1.000
+ Name: 2hip_A oo  Len:   91  Check:  6077  Weight:  1.000
+ Name: 1hlq_A oo  Len:   91  Check:   694  Weight:  1.000
+ Name: HPIS_THIPF oo  Len:   91  Check:  5287  Weight:  1.000
+ Name: HPIS_PARSP oo  Len:   91  Check:  5423  Weight:  1.000
+
+//
+
+
+
+1hpi_           MER...LSED DPAAQALEYR HDASSV.... .QHPA..... YEEGQTCLNC 
+1hip_           SAPANAVAAD NATAIALKYN QDATKSERVA AARPG....L PPEEQHCADC 
+2hip_A          EPR....... AEDGHAHDYV NEAADAS... .GHPR..... YQEGQLCENC 
+1hlq_A          AAPL..VAET DANAKSLGYV ADTTKADKT. .KYPK..... HTKDQSCSTC 
+HPIS_THIPF      EDLPHVDAAT NPIAQSLHYI EDANASER.. ..NPVTKTEL PGSEQFCHNC 
+HPIS_PARSP      QDLPP.LDPS AEQAQALNYV KDTAEAA... .DHPA..... HQEGEQCDNC 
+
+
+1hpi_           LLYTDAS... AQDWGPCS.. VFPGKLVSAN GWCTAWVA.. R
+1hip_           QFMQADAAGA TDEWKGCQ.. LFPGKLINVN GWCASWTLKA G
+2hip_A          AFWGEAV... QDGWGRCTHP DFDEVLVKAE GWCSVYAPA. S
+1hlq_A          ALYQGKT... .APQGACP.. LFAGKEVVAK GWCSAWAKK. A
+HPIS_THIPF      SFIQADS... .GAWRPCT.. LYPGYTVSED GWCLSWAHKT A
+HPIS_PARSP      MFFQADS... ....QGCQ.. LFPQNSVEPA GWCQSWTAQ. N
+

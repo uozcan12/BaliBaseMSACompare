@@ -10,7 +10,7 @@
 6- Run the "testBali.sh" file. (sh testBali.sh). This sh file creates bali_score file in clustalw, muscle and tcoffee folder. This script run "bali_score" file at the background.<br/>
 7- Get the results on Terminal<br/>   	
 
-## sample terminal codes
+## Sample terminal codes
 
 t_coffee /home/aslihan/Documents/Project3/bb3_release/RV11/BB11005.tfa -output=clustalw,msf
 <br/><br/>

@@ -1,7 +1,6 @@
 # BaliBaseMSACompare
 
 ## Steps to run project files
-##===========================
 
 1- Download the "Project3.zip" to your PC.<br/>
 2- Extract the zip file to Desktop and see "Project3" folder.<br/>
@@ -12,7 +11,6 @@
 7- Get the results on Terminal<br/>   	
 
 ## sample terminal codes
-##=====================
 
 t_coffee /home/aslihan/Documents/Project3/bb3_release/RV11/BB11005.tfa -output=clustalw,msf
 <br/><br/>

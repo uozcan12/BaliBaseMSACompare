@@ -22,3 +22,4 @@ muscle -in /home/aslihan/Documents/Project3/bb3_release/RV11/BB11005.tfa -out /h
 <br/>
 ## Project Result
 ![bali-result](https://cloud.githubusercontent.com/assets/10771038/21924180/9c4dcf40-d980-11e6-9838-402cf9582585.png)
+
